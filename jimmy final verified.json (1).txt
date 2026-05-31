@@ -1,0 +1,135 @@
+﻿jimmy final verified
+
+
+{
+  "client_name": "Jimmy / Jim S",
+  "data_status": "Verified Unified Master Dataset (Majority Consensus)",
+  "birth_data": {
+    "date": "April 10, 1974",
+    "time_local": "7:02 p.m. (19:02)",
+    "time_universal": "23:02 UT",
+    "location": "Bellaire, OH (US)",
+    "coordinates": "80°45' W, 40°01' N",
+    "julian_day": "2442148.460240",
+    "sidereal_time": "6:54:10",
+    "house_system": "Placidus",
+    "chart_sect": "Nocturnal (Night Chart)",
+    "chart_ruler": "Venus (in Pisces 4°24', H5)",
+    "final_dispositor": "Jupiter (in Pisces 7°26', H5)"
+  },
+  "angular_points_placidus": {
+    "Ascendant (AC)": "Libra 10°48'41\"",
+    "Descendant (DC)": "Aries 10°48'41\"",
+    "Midheaven (MC)": "Cancer 15°35'19\"",
+    "Imum_Coeli (IC)": "Capricorn 15°35'19\""
+  },
+  "planetary_positions_and_attributes_verified": [
+    {
+      "Body": "Sun",
+      "Longitude": "20°41'22\" Aries",
+      "House": 7,
+      "Dignity": "Exaltation"
+    },
+    {
+      "Body": "Moon",
+      "Longitude": "10°13'49\" Sagittarius",
+      "House": 3,
+      "Dignity": "Peregrine"
+    },
+    {
+      "Body": "Mercury",
+      "Longitude": "28°55'11\" Pisces",
+      "House": 6,
+      "Dignity": "Fall / Detriment"
+    },
+    {
+      "Body": "Venus",
+      "Longitude": "4°24'45\" Pisces",
+      "House": 5,
+      "Dignity": "Exaltation"
+    },
+    {
+      "Body": "Mars",
+      "Longitude": "24°26'09\" Gemini",
+      "House": 9,
+      "Dignity": "Peregrine"
+    },
+    {
+      "Body": "Jupiter",
+      "Longitude": "7°26'40\" Pisces",
+      "House": 5,
+      "Dignity": "Domicile"
+    },
+    {
+      "Body": "Saturn",
+      "Longitude": "29°22'37\"R Cancer",
+      "House": 9,
+      "Dignity": "Peregrine",
+      "Retrograde": true
+    },
+    {
+      "Body": "Uranus",
+      "Longitude": "25°58'25\"R Libra",
+      "House": 1,
+      "Dignity": "Peregrine",
+      "Retrograde": true
+    },
+    {
+      "Body": "Neptune",
+      "Longitude": "9°24'17\"R Sagittarius",
+      "House": 3,
+      "Dignity": "Peregrine",
+      "Retrograde": true
+    },
+    {
+      "Body": "Pluto",
+      "Longitude": "5°03'06\"R Libra",
+      "House": 12,
+      "Dignity": "Peregrine",
+      "Retrograde": true
+    },
+    {
+      "Body": "True Node (NN)",
+      "Longitude": "21°06'31\"R Sagittarius",
+      "House": 3,
+      "Retrograde": true
+    },
+    {
+      "Body": "Chiron",
+      "Longitude": "17°45'43\" Aries",
+      "House": 7,
+      "Retrograde": false
+    },
+    {
+      "Body": "Part of Fortune",
+      "Longitude": "Cancer 0°21' (H8)"
+    },
+    {
+      "Body": "Vertex",
+      "Longitude": "Aries 29°14' (H7)"
+    }
+  ],
+  "key_house_cusps_placidus": [
+    {
+      "Cusp": 1,
+      "Longitude": "10°48'41\" Libra"
+    },
+    {
+      "Cusp": 4,
+      "Longitude": "15°35'19\" Capricorn"
+    },
+    {
+      "Cusp": 7,
+      "Longitude": "10°48'41\" Aries"
+    },
+    {
+      "Cusp": 10,
+      "Longitude": "15°35'19\" Cancer"
+    }
+  ],
+  "chart_synthesis_key_metrics": {
+    "dominant_sign": "Pisces (18.60% Total Power)",
+    "dominant_house": "5th House (21.77% Total Power)",
+    "karmic_mandate": "Transition from intellectual dogma (SN in Gemini H9) to expansive, philosophical communication based on emotional truth (NN in Sagittarius H3)."
+  }
+}

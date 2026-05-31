@@ -1,0 +1,448 @@
+﻿{
+  "astrological_framework": {
+    "name": "Arroyo-Based Western Astrology Interpretation Framework",
+    "version": "2.0",
+    "foundation": "Stephen Arroyo's Chart Interpretation Handbook with integrated traditional dignity system",
+    "core_philosophy": "Astrology as a language of energy focusing on inner experience and psychological dynamics",
+    "structure": {
+      "phase_1": "Chart Delineation - Objective Data Collection",
+      "phase_2": "Thematic Interpretation - Energy Analysis",
+      "phase_3": "Synthesis & Strength Assessment - Holistic Integration"
+    },
+    "phases": {
+      "phase_1_delineation": {
+        "purpose": "Objective recording of all primary chart data without interpretation",
+        "required_data": {
+          "birth_data": ["date", "time", "location", "timezone", "daylight_saving_status"],
+          "calculated_points": {
+            "planets": ["Sun", "Moon", "Mercury", "Venus", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"],
+            "angles": ["Ascendant", "Descendant", "Midheaven", "Imum Coeli"],
+            "lunar_nodes": ["North Node", "South Node"],
+            "house_system": "Placidus (default) or specified alternative"
+          },
+          "recording_format": {
+            "planetary_positions": ["sign", "degree", "minute", "house", "retrograde_status"],
+            "aspects": ["planets_involved", "aspect_type", "exact_degree", "orb"],
+            "special_configurations": ["stelliums", "mutual_receptions", "interceptions", "singletons"]
+          }
+        },
+        "data_collection_sequence": [
+          "Calculate natal chart via reliable ephemeris or software",
+          "Record Ascendant and Midheaven signs and degrees",
+          "Record planetary positions in signs and houses",
+          "Identify major aspects between planets (conjunction, sextile, square, trine, opposition)",
+          "Note any planets in angular houses (1st, 4th, 7th, 10th)",
+          "Check for stelliums (3+ planets in one sign or house)",
+          "Document dispositor chains and final dispositors"
+        ]
+      },
+      "phase_2_interpretation": {
+        "purpose": "Apply Arroyo's energy-based principles to identify life themes and psychological patterns",
+        "core_definitions": {
+          "elements": {
+            "Fire": {
+              "key_concept": "Radiant energy, confidence, & initiative",
+              "psychological_quality": "Identity, enthusiasm, faith, self-expression",
+              "signs": ["Aries", "Leo", "Sagittarius"],
+              "houses_trinity": ["1st", "5th", "9th"],
+              "energy_flow": "Active, self-expressive, outwardly projected"
+            },
+            "Earth": {
+              "key_concept": "Practical ability to utilize the material world",
+              "psychological_quality": "Material security, productivity, tangible results",
+              "signs": ["Taurus", "Virgo", "Capricorn"],
+              "houses_trinity": ["2nd", "6th", "10th"],
+              "energy_flow": "Passive, receptive, self-containing"
+            },
+            "Air": {
+              "key_concept": "Mental sensation, perception, & expression",
+              "psychological_quality": "Social connection, intellectual exchange, concepts",
+              "signs": ["Gemini", "Libra", "Aquarius"],
+              "houses_trinity": ["3rd", "7th", "11th"],
+              "energy_flow": "Active, self-expressive, outwardly projected"
+            },
+            "Water": {
+              "key_concept": "Deep emotion, empathy & feeling response",
+              "psychological_quality": "Emotional security, soul connection, intuition",
+              "signs": ["Cancer", "Scorpio", "Pisces"],
+              "houses_trinity": ["4th", "8th", "12th"],
+              "energy_flow": "Passive, receptive, self-containing"
+            }
+          },
+          "sign_modalities": {
+            "Cardinal": {
+              "energy_pattern": "Initiating, action-oriented, leadership",
+              "signs": ["Aries", "Cancer", "Libra", "Capricorn"]
+            },
+            "Fixed": {
+              "energy_pattern": "Sustaining, consolidating, persistent",
+              "signs": ["Taurus", "Leo", "Scorpio", "Aquarius"]
+            },
+            "Mutable": {
+              "energy_pattern": "Adapting, flexible, communicative",
+              "signs": ["Gemini", "Virgo", "Sagittarius", "Pisces"]
+            }
+          },
+          "planetary_principles": {
+            "Sun": {
+              "core_meaning": "Vitality; sense of individuality; creative energy; radiant inner self; essential values",
+              "urge": "To be and to create",
+              "need": "To be recognized and to express self",
+              "positive_expression": "Radiation of spirit; creative and loving pouring forth of self",
+              "negative_expression": "Pride; arrogance; excessive desire to be special",
+              "elemental_recharge": {
+                "Fire": "Through vigorous activity and pursuing new visions",
+                "Earth": "Through working with physical world and feeding senses",
+                "Air": "Through social involvement and intellectual stimulation",
+                "Water": "Through intense emotional experience and intimate involvement"
+              }
+            },
+            "Moon": {
+              "core_meaning": "Reaction; sub-conscious predisposition; feeling about self (self-image); conditioned responses",
+              "urge": "To feel inner support; domestic and emotional security urge",
+              "need": "For emotional tranquility and sense of belonging; to feel right about self",
+              "positive_expression": "Responsiveness; inner contentment; flowing, adaptable sense of self",
+              "negative_expression": "Oversensitivity; insecurity; inaccurate, inhibiting sense of self",
+              "elemental_comfort": {
+                "Fire": "When expressing confidence and strength",
+                "Earth": "When being productive and working toward goals",
+                "Air": "When expressing ideas and interacting socially",
+                "Water": "When feelings are deeply involved"
+              }
+            },
+            "Mercury": {
+              "core_meaning": "Communication; conscious mind (logical or rational mind)",
+              "urge": "To express one's perceptions and intelligence through skill or speech",
+              "need": "To establish connections with others; to learn",
+              "positive_expression": "Creative use of skill or intelligence; reason and power of discrimination used to serve higher ideals",
+              "negative_expression": "Misuse of skill or intelligence; amorality through rationalization",
+              "elemental_thought_style": {
+                "Fire": "Thoughts influenced by aspirations, beliefs, hopes, and future visions",
+                "Earth": "Thoughts influenced by practical considerations and traditional attitudes",
+                "Air": "Thoughts as real things influenced by abstract ideals and social considerations",
+                "Water": "Thoughts influenced by deep feelings and yearnings"
+              }
+            },
+            "Venus": {
+              "core_meaning": "Emotionally-colored tastes; values; exchange of energy with others",
+              "urge": "Social and love urge; urge to express affections; urge for pleasure",
+              "need": "To feel close to another; to feel comfort and harmony; to give of self's emotions",
+              "positive_expression": "Love; give and take with others; sharing; generosity of spirit",
+              "negative_expression": "Self-indulgence; greed; emotional demands; inhibition of affections",
+              "gender_differences": {
+                "for_women": "Associated with female ego; how she gives and receives in love and sex",
+                "for_men": "Associated with romantic ideals and aesthetic attraction; type of woman that turns on feelings"
+              }
+            },
+            "Mars": {
+              "core_meaning": "Will toward action; initiative; physical energy; drive",
+              "urge": "Self-expressive and aggressive urge; urge to act decisively",
+              "need": "To achieve desires; need for physical and sexual excitement",
+              "positive_expression": "Courage; initiative; will-power consciously directed toward legitimate aim",
+              "negative_expression": "Impatience; willfulness; violence; improper use of force or threats",
+              "assertion_method_by_element": {
+                "Fire": "Direct physical action, initiative, outgoing radiation",
+                "Earth": "Concrete achievement requiring patience and persistence",
+                "Air": "Expression of ideas, active communication, energetic imagination",
+                "Water": "Emotional subtlety and persistence, appealing to deeper feelings"
+              }
+            },
+            "Jupiter": {
+              "core_meaning": "Expansion; grace; faith; optimism",
+              "urge": "Toward a larger order or to connect self with something greater than self",
+              "need": "For faith, trust, and confidence in life and self; to improve self",
+              "positive_expression": "Faith; reliance on higher power or greater plan; openness to grace, optimism",
+              "negative_expression": "Over-confidence; laziness; scattering energy; leaving the work to others",
+              "significance": "Guides future growth and development; sign often pervades personality as highly developed trait"
+            },
+            "Saturn": {
+              "core_meaning": "Contraction; effort; discipline; structure",
+              "urge": "To defend self's structure and integrity; toward safety and security through tangible achievement",
+              "need": "For social approval; to rely on one's own resources and work",
+              "positive_expression": "Disciplined effort; acceptance of duties and responsibilities; patience; organization; reliability",
+              "negative_expression": "Self-restriction through too much reliance on self and lack of faith; rigidity; coldness; defensiveness"
+            },
+            "Uranus": {
+              "core_meaning": "Individualistic freedom; freedom of ego-self; originality",
+              "urge": "Toward differentiation, originality, and independence from tradition",
+              "need": "For change, excitement and expression without restraint",
+              "positive_expression": "Attunement to truth; originality; inventiveness; directed experimentation; respect for freedom",
+              "negative_expression": "Willfulness; restless impatience; constant need for excitement and purposeless change; rebellion; extremism"
+            },
+            "Neptune": {
+              "core_meaning": "Transcendent freedom; unification; freedom from ego-self",
+              "urge": "To escape from the limitations of one's self and of the material world",
+              "need": "To experience a oneness with life, a complete merger with the whole",
+              "positive_expression": "Attunement with the whole; realization of spiritual dimension of experience; all-encompassing compassion; living an ideal",
+              "negative_expression": "Self-destructive escapism; evasion of responsibilities and self's deepest needs; refusal to face one's motives"
+            },
+            "Pluto": {
+              "core_meaning": "Transformation; transmutation; elimination; rebirth",
+              "urge": "Toward total rebirth; to penetrate to the core of experience",
+              "need": "To refine self; to let go of the old through pain",
+              "positive_expression": "Acceptance of the need to focus one's mind and will power on one's own transformation; courage to face deepest desires",
+              "negative_expression": "Compulsive expression of subconscious craving; willful manipulation of others; ruthlessly using any means to avoid pain"
+            }
+          },
+          "houses_framework": {
+            "angular_houses": ["1st", "4th", "7th", "10th"],
+            "succedent_houses": ["2nd", "5th", "8th", "11th"],
+            "cadent_houses": ["3rd", "6th", "9th", "12th"],
+            "house_trinities": {
+              "fire_trinity": {
+                "houses": ["1st", "5th", "9th"],
+                "theme": "Identity, creativity, belief systems",
+                "key_question": "Who am I and what do I believe?"
+              },
+              "earth_trinity": {
+                "houses": ["2nd", "6th", "10th"],
+                "theme": "Resources, work, vocation",
+                "key_question": "What can I do and build in the world?"
+              },
+              "air_trinity": {
+                "houses": ["3rd", "7th", "11th"],
+                "theme": "Communication, partnership, community",
+                "key_question": "How do I connect and relate?"
+              },
+              "water_trinity": {
+                "houses": ["4th", "8th", "12th"],
+                "theme": "Roots, transformation, subconscious",
+                "key_question": "What lies beneath the surface?"
+              }
+            }
+          },
+          "aspect_dynamics": {
+            "harmonious_aspects": ["trine", "sextile"],
+            "dynamic_aspects": ["square", "opposition", "quincunx"],
+            "conjunction": "Variable - can be harmonious or challenging depending on planets involved",
+            "interpretation_law": "Planets in signs represent urges and needs; aspects reveal the state of energy flow and effort needed to express urges or fulfill needs"
+          }
+        },
+        "interpretation_workflow": {
+          "step_1_elemental_balance": {
+            "process": "Count planets in each element (Fire, Earth, Air, Water)",
+            "interpretation_guidelines": {
+              "dominant_element": "Shows natural orientation and abundant energy type",
+              "weak_element": "Shows underdeveloped area requiring conscious attention",
+              "balanced_chart": "2-4 planets per element indicates versatility",
+              "missing_element": "Life area that feels unfamiliar or challenging"
+            }
+          },
+          "step_2_modality_analysis": {
+            "process": "Count planets in each modality (Cardinal, Fixed, Mutable)",
+            "interpretation_guidelines": {
+              "cardinal_dominant": "Initiating energy, leadership orientation",
+              "fixed_dominant": "Sustaining energy, persistence orientation",
+              "mutable_dominant": "Adapting energy, flexibility orientation"
+            }
+          },
+          "step_3_planetary_placements": {
+            "process": "For each planet, analyze sign + house + aspects",
+            "template": "With [Planet] in [Sign] in the [Number] house, you tend to [sign quality] when it comes to [planet function], especially in areas of [house themes]. The [aspect] to [other planet] affects this by [aspect effect]."
+          },
+          "step_4_ascendant_analysis": {
+            "process": "Analyze Rising Sign, its ruler, and aspects to Ascendant",
+            "key_concepts": {
+              "rising_sign": "Approach to life, 'mask' or image, spontaneous energy",
+              "ruling_planet": "Sign and house position colors entire life approach",
+              "ascendant_aspects": "Planets conjunct/square/opposite Ascendant modify personality expression"
+            }
+          },
+          "step_5_midheaven_vocation": {
+            "process": "Analyze MC sign, its ruler, and 10th house planets",
+            "key_concepts": {
+              "mc_sign": "Vocational style, public role qualities",
+              "ruling_planet_house": "Life area connected to calling",
+              "10th_house_planets": "Ways of seeking recognition and contribution"
+            }
+          },
+          "step_6_aspect_patterns": {
+            "process": "Identify major aspect patterns (T-squares, Grand Trines, etc.)",
+            "guidelines": {
+              "focus_on_planets": "Planets involved matter more than pattern type",
+              "personal_planet_focus": "Patterns involving personal planets are more immediately impactful",
+              "empty_leg_analysis": "For T-squares, focus on the missing element/sign"
+            }
+          }
+        },
+        "interpretation_templates": {
+          "planet_in_sign": "With [Planet] in [Sign], you tend to [sign quality] when it comes to [planet function]. This shows in your [example of expression].",
+          "planet_in_house": "In your [Number] house, which deals with [house themes], you have [Planet]. This suggests you experience [planet's dimension] most immediately in areas of [house topics].",
+          "aspect_interpretation": "The [aspect] between [Planet1] and [Planet2] creates [energy dynamic]. You may find your [planet1 function] and [planet2 function] [interact in this way].",
+          "synthesis_statement": "Looking at your chart as a whole, there's a strong theme of [theme]. This appears in [example1], [example2], and [example3]. How does this resonate?"
+        }
+      },
+      "phase_3_synthesis": {
+        "purpose": "Integrate all factors, calculate planetary strength, and identify dominant life themes",
+        "synthesis_methods": {
+          "repeating_patterns": {
+            "method": "Identify multiple expressions of same energy",
+            "examples": [
+              "Stellium (3+ planets in one sign/house)",
+              "Multiple planets in same element",
+              "Same planetary combination repeated (e.g., Mars-Pluto connections)",
+              "Astrological alphabet links (sign-planet-house correlations)"
+            ]
+          },
+          "dispositor_tree": {
+            "method": "Follow chain of planetary rulerships to find final dispositor",
+            "process": [
+              "Start with Sun's sign ruler",
+              "Follow chain: each planet's sign ruler becomes next link",
+              "Final planet (in its own sign or mutual reception) is chart focal point"
+            ]
+          },
+          "hemisphere_emphasis": {
+            "eastern_hemisphere": "Houses 1-6: Self-oriented, personal initiative",
+            "western_hemisphere": "Houses 7-12: Other-oriented, relationship-focused",
+            "northern_hemisphere": "Houses 4-9: Subjective, internal focus",
+            "southern_hemisphere": "Houses 10-3: Objective, external focus"
+          },
+          "quadrant_emphasis": {
+            "1st_quadrant": "Houses 1-3: Personal identity development",
+            "2nd_quadrant": "Houses 4-6: Resources and skills development",
+            "3rd_quadrant": "Houses 7-9: Relationship and belief development",
+            "4th_quadrant": "Houses 10-12: Social contribution and transcendence"
+          }
+        },
+        "planetary_strength_calculation": {
+          "purpose": "Identify most influential planets via traditional dignity system",
+          "scoring_range": "-5 to +5 for each planet",
+          "essential_dignity": {
+            "rulership": {
+              "score": "+5",
+              "condition": "Planet in sign it rules (e.g., Mars in Aries)",
+              "effect": "Planet expresses its nature most purely and powerfully"
+            },
+            "exaltation": {
+              "score": "+4",
+              "condition": "Planet in its exaltation sign (e.g., Sun in Aries)",
+              "effect": "Planet's expression is honored and elevated"
+            },
+            "triplicity": {
+              "score": "+3",
+              "condition": "Planet in sign of compatible element (by day/night sect)",
+              "effect": "Planet operates comfortably with supportive energy"
+            },
+            "term": {
+              "score": "+2",
+              "condition": "Planet within its assigned degrees in a sign",
+              "effect": "Planet has moderate supportive conditions"
+            },
+            "face": {
+              "score": "+1",
+              "condition": "Planet within its decan (10-degree segment)",
+              "effect": "Planet has minor supportive conditions"
+            },
+            "detriment": {
+              "score": "-5",
+              "condition": "Planet in sign opposite its rulership (e.g., Mars in Libra)",
+              "effect": "Planet struggles to express its nature directly"
+            },
+            "fall": {
+              "score": "-4",
+              "condition": "Planet in sign opposite its exaltation (e.g., Sun in Libra)",
+              "effect": "Planet's expression feels awkward or dishonored"
+            }
+          },
+          "accidental_dignity": {
+            "angular_house": {
+              "score": "+2",
+              "condition": "Planet in 1st, 4th, 7th, or 10th house",
+              "effect": "Planet is powerfully placed for direct expression"
+            },
+            "succedent_house": {
+              "score": "+1",
+              "condition": "Planet in 2nd, 5th, 8th, or 11th house",
+              "effect": "Planet has steady, consistent influence"
+            },
+            "cadent_house": {
+              "score": "0",
+              "condition": "Planet in 3rd, 6th, 9th, or 12th house",
+              "effect": "Planet's influence is more subtle or internalized"
+            },
+            "conjunct_angle": {
+              "score": "+3",
+              "condition": "Planet conjunct Ascendant, Descendant, MC, or IC (within 5°)",
+              "effect": "Planet is dominant feature of personality or destiny"
+            },
+            "many_close_aspects": {
+              "score": "+2",
+              "condition": "Planet makes 3+ major aspects with tight orbs (≤3°)",
+              "effect": "Planet is highly activated and central to chart dynamics"
+            },
+            "retrograde": {
+              "score": "-1",
+              "condition": "Planet is retrograde at birth",
+              "effect": "Planet's energy is internalized, expressed more subjectively"
+            },
+            "combust": {
+              "score": "-2",
+              "condition": "Planet within 3° of Sun (varies by source)",
+              "effect": "Planet's energy may be overshadowed by conscious will"
+            },
+            "cazimi": {
+              "score": "+5",
+              "condition": "Planet within 0°17' of Sun",
+              "effect": "Planet is 'in the heart of the Sun', exceptionally empowered"
+            }
+          },
+          "calculation_process": [
+            "For each planet, calculate essential dignity score based on sign position",
+            "Add accidental dignity points based on house position and conditions",
+            "Sum scores to get total planetary strength (-5 to +10 possible range)",
+            "Identify strongest planet(s) as focal points of chart energy"
+          ]
+        },
+        "final_synthesis_workflow": {
+          "step_1_identify_dominant_energy": {
+            "process": "Note strongest element and strongest planet",
+            "guideline": "These represent primary fuel and primary actor in life narrative"
+          },
+          "step_2_map_major_themes": {
+            "process": "List 3-5 recurring themes from interpretation phase",
+            "guideline": "Focus on themes confirmed by multiple chart factors"
+          },
+          "step_3_integrate_challenges": {
+            "process": "Frame hard aspects as growth opportunities",
+            "guideline": "Dynamic aspects show where effort yields greatest development"
+          },
+          "step_4_connect_to_life_areas": {
+            "process": "Link themes to relevant house areas",
+            "guideline": "Show where energies manifest in practical life"
+          },
+          "step_5_formulate_narrative": {
+            "process": "Create cohesive story integrating all elements",
+            "template": "Your chart shows a strong [element] emphasis with [planet] as a focal point. Central themes include [theme1], [theme2], and [theme3]. Your growth path involves [challenge from hard aspects], and your natural strengths shine in [area from harmonious aspects]."
+          }
+        }
+      }
+    },
+    "ethical_guidelines": {
+      "presentation": "Use 'may', 'can', 'often' rather than absolutes",
+      "focus": "On potential and energy dynamics, not fixed fate",
+      "client_autonomy": "Respect client's interpretation and application",
+      "limits": "Know when to refer to other professionals",
+      "confidentiality": "Maintain strict client confidentiality"
+    },
+    "common_pitfalls": [
+      "Overwhelming with details (focus on 3-5 major themes)",
+      "Negative framing (present challenges as growth opportunities)",
+      "Ignoring client feedback (use dialogue, not monologue)",
+      "Cookbook interpretations (tailor to individual)",
+      "Overemphasis on Sun sign (balance with Moon and Ascendant)",
+      "Technical language (use plain, experiential language)",
+      "Prediction temptation (focus on energy, not events)"
+    ],
+    "arroyo_wisdom_summary": [
+      "Astrology is a language of energy - learn to speak it fluently",
+      "Focus on essentials - ignore minor factors that confuse rather than clarify",
+      "Prioritize inner experience - charts show psychological dynamics more than events",
+      "Use guidelines, not rules - adapt to each unique person",
+      "Think wholistically - synthesis is more valuable than analysis",
+      "Engage in dialogue - astrology is interactive, not prescriptive",
+      "Develop yourself - your clarity as interpreter matters as much as your knowledge",
+      "Respect the mystery - life always transcends any system"
+    ]
+  }
+}

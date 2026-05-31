@@ -1,0 +1,313 @@
+﻿Jimmy continuation of the Unified Master Chart JSON
+
+
+Here’s the continuation of the Unified Master Chart JSON, finishing out the remaining celestial bodies and ensuring the dataset is complete:
+
+
+`json
+    "Saturn": {
+      "SignDegree": "Libra 29°22′",
+      "Sign": "Libra",
+      "House": 9,
+      "Speed": "+4′",
+      "Retrograde": "Direct",
+      "Latitude": "0°45′ S",
+      "Declination": "+22°41′ N",
+      "Mode": "Cardinal",
+      "Sect": "Nocturnal",
+      "Duad": "Pisces",
+      "Decan/Face": "Libra decan 3 (face Jupiter)",
+      "EgyptianTerm": "Saturn",
+      "SignRuler": "Venus",
+      "EssentialDignity": "Exaltation",
+      "Dispositor": "Venus",
+      "HouseRulerInHouse": "Rules H4 Capricorn → Saturn in H9 Libra; H5 Aquarius → Saturn in H9",
+      "Triplicity": "Air triplicity (Day Saturn)",
+      "Combust": "No",
+      "Cazimi": "No",
+      "UnderBeams": "No",
+      "FixedStarLinks": "Markab (Latter), Saturn+Pluto (Prime)",
+      "ArabicPartLinks": "Nemesis (Pisces ~11°47′)",
+      "AspectLinks": "Sq Sun, Trine Mars, Quincunx Moon, Quint Venus"
+    },
+    "Uranus": {
+      "SignDegree": "Scorpio 25°58′",
+      "Sign": "Scorpio",
+      "House": 1,
+      "Speed": "−2′",
+      "Retrograde": "Retrograde",
+      "Latitude": "0°37′ N",
+      "Declination": "−9°28′ S",
+      "Mode": "Fixed",
+      "Sect": "Diurnal",
+      "Duad": "Cancer",
+      "Decan/Face": "Scorpio decan 3 (face Venus)",
+      "EgyptianTerm": "Mars",
+      "SignRuler": "Mars",
+      "EssentialDignity": "Peregrine",
+      "Dispositor": "Mars",
+      "HouseRulerInHouse": "Rules H8 Taurus (modern) → Venus disposits",
+      "Triplicity": "Water triplicity (Night Mars)",
+      "Combust": "No",
+      "Cazimi": "No",
+      "UnderBeams": "No",
+      "FixedStarLinks": "Al Rescha (Latter), Altair (Youth)",
+      "ArabicPartLinks": "",
+      "AspectLinks": "Opp Sun, Conj Asc, Opp Desc, Quint Sun"
+    },
+    "Neptune": {
+      "SignDegree": "Sagittarius 9°22′",
+      "Sign": "Sagittarius",
+      "House": 3,
+      "Speed": "−53″",
+      "Retrograde": "Retrograde",
+      "Latitude": "1°38′ N",
+      "Declination": "−20°15′ S",
+      "Mode": "Mutable",
+      "Sect": "Diurnal",
+      "Duad": "Aquarius",
+      "Decan/Face": "Sagittarius decan 1 (face Jupiter)",
+      "EgyptianTerm": "Jupiter",
+      "SignRuler": "Jupiter",
+      "EssentialDignity": "Peregrine",
+      "Dispositor": "Jupiter",
+      "HouseRulerInHouse": "Rules H3 Sagittarius → Neptune in H3",
+      "Triplicity": "Fire triplicity (Day Sun)",
+      "Combust": "No",
+      "Cazimi": "No",
+      "UnderBeams": "No",
+      "FixedStarLinks": "Alderamin (Prime), Bellatrix & Sirius (Latter)",
+      "ArabicPartLinks": "",
+      "AspectLinks": "Sq Mercury, Sext Mars, Opp Mars, Biquint Jupiter"
+    },
+    "Pluto": {
+      "SignDegree": "Libra 5°03′",
+      "Sign": "Libra",
+      "House": 12,
+      "Speed": "−1′",
+      "Retrograde": "Retrograde",
+      "Latitude": "17°10′ N",
+      "Declination": "+13°43′ N",
+      "Mode": "Cardinal",
+      "Sect": "Diurnal",
+      "Duad": "Gemini",
+      "Decan/Face": "Libra decan 1 (face Venus)",
+      "EgyptianTerm": "Venus",
+      "SignRuler": "Venus",
+      "EssentialDignity": "Peregrine",
+      "Dispositor": "Venus",
+      "HouseRulerInHouse": "Rules H12 Virgo (modern) → Mercury disposits",
+      "Triplicity": "Air triplicity (Day Saturn)",
+      "Combust": "No",
+      "Cazimi": "No",
+      "UnderBeams": "No",
+      "FixedStarLinks": "Altair (Youth), Castor (Hearth)",
+      "ArabicPartLinks": "",
+      "AspectLinks": "Opp Moon, Sq Asc, Trine Jupiter, Sext Jupiter, Quint Mars"
+    },
+    "TrueNode": {
+      "SignDegree": "Sagittarius 21°06′",
+      "Sign": "Sagittarius",
+      "House": 3,
+      "Speed": "−1′",
+      "Retrograde": "Direct",
+      "Latitude": "0°00′",
+      "Declination": "−23°09′ S",
+      "Mode": "Mutable",
+      "Sect": "Diurnal",
+      "Duad": "Pisces",
+      "Decan/Face": "Sagittarius decan 3 (face Saturn)",
+      "EgyptianTerm": "Mars/Saturn",
+      "SignRuler": "Jupiter",
+      "EssentialDignity": "Point",
+      "Dispositor": "Jupiter",
+      "HouseRulerInHouse": "Node axis H3 Sagittarius",
+      "Triplicity": "Fire triplicity (Day Sun)",
+      "Combust": "No",
+      "Cazimi": "No",
+      "UnderBeams": "No",
+      "FixedStarLinks": "Mars (Latter)",
+      "ArabicPartLinks": "",
+      "AspectLinks": "Sq Venus, Quincunx Mercury, Semi-sext Mars, Sesqui Mars"
+    },
+    "Lilith": {
+      "SignDegree": "Capricorn 26°26′",
+      "Sign": "Capricorn",
+      "House": 4,
+      "Speed": "+6′",
+      "Retrograde": "Direct",
+      "Latitude": "2°53′ N",
+      "Declination": "−18°03′ S",
+      "Mode": "Cardinal",
+      "Sect": "Nocturnal",
+      "Duad": "Pisces",
+      "Decan/Face": "Capricorn decan 3 (face Mercury)",
+      "EgyptianTerm": "Mars",
+      "SignRuler": "Saturn",
+      "EssentialDignity": "Point",
+      "Dispositor": "Saturn",
+      "HouseRulerInHouse": "Lilith in H4 Capricorn",
+      "Triplicity": "Earth triplicity (Day Venus)",
+      "Combust": "No",
+      "Cazimi": "No",
+      "UnderBeams": "No",
+      "FixedStarLinks": "Azha, Mirfak, Mautinah (Parans)",
+      "ArabicPartLinks": "",
+      "AspectLinks": ""
+    },
+    "Chiron": {
+      "SignDegree": "Aries 20°22′",
+      "Sign": "Aries",
+      "House": 7,
+      "Speed": "+6′",
+      "Retrograde": "Direct",
+      "Latitude": "0°00′",
+      "Declination": "+8°53′",
+      "Mode": "Cardinal",
+      "Sect": "Diurnal",
+      "Duad": "Gemini",
+      "Decan/Face": "Aries decan 3 (face Mars)",
+      "EgyptianTerm": "Jupiter",
+      "SignRuler": "Mars",
+      "EssentialDignity": "Point",
+      "Dispositor": "Mars",
+      "HouseRulerInHouse": "Chiron in H7 Aries",
+      "Triplicity": "Fire triplicity (Day Sun)",
+      "Combust": "No",
+      "Cazimi": "No",
+      "UnderBeams": "No",
+      "FixedStarLinks": "",
+      "ArabicPartLinks": "",
+      "AspectLinks": "Conj Sun, Quincunx Venus"
+    }
+  },
+  "heliacal_events": {
+    "Mercury": "Morning last: 4 May 1974",
+    "Arcturus": "Acronychal rising: 2 Apr 1974",
+    "Capella": "Morning first: 21 Apr 1974",
+    "Deneb": "Evening last: 26 Mar 1974",
+    "Fomalhaut": "Morning first: 12 Apr 1974",
+    "Hamal": "Morning first: 8 Apr 1974",
+    "Spica": "Acronychal rising: 13 Apr 1974"
+  },
+  "dispositors": {
+    "final_dispositor": "Jupiter in Pisces (5th house)",
+    "chains": {
+      "Sun": "Mars → Mercury → Jupiter",
+      "Moon": "Venus → Jupiter",
+      "Mercury": "Jupiter",
+      "Venus": "Moon → Jupiter",
+      "Mars": "Sun → Mars → Mercury → Jupiter",
+      "Saturn": "Venus → Jupiter",
+      "Uranus": "Mars → Mercury → Jupiter",
+      "Neptune": "Jupiter",
+      "Pluto": "Venus → Jupiter",
+      "TrueNode": "Jupiter",
+      "Lilith": "Saturn → Mercury → Jupiter",
+      "Chiron": "Mars → Mercury → Jupiter"
+    }
+  },
+  "aspects": {
+    "major": [
+      "Sun opposite Uranus",
+      "Moon square Sun",
+      "Mars conjunct Saturn",
+      "Venus conjunct Jupiter",
+      "Pluto square Ascendant"
+    ],
+    "minor": [
+      "Mercury sextile Pluto",
+      "Venus sextile Neptune",
+      "Mars sextile Uranus",
+      "Moon sextile Neptune"
+    ],
+    "harmonic": [
+      "Sun quintile Mars",
+      "Venus biquintile Pluto",
+      "Moon septile Uranus"
+    ]
+  },
+  "midpoints": {
+    "Sun/Moon": "Capricorn–Aquarius zone → tension between identity and emotions",
+    "Mars/Saturn": "Gemini 9th house → disciplined intellectual/spiritual pursuits",
+    "Venus/Jupiter": "Pisces 5th house → generosity, artistic abundance, romantic creativity"
+  },
+  "fixed_stars": {
+    "Moon": ["Antares (conj)", "Alniyat (conj)"],
+    "Uranus": ["Spica (conj)"],
+    "Pluto": ["Vindemiatrix (conj)"],
+    "Ascendant": ["Mufrid (conj)"],
+    "Sun": ["Kaht (conj)", "Spica (opp)"]
+  },
+  "parans": {
+    "Spica": "Rising with Uranus → originality, brilliance",
+    "Antares": "Moon rising → passion, intensity",
+    "Vindemiatrix": "Pluto rising → caution in hidden matters"
+  },
+  "dominants": {
+    "planetary": [
+      "Venus exalted in Pisces (chart ruler)",
+      "Jupiter domiciled in Pisces (final dispositor)",
+      "Sun exalted in Aries"
+    ],
+    "elemental": {
+      "fire": ["Sun Aries", "Moon Sagittarius", "Neptune Sagittarius"],
+      "water": ["Mercury Pisces", "Venus Pisces", "Jupiter Pisces"],
+      "air": ["Asc Libra", "Uranus Libra", "Pluto Libra", "Mars/Saturn Gemini"],
+      "earth": []
+    },
+    "modal": {
+      "cardinal": ["Sun Aries", "Asc Libra", "Pluto Libra", "Saturn Gemini cusp"],
+      "mutable": ["Moon Sagittarius", "Mercury Pisces", "Mars Gemini", "Neptune Sagittarius"],
+      "fixed": []
+    }
+  },
+  "hemisphere_quadrant": {
+    "hemispheres": {
+      "eastern": ["Uranus 1st", "Pluto 12th", "Moon/Neptune 3rd"],
+      "western": ["Sun 7th", "Venus/Jupiter 5th", "Mars/Saturn 9th"]
+    },
+    "quadrants": {
+      "1st": ["Uranus", "Pluto", "Isis", "Circe"],
+      "2nd": ["Osiris", "Proserpina"],
+      "3rd": ["Sun", "Venus", "Jupiter", "Kaali", "Cupido", "Sado"],
+      "4th": ["Mars", "Saturn", "Sappho"]
+    }
+  },
+  "cazimi_combust": {
+    "Mercury": "8° from Sun → outside combust range",
+    "Venus": "far from Sun → safe",
+    "Jupiter": "far from Sun → safe",
+    "cazimi": "none"
+  },
+  "heliacal_events": {
+    "Mercury": "Morning last: 4 May 1974",
+    "Arcturus": "Acronychal rising: 2 Apr 1974",
+    "Capella": "Morning first: 21 Apr 1974",
+    "Deneb": "Evening last: 26 Mar 1974",
+    "Fomalhaut": "Morning first: 12 Apr 1974",
+    "Hamal": "Morning first: 8 Apr 1974",
+    "Spica": "Acronychal rising: 13 Apr 1974"
+  },
+  "synthesis": {
+    "themes": [
+      "Creativity, romance, artistry (Venus/Jupiter in Pisces, 5th house)",
+      "Partnerships and independence tension (Sun in Aries 7th opposite Uranus in Libra 1st)",
+      "Intellectual discipline and restlessness (Mars/Saturn in Gemini 9th)",
+      "Mystical communication and emotional intensity (Moon/Neptune in Sagittarius 3rd)"
+    ],
+    "strengths": [
+      "Exalted Sun in Aries",
+      "Exalted Venus in Pisces",
+      "Domiciled Jupiter in Pisces"
+    ],
+    "challenges": [
+      "Mercury in Pisces (weak communication)",
+      "Mars/Saturn conjunction (frustration in higher learning)",
+      "Pluto in 12th (hidden crises)"
+    ],
+    "dominant_energy": "Fire + Water + Air balanced, Earth weak",
+    "final_dispositor": "Jupiter in Pisces → spiritual, artistic abundance is the core life driver",
+    "overall": "Jimmy’s chart is Jupiter-Venus dominated, emphasizing creativity, romance, artistry, and spiritual generosity. Earth is absent, suggesting grounding must be cultivated consciously."
+  }
+}

@@ -1,0 +1,601 @@
+﻿js data nat
+
+
+{
+    "client_name": "Jimmy",
+    "birth_data": {
+        "date": "April 10, 1974",
+        "time_local": "7:02 p.m.",
+        "time_universal": "23:02 UT",
+        "location": "Bellaire, OH (US)",
+        "coordinates": "80°45' W, 40°01' N",
+        "julian_day": "2442148.460240",
+        "sidereal_time": "6:54:10"
+    },
+    "natal_positions_full": [
+        {
+            "Body": "Sun",
+            "Longitude": "20°41'22\" Aries",
+            "House": 7,
+            "Speed": "58'52\"",
+            "Declination": "8°04'47\"N",
+            "Sign_Mode": "Cardinal",
+            "Sign_Triplicity": "Fire",
+            "Latitude": "0°00'00\" S"
+        },
+        {
+            "Body": "Moon",
+            "Longitude": "10°13'49\" Pisces",
+            "House": 3,
+            "Speed": "12°24'36\"",
+            "Declination": "22°56'24\"S",
+            "Sign_Mode": "Mutable",
+            "Sign_Triplicity": "Water",
+            "Latitude": "0°57'51\" S"
+        },
+        {
+            "Body": "Mercury",
+            "Longitude": "28°55'11\" Aries",
+            "House": 6,
+            "Speed": "1°34'54\"",
+            "Declination": "2°44'03\"S",
+            "Sign_Mode": "Cardinal",
+            "Sign_Triplicity": "Fire",
+            "Latitude": "2°30'43\" S"
+        },
+        {
+            "Body": "Venus",
+            "Longitude": "4°24'45\" Pisces",
+            "House": 5,
+            "Speed": "1°01'23\"",
+            "Declination": "9°25'36\"S",
+            "Sign_Mode": "Mutable",
+            "Sign_Triplicity": "Water",
+            "Latitude": "0°30'05\" N"
+        },
+        {
+            "Body": "Mars",
+            "Longitude": "24°26'09\" Gemini",
+            "House": 9,
+            "Speed": "35'26\"",
+            "Declination": "24°52'50\"N",
+            "Sign_Mode": "Mutable",
+            "Sign_Triplicity": "Air",
+            "Note": "Out-of-Bounds (OOB)",
+            "Latitude": "1°33'23\" N"
+        },
+        {
+            "Body": "Jupiter",
+            "Longitude": "7°26'40\" Pisces",
+            "House": 5,
+            "Speed": "12'21\"",
+            "Declination": "9°35'15\"S",
+            "Sign_Mode": "Mutable",
+            "Sign_Triplicity": "Water",
+            "Latitude": "0°52'21\" S"
+        },
+        {
+            "Body": "Saturn",
+            "Longitude": "29°22'37\"R Cancer",
+            "House": 9,
+            "Speed": "4'21\"",
+            "Declination": "22°41'31\"N",
+            "Sign_Mode": "Cardinal",
+            "Sign_Triplicity": "Water",
+            "Retrograde": true,
+            "Latitude": "0°44'57\" S"
+        },
+        {
+            "Body": "Uranus",
+            "Longitude": "25°58'25\"R Libra",
+            "House": 1,
+            "Speed": "-2'33\"",
+            "Declination": "9°27'58\"S",
+            "Sign_Mode": "Cardinal",
+            "Sign_Triplicity": "Air",
+            "Retrograde": true,
+            "Latitude": "0°36'33\" N"
+        },
+        {
+            "Body": "Neptune",
+            "Longitude": "9°22'45\"R Sagittarius",
+            "House": 3,
+            "Speed": "-55\"",
+            "Declination": "20°15'20\"S",
+            "Sign_Mode": "Mutable",
+            "Sign_Triplicity": "Fire",
+            "Retrograde": true,
+            "Latitude": "0°50'32\" S"
+        },
+        {
+            "Body": "Pluto",
+            "Longitude": "5°03'06\"R Virgo",
+            "House": 12,
+            "Speed": "-1'35\"",
+            "Declination": "13°43'31\"N",
+            "Sign_Mode": "Mutable",
+            "Sign_Triplicity": "Earth",
+            "Retrograde": true,
+            "Latitude": "13°43'31\" N"
+        },
+        {
+            "Body": "True Node",
+            "Longitude": "24°32'04\" Aries",
+            "House": 7,
+            "Speed": "-3'20\"",
+            "Declination": "0°00'00\" N/S",
+            "Latitude": "0°00'00\" N/S"
+        },
+        {
+            "Body": "Black Moon Lilith",
+            "Longitude": "26°26'33\" Cancer",
+            "House": 4
+        },
+        {
+            "Body": "Kaali (4227)",
+            "Longitude": "16°45'06\" Aries",
+            "House": 7,
+            "Speed": "25'38\"",
+            "Declination": "4°58'45\" N",
+            "Latitude": "1°44'15\" S"
+        },
+        {
+            "Body": "Eros (433)",
+            "Longitude": "7°18'09\" Taurus",
+            "House": 5,
+            "Speed": "33'58\"",
+            "Declination": "7°28'27\" S",
+            "Latitude": "1°27'37\" N"
+        },
+        {
+            "Body": "Pallas (2)",
+            "Longitude": "5°18'43\" Aquarius",
+            "House": 4,
+            "Speed": "13'50\"",
+            "Declination": "12°16'09\" N",
+            "Latitude": "32°55'04\" N"
+        },
+        {
+            "Body": "Juno (3)",
+            "Longitude": "24°55'14\" Aquarius",
+            "House": 5,
+            "Speed": "21'46\"",
+            "Declination": "5°53'52\" S",
+            "Latitude": "7°45'16\" N"
+        },
+        {
+            "Body": "Vesta (4)",
+            "Longitude": "8°15'19\"R Libra",
+            "House": 12,
+            "Speed": "-14'30\"",
+            "Declination": "8°23'28\" N",
+            "Latitude": "12°41'50\" N",
+            "Retrograde": true
+        },
+        {
+            "Body": "Pholus (5145)",
+            "Longitude": "9°13'07\" Pisces",
+            "House": 5,
+            "Speed": "2'26\"",
+            "Declination": "22°20'23\" S",
+            "Latitude": "15°25'32\" S"
+        },
+        {
+            "Body": "Circe (34)",
+            "Longitude": "6°21'54\"R Scorpio",
+            "House": 1,
+            "Speed": "-12'19\"",
+            "Declination": "9°58'53\" S",
+            "Latitude": "3°52'33\" N",
+            "Retrograde": true
+        },
+        {
+            "Body": "Cupido (763)",
+            "Longitude": "26°38'25\" Aries",
+            "House": 7,
+            "Speed": "36'43\"",
+            "Declination": "12°43'34\" N",
+            "Latitude": "2°37'48\" N"
+        },
+        {
+            "Body": "Pandora (55)",
+            "Longitude": "17°38'14\" Gemini",
+            "House": 9,
+            "Speed": "22'13\"",
+            "Declination": "29°03'10\" N",
+            "Latitude": "6°12'47\" N",
+            "Note": "Out-of-Bounds (OOB)"
+        },
+        {
+            "Body": "Pan (4450)",
+            "Longitude": "8°09'07\" Taurus",
+            "House": 8,
+            "Speed": "27'15\"",
+            "Declination": "17°51'27\" N",
+            "Latitude": "3°50'24\" N"
+        }
+    ],
+    "placidus_house_cusps": [
+        {
+            "Cusp": 1,
+            "Symbol": "AC",
+            "Longitude": "10°48'41\" Aries"
+        },
+        {
+            "Cusp": 4,
+            "Symbol": "IC",
+            "Longitude": "12°27'31\" Cancer"
+        },
+        {
+            "Cusp": 7,
+            "Symbol": "DC",
+            "Longitude": "10°48'41\" Libra"
+        },
+        {
+            "Cusp": 10,
+            "Symbol": "MC",
+            "Longitude": "12°27'31\" Capricorn"
+        },
+        {
+            "Cusp": 2,
+            "Symbol": "H2",
+            "Longitude": "7°46'52\" Taurus"
+        },
+        {
+            "Cusp": 3,
+            "Symbol": "H3",
+            "Longitude": "8°44'02\" Gemini"
+        },
+        {
+            "Cusp": 5,
+            "Symbol": "H5",
+            "Longitude": "15°45'28\" Leo"
+        },
+        {
+            "Cusp": 6,
+            "Symbol": "H6",
+            "Longitude": "15°35'19\" Virgo"
+        },
+        {
+            "Cusp": 8,
+            "Symbol": "H8",
+            "Longitude": "7°46'52\" Scorpio"
+        },
+        {
+            "Cusp": 9,
+            "Symbol": "H9",
+            "Longitude": "8°44'02\" Sagittarius"
+        },
+        {
+            "Cusp": 11,
+            "Symbol": "H11",
+            "Longitude": "15°45'28\" Aquarius"
+        },
+        {
+            "Cusp": 12,
+            "Symbol": "H12",
+            "Longitude": "15°35'19\" Pisces"
+        }
+    ],
+    "natal_aspects_tight_orb": [
+        {
+            "Body_1": "Mars",
+            "Body_2": "Pluto",
+            "Aspect": "Trine (△)",
+            "Orb": "0°23' separating",
+            "Type": "Ptolemaic"
+        },
+        {
+            "Body_1": "Sun",
+            "Body_2": "Uranus",
+            "Aspect": "Square (□)",
+            "Orb": "1°00' separating",
+            "Type": "Ptolemaic"
+        },
+        {
+            "Body_1": "Venus",
+            "Body_2": "Saturn",
+            "Aspect": "Square (□)",
+            "Orb": "2°00' applying",
+            "Type": "Ptolemaic"
+        },
+        {
+            "Body_1": "Jupiter",
+            "Body_2": "Neptune",
+            "Aspect": "Sextile (✶)",
+            "Orb": "2°04' applying",
+            "Type": "Ptolemaic"
+        }
+    ],
+    "arabic_parts_key": [
+        {
+            "Lot": "Part of Fortune",
+            "Formula": "AC + Sun - Moon",
+            "Longitude": "0°21'08\" Scorpio"
+        },
+        {
+            "Lot": "Part of Spirit",
+            "Formula": "AC + Moon - Sun",
+            "Longitude": "0°21'08\" Taurus"
+        },
+        {
+            "Lot": "Part of Office/Profession",
+            "Formula": "AC + Saturn - Mercury",
+            "Longitude": "23°49'12\" Gemini"
+        },
+        {
+            "Lot": "Part of Death",
+            "Formula": "Saturn + Cusp 8 - Moon",
+            "Longitude": "26°55'40\" Gemini"
+        },
+        {
+            "Lot": "Part of Lawsuits",
+            "Formula": "AC + Jupiter - Mars*",
+            "Longitude": "23°58'43\" Gemini"
+        },
+        {
+            "Lot": "Part of Marriage",
+            "Formula": "AC + Cusp 7 - Venus",
+            "Longitude": "15°50'48\" Aries"
+        },
+        {
+            "Lot": "Part of Retribution",
+            "Formula": "AC + Sun - Mars",
+            "Longitude": "6°19'38\" Gemini"
+        },
+        {
+            "Lot": "Part of Realisation of needs",
+            "Formula": "AC + Mercury - Fortune",
+            "Longitude": "16°37'45\" Gemini"
+        }
+    ],
+    "midpoint_planetary_pictures_d90": [
+        {
+            "Modulus_Point": "7°56'",
+            "Picture": "Pluto/AC = Eros/Osiris",
+            "Modulus": "90° (Harmonic 4)"
+        },
+        {
+            "Modulus_Point": "8°01'",
+            "Picture": "AC = Jupiter/Osiris",
+            "Modulus": "90° (Harmonic 4)"
+        },
+        {
+            "Modulus_Point": "18°44'",
+            "Picture": "Cupido/AC = Karma",
+            "Modulus": "90° (Harmonic 4)"
+        }
+    ],
+    "natal_to_progression_aspects_tight": [
+        {
+            "Natal_Body": "Venus",
+            "Progression_Body": "Sun (tr)",
+            "Aspect": "Conj/Opp",
+            "Orb": "0°00' applying",
+            "Significance": "Exact, Major Turning Point"
+        },
+        {
+            "Natal_Body": "Pluto",
+            "Progression_Body": "Node (tr)",
+            "Aspect": "Conj/Opp",
+            "Orb": "0°00' separating",
+            "Significance": "Exact, Karmic Transformation"
+        }
+    ],
+    "draconic_chart_data": [
+        {
+            "Planet/Point": "Draconic Node",
+            "Natal_Longitude": "24°32'04\" Aries",
+            "True_Node_Offset": "0°00'00\" Aries",
+            "Draconic_Longitude": "0°00'00\" Aries"
+        },
+        {
+            "Planet/Point": "Draconic Sun",
+            "Natal_Longitude": "20°41'22\" Aries",
+            "True_Node_Offset": "24°32'04\" Aries",
+            "Draconic_Longitude": "26°09'18\" Pisces"
+        },
+        {
+            "Planet/Point": "Draconic Moon",
+            "Natal_Longitude": "10°13'49\" Sagittarius",
+            "True_Node_Offset": "24°32'04\" Aries",
+            "Draconic_Longitude": "15°41'45\" Leo"
+        },
+        {
+            "Planet/Point": "Draconic Ascendant",
+            "Natal_Longitude": "10°48'41\" Scorpio",
+            "True_Node_Offset": "24°32'04\" Aries",
+            "Draconic_Longitude": "16°16'37\" Gemini"
+        },
+        {
+            "Planet/Point": "Draconic Midheaven",
+            "Natal_Longitude": "7°46'52\" Leo",
+            "True_Node_Offset": "24°32'04\" Aries",
+            "Draconic_Longitude": "13°14'48\" Taurus"
+        }
+    ],
+    "uranian_points": [
+        {
+            "Uranian_Point": "Osiris (Os)",
+            "Extracted_Longitude": "4°40'00\" Taurus",
+            "Natal_House": 7
+        },
+        {
+            "Uranian_Point": "Isis (Is)",
+            "Extracted_Longitude": "1°14'00\" Aries",
+            "Natal_House": 6
+        },
+        {
+            "Uranian_Point": "Pythia (Py)",
+            "Extracted_Longitude": "8°40'00\" Taurus",
+            "Natal_House": 8
+        },
+        {
+            "Uranian_Point": "Ptah (Pt)",
+            "Extracted_Longitude": "4°43'00\" Aries",
+            "Natal_House": 7
+        },
+        {
+            "Uranian_Point": "Psyche (Ps)",
+            "Extracted_Longitude": "4°40'00\" Aries",
+            "Natal_House": 7
+        },
+        {
+            "Uranian_Point": "Karma (Ka)",
+            "Extracted_Longitude": "6°00'00\" Taurus",
+            "Natal_House": 7
+        }
+    ],
+    "primary_directions_settings": {
+        "Key": "Naibod Key (0°59'08.33\" AR per year)",
+        "Obliquity_of_Date": "23°26'32.7103\"",
+        "Sun_Right_Ascension": "19°06'38\"",
+        "Sun_Pole_Height": "36°13'05\"",
+        "Sun_Oblique_Ascension_AOP": "46°32'04\"",
+        "Sun_Mundane_Distance_MD": "-84°25'45\"",
+        "Midheaven_Right_Ascension_MC_R": "127°22'41\""
+    },
+    "primary_directional_events": [
+        {
+            "Promissor": "MC",
+            "Significator": "Jupiter (ju)",
+            "Aspect": "Conjunction (σ)",
+            "Arc_Approx": "4°09'",
+            "Expected_Date_Range": "~2028"
+        },
+        {
+            "Promissor": "Ascendant (AC)",
+            "Significator": "Mars (ma)",
+            "Aspect": "Opposition (O)",
+            "Arc_Approx": "11°22'",
+            "Expected_Date_Range": "~2035"
+        },
+        {
+            "Promissor": "Sun (☉)",
+            "Significator": "MC",
+            "Aspect": "Trine (△)",
+            "Arc_Approx": "13°18'",
+            "Expected_Date_Range": "~2037"
+        },
+        {
+            "Promissor": "Moon (D)",
+            "Significator": "Venus (ve)",
+            "Aspect": "Sextile (✶)",
+            "Arc_Approx": "22°45'",
+            "Expected_Date_Range": "~2045"
+        },
+        {
+            "Promissor": "AC",
+            "Significator": "Saturn (h)",
+            "Aspect": "Square (□)",
+            "Arc_Approx": "27°42'",
+            "Expected_Date_Range": "~2050"
+        },
+        {
+            "Promissor": "Jupiter (ju)",
+            "Significator": "Sun (☉)",
+            "Aspect": "Conjunction (σ)",
+            "Arc_Approx": "30°05'",
+            "Expected_Date_Range": "~2052"
+        }
+    ],
+    "fixed_star_connections": {
+        "Tight_Natal_Conjunctions_Max_1_Deg": [
+            {
+                "Star": "Baten Kaitos",
+                "Constellation": "Cetus",
+                "Natal_Point": "Venus (ve)",
+                "Longitude": "4°28' Pisces",
+                "Orb": "0°04' separating"
+            },
+            {
+                "Star": "Scheat",
+                "Constellation": "Pegasus",
+                "Natal_Point": "Mercury (me)",
+                "Longitude": "29°20' Pisces",
+                "Orb": "0°25' separating"
+            },
+            {
+                "Star": "Acrux",
+                "Constellation": "Crux",
+                "Natal_Point": "Cusp 5 (H5)",
+                "Longitude": "15°45' Pisces",
+                "Orb": "Exact"
+            }
+        ],
+        "Fixed_Star_Parans_Natal_Time": [
+            {
+                "Planet/Point": "Sun (☉)",
+                "Star": "Sadalmelek",
+                "Axis": "Rise-Culminate",
+                "Precision_RA": "0°00' separating",
+                "Phase": "alh (Arising but lying hidden)"
+            },
+            {
+                "Planet/Point": "Moon (D)",
+                "Star": "Fomalhaut",
+                "Axis": "Set-Culminate",
+                "Precision_RA": "0°00' separating",
+                "Phase": "cp (Curtailed Passage)"
+            },
+            {
+                "Planet/Point": "Mercury (me)",
+                "Star": "Deneb Algedi",
+                "Axis": "Rise-Culminate",
+                "Precision_RA": "0°00' separating",
+                "Phase": "np (Nocturnal Passage)"
+            },
+            {
+                "Planet/Point": "Mars (ma)",
+                "Star": "Aldebaran",
+                "Axis": "Set-Culminate",
+                "Precision_RA": "0°00' separating",
+                "Phase": "cp (Curtailed Passage)"
+            }
+        ]
+    },
+    "long_term_transits_2025_2028": [
+        {
+            "Transit_Planet": "Saturn (h)",
+            "Natal_Point": "Natal MC",
+            "Aspect": "Opposition (O)",
+            "Exact_Date": "20 Mar 2026",
+            "Degree_Sign": "7°46' Leo (Rx)"
+        },
+        {
+            "Transit_Planet": "Saturn (h)",
+            "Natal_Point": "Natal AC",
+            "Aspect": "Square (□)",
+            "Exact_Date": "19 Oct 2026",
+            "Degree_Sign": "10°48' Scorpio (Rx)"
+        },
+        {
+            "Transit_Planet": "Uranus (U)",
+            "Natal_Point": "Natal Sun",
+            "Aspect": "Conjunction (σ)",
+            "Exact_Date": "14 Apr 2028",
+            "Degree_Sign": "20°41' Aries"
+        },
+        {
+            "Transit_Planet": "Pluto (P)",
+            "Natal_Point": "Natal Moon",
+            "Aspect": "Sextile (✶)",
+            "Exact_Date": "22 Mar 2026",
+            "Degree_Sign": "10°13' Aquarius"
+        },
+        {
+            "Transit_Planet": "Neptune (N)",
+            "Natal_Point": "Natal Mars",
+            "Aspect": "Square (□)",
+            "Exact_Date": "10 Dec 2027",
+            "Degree_Sign": "24°26' Pisces (Rx)"
+        },
+        {
+            "Transit_Planet": "Jupiter (24)",
+            "Natal_Point": "Natal Sun",
+            "Aspect": "Conjunction (σ)",
+            "Exact_Date": "28 Dec 2025",
+            "Degree_Sign": "20°41' Aries"
+        }
+    ]
+}

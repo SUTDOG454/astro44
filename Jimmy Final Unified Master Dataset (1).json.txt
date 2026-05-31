@@ -1,0 +1,656 @@
+﻿Jimmy Final Unified Master Dataset
+
+
+{
+  "client_name": "Jimmy / Jim S",
+  "data_status": "Final Unified Master Dataset",
+  "birth_data": {
+    "date": "April 10, 1974",
+    "time_local": "7:02 p.m. (19:02)",
+    "time_universal": "23:02 UT",
+    "location": "Bellaire, OH (US)",
+    "coordinates": "80°45' W, 40°01' N",
+    "julian_day": "2442148.460240",
+    "sidereal_time": "6:54:10",
+    "house_system": "Placidus",
+    "chart_sect": "Nocturnal (Night Chart)",
+    "chart_ruler": "Venus (in Pisces 4°24', H5)",
+    "final_dispositor": "Jupiter (in Pisces 7°26', H5)"
+  },
+  "angular_points": {
+    "Ascendant (AC)": "Libra 10°48'41\"",
+    "Descendant (DC)": "Aries 10°48'41\"",
+    "Midheaven (MC)": "Cancer 15°35'19\"",
+    "Imum_Coeli (IC)": "Capricorn 15°35'19\""
+  },
+  "natal_positions": [
+    {
+      "body": "Sun",
+      "longitude": "Aries 20°41'22\"",
+      "house": 7,
+      "retrograde": false,
+      "speed": "0°58'52\"",
+      "latitude": "0°00'00\"S",
+      "declination": "8°04'47\"N",
+      "dignity": "Exaltation",
+      "dispositor_chain": "Mars → Mercury → Jupiter"
+    },
+    {
+      "body": "Moon",
+      "longitude": "Sagittarius 10°13'49\"",
+      "house": 3,
+      "retrograde": false,
+      "speed": "12°24'36\"",
+      "latitude": "0°57'51\"S",
+      "declination": "22°56'24\"S",
+      "dignity": "Peregrine",
+      "dispositor_chain": "Jupiter"
+    },
+    {
+      "body": "Mercury",
+      "longitude": "Pisces 28°55'11\"",
+      "house": 6,
+      "retrograde": false,
+      "speed": "1°34'54\"",
+      "latitude": "2°30'43\"S",
+      "declination": "2°44'03\"S",
+      "dignity": "Fall / Detriment",
+      "dispositor_chain": "Jupiter"
+    },
+    {
+      "body": "Venus",
+      "longitude": "Pisces 4°24'45\"",
+      "house": 5,
+      "retrograde": false,
+      "speed": "1°01'23\"",
+      "latitude": "0°30'05\"N",
+      "declination": "9°25'36\"S",
+      "dignity": "Exaltation",
+      "dispositor_chain": "Jupiter"
+    },
+    {
+      "body": "Mars",
+      "longitude": "Gemini 24°26'09\"",
+      "house": 9,
+      "retrograde": false,
+      "speed": "0°35'26\"",
+      "latitude": "1°33'23\"N",
+      "declination": "24°52'50\"N",
+      "dignity": "Peregrine",
+      "dispositor_chain": "Mercury → Jupiter"
+    },
+    {
+      "body": "Jupiter",
+      "longitude": "Pisces 7°26'40\"",
+      "house": 5,
+      "retrograde": false,
+      "speed": "0°12'21\"",
+      "latitude": "0°52'21\"S",
+      "declination": "9°35'15\"S",
+      "dignity": "Domicile",
+      "dispositor_chain": "Jupiter"
+    },
+    {
+      "body": "Saturn",
+      "longitude": "Gemini 29°22'37\"",
+      "house": 9,
+      "retrograde": false,
+      "speed": "0°04'21\"",
+      "latitude": "0°44'57\"S",
+      "declination": "22°41'31\"N",
+      "dignity": "Peregrine",
+      "dispositor_chain": "Mercury → Jupiter"
+    },
+    {
+      "body": "Uranus",
+      "longitude": "Libra 25°58'25\"",
+      "house": 1,
+      "retrograde": true,
+      "speed": "-0°02'33\"",
+      "latitude": "0°36'33\"N",
+      "declination": "9°27'58\"S",
+      "dignity": "Peregrine",
+      "dispositor_chain": "Venus → Jupiter"
+    },
+    {
+      "body": "Neptune",
+      "longitude": "Sagittarius 9°24'17\"",
+      "house": 3,
+      "retrograde": true,
+      "speed": "-0°01'28\"",
+      "latitude": "1°26'54\"N",
+      "declination": "20°15'22\"S",
+      "dignity": "Peregrine",
+      "dispositor_chain": "Jupiter"
+    },
+    {
+      "body": "Pluto",
+      "longitude": "Libra 27°07'17\"",
+      "house": 12,
+      "retrograde": true,
+      "speed": "-0°00'43\"",
+      "latitude": "12°41'50\"N",
+      "declination": "12°41'50\"N",
+      "dignity": "Peregrine",
+      "dispositor_chain": "Venus → Jupiter"
+    },
+    {
+      "body": "Chiron",
+      "longitude": "Aries 17°45'43\"",
+      "house": 7,
+      "retrograde": false,
+      "speed": "0°04'04\"",
+      "latitude": "1°43'17\"N",
+      "declination": "5°46'03\"N",
+      "dignity": "Peregrine",
+      "dispositor_chain": "Mars → Mercury → Jupiter"
+    },
+    {
+      "body": "True Node",
+      "longitude": "Sagittarius 21°06'31\"",
+      "house": 3,
+      "retrograde": true,
+      "speed": "-0°03'09\"",
+      "latitude": None,
+      "declination": "23°08'39\"S",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Juno",
+      "longitude": "Aquarius 24°55'14\"",
+      "house": 5,
+      "retrograde": false,
+      "speed": "0°21'46\"",
+      "latitude": "7°45'16\"N",
+      "declination": "5°53'52\"S",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Vesta",
+      "longitude": "Libra 8°15'19\"",
+      "house": 12,
+      "retrograde": true,
+      "speed": "-0°14'30\"",
+      "latitude": "12°41'50\"N",
+      "declination": "8°23'28\"N",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Pholus",
+      "longitude": "Pisces 9°13'07\"",
+      "house": 5,
+      "retrograde": false,
+      "speed": "0°02'26\"",
+      "latitude": "15°25'32\"S",
+      "declination": "22°20'23\"S",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Kaali",
+      "longitude": "Aries 16°45'06\"",
+      "house": 7,
+      "retrograde": false,
+      "speed": "0°25'38\"",
+      "latitude": "1°44'15\"S",
+      "declination": "4°58'45\"N",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Circe",
+      "longitude": "Scorpio 6°21'54\"",
+      "house": 1,
+      "retrograde": true,
+      "speed": "-0°12'19\"",
+      "latitude": "3°52'33\"N",
+      "declination": "9°58'53\"S",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Cupido",
+      "longitude": "Aries 26°38'25\"",
+      "house": 7,
+      "retrograde": false,
+      "speed": "0°36'43\"",
+      "latitude": "2°37'48\"N",
+      "declination": "12°43'34\"N",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Eros",
+      "longitude": "Pisces 7°18'09\"",
+      "house": 5,
+      "retrograde": false,
+      "speed": "0°33'58\"",
+      "latitude": "1°27'37\"N",
+      "declination": "7°28'27\"S",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Galactic Center",
+      "longitude": "Sagittarius 26°29'57\"",
+      "house": 3,
+      "retrograde": None,
+      "speed": None,
+      "latitude": None,
+      "declination": "28°59'52\"S",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Great Attractor",
+      "longitude": "Sagittarius 13°36'20\"",
+      "house": 3,
+      "retrograde": None,
+      "speed": None,
+      "latitude": None,
+      "declination": "60°49'27\"S",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Virgo Cluster",
+      "longitude": "Libra 0°34'58\"",
+      "house": 12,
+      "retrograde": None,
+      "speed": None,
+      "latitude": None,
+      "declination": "12°51'44\"N",
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Sedna",
+      "longitude": "Taurus 3°05'00\"",
+      "house": 8,
+      "retrograde": None,
+      "speed": None,
+      "latitude": None,
+      "declination": None,
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Orcus",
+      "longitude": "Cancer 22°34'11\"",
+      "house": 10,
+      "retrograde": None,
+      "speed": None,
+      "latitude": None,
+      "declination": None,
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Quaoar",
+      "longitude": "Scorpio 5°36'58\"",
+      "house": 1,
+      "retrograde": None,
+      "speed": None,
+      "latitude": None,
+      "declination": None,
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Ixion",
+      "longitude": "Scorpio 8°08'20\"",
+      "house": 1,
+      "retrograde": None,
+      "speed": None,
+      "latitude": None,
+      "declination": None,
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Haumea",
+      "longitude": "Leo 11°45'56\"",
+      "house": 11,
+      "retrograde": None,
+      "speed": None,
+      "latitude": None,
+      "declination": None,
+      "dignity": None,
+      "dispositor_chain": None
+    },
+    {
+      "body": "Makemake",
+      "longitude": "Leo 16°33'41\"",
+      "house": 11,
+      "retrograde": None,
+      "speed": None,
+      "latitude": None,
+      "declination": None,
+      "dignity": None,
+      "dispositor_chain": None
+    }
+  ],
+  "house_cusps": [
+    {
+      "house": 1,
+      "sign_degree": "Libra 10°48'41\"",
+      "ruler": "Venus"
+    },
+    {
+      "house": 2,
+      "sign_degree": "Scorpio 11°39'",
+      "ruler": "Mars"
+    },
+    {
+      "house": 3,
+      "sign_degree": "Sagittarius 14°44'",
+      "ruler": "Jupiter"
+    },
+    {
+      "house": 4,
+      "sign_degree": "Capricorn 15°35'19\"",
+      "ruler": "Saturn"
+    },
+    {
+      "house": 5,
+      "sign_degree": "Aquarius 11°48'",
+      "ruler": "Saturn"
+    },
+    {
+      "house": 6,
+      "sign_degree": "Pisces 5°40'",
+      "ruler": "Jupiter"
+    },
+    {
+      "house": 7,
+      "sign_degree": "Aries 10°48'41\"",
+      "ruler": "Mars"
+    },
+    {
+      "house": 8,
+      "sign_degree": "Taurus 11°39'",
+      "ruler": "Venus"
+    },
+    {
+      "house": 9,
+      "sign_degree": "Gemini 14°44'",
+      "ruler": "Mercury"
+    },
+    {
+      "house": 10,
+      "sign_degree": "Cancer 15°35'19\"",
+      "ruler": "Moon"
+    },
+    {
+      "house": 11,
+      "sign_degree": "Leo 11°48'",
+      "ruler": "Sun"
+    },
+    {
+      "house": 12,
+      "sign_degree": "Virgo 5°40'",
+      "ruler": "Mercury"
+    }
+  ],
+  "aspects_key": [
+    {
+      "aspect": "Conjunction (0°)",
+      "planet1": "Venus (Pi 4°24')",
+      "planet2": "Jupiter (Pi 7°26')",
+      "orb": "3°02'",
+      "significance": "Expansive creativity, idealism, artistic talent."
+    },
+    {
+      "aspect": "Conjunction (0°)",
+      "planet1": "Mars (Ge 24°26')",
+      "planet2": "Saturn (Ge 29°22')",
+      "orb": "4°56'",
+      "significance": "Disciplined action, focused ambition, potential frustration."
+    },
+    {
+      "aspect": "Opposition (180°)",
+      "planet1": "Sun (Ar 20°41')",
+      "planet2": "Uranus (Li 25°58' Rx)",
+      "orb": "5°17'",
+      "significance": "Tension between identity/partnerships and the need for independence/unconventionality."
+    },
+    {
+      "aspect": "Square (90°)",
+      "planet1": "Jupiter (Pi 7°26')",
+      "planet2": "Neptune (Sa 9°24' Rx)",
+      "orb": "1°58'",
+      "significance": "Extreme idealism, high vision, potential for boundary issues."
+    },
+    {
+      "aspect": "Conjunction (0°)",
+      "planet1": "Sun (Ar 20°41')",
+      "planet2": "Chiron (Ar 17°45')",
+      "orb": "2°56'",
+      "significance": "Identity strongly connected to healing and wounding in the context of relationships."
+    }
+  ],
+  "quantitative_metrics": {
+    "planetary_total_power": {
+      "rank_1": "Venus (8.73%)",
+      "rank_2": "Jupiter (8.43%)",
+      "rank_3": "Sun (8.12%)"
+    },
+    "chart_focus": {
+      "dominant_sign": "Pisces (18.60% Total Power)",
+      "dominant_house": "5th House (21.77% Total Power)"
+    }
+  },
+  "prominent_midpoints": [
+    {
+      "midpoint": "Moon/Neptune",
+      "position": "Sagittarius 9°48'17\"",
+      "comment": "Conjunction midpoint (0°34' apart)"
+    },
+    {
+      "midpoint": "Sun/Uranus",
+      "position": "Cancer 23°19'53\"",
+      "comment": "Opposition midpoint"
+    },
+    {
+      "midpoint": "Mars/Saturn",
+      "position": "Gemini 26°54'23\"",
+      "comment": "Conjunction midpoint (4°56' apart)"
+    },
+    {
+      "midpoint": "Venus/Jupiter",
+      "position": "Pisces 5°55'43\"",
+      "comment": "Conjunction midpoint (3°02' apart)"
+    },
+    {
+      "midpoint": "Mercury/Venus",
+      "position": "Aries 1°40'08\"",
+      "comment": "Communication/Love Axis"
+    },
+    {
+      "midpoint": "Jupiter/MC",
+      "position": "Pisces 10°07'06\"",
+      "comment": "Success/Career Axis"
+    },
+    {
+      "midpoint": "Sun/Moon",
+      "position": "Leo 15°27'36\"",
+      "comment": "New Moon/Full Moon cycle midpoint"
+    }
+  ],
+  "arabic_parts": [
+    {
+      "part": "Part of Fortune (AC + Mo - Su)",
+      "longitude": "Taurus 23°49'12\"",
+      "house": 8,
+      "theme": "Wealth, body, luck, material success"
+    },
+    {
+      "part": "Part of Spirit (AC + Su - Mo)",
+      "longitude": "Scorpio 23°49'12\"",
+      "house": 2,
+      "theme": "Consciousness, ethics, spirituality, non-material success"
+    },
+    {
+      "part": "Part of Eros (AC + Ve - Ma)",
+      "longitude": "Aries 18°39'40\"",
+      "house": 7,
+      "theme": "Love, desire, passion, creativity"
+    },
+    {
+      "part": "Part of Necessity (AC + Sa - Mo)",
+      "longitude": "Libra 24°32'04\"",
+      "house": 1,
+      "theme": "Hardship, restriction, fate, discipline"
+    },
+    {
+      "part": "Part of Victory (AC + Ju - Ma)",
+      "longitude": "Gemini 25°01'00\"",
+      "house": 9,
+      "theme": "Success, honor, good luck"
+    },
+    {
+      "part": "Part of Nemesis (AC + Ma - Ve)",
+      "longitude": "Virgo 17°12'37\"",
+      "house": 12,
+      "theme": "Hidden enemies, self-undoing, secret battles"
+    },
+    {
+      "part": "Part of Fraudulent Marriage (AC + Ve - Sa)",
+      "longitude": "Sagittarius 23°58'43\"",
+      "house": 3,
+      "theme": "Deception in marriage/partnership"
+    },
+    {
+      "part": "Part of Death (Sa + H8 - Mo)",
+      "longitude": "Gemini 15°50'48\"",
+      "house": 9,
+      "theme": "Circumstances of passing, mortality"
+    }
+  ],
+  "fixed_stars": {
+    "key_aspects": [
+      {
+        "star": "Spica",
+        "longitude": "Libra 23°58'",
+        "aspect": "Conjunction (AC)",
+        "orb": "2°35' A",
+        "theme": "Success, honor, charisma"
+      },
+      {
+        "star": "Arcturus",
+        "longitude": "Libra 24°14'",
+        "aspect": "Conjunction (AC)",
+        "orb": "2°37' S",
+        "theme": "Public visibility, pioneering, self-direction"
+      },
+      {
+        "star": "Acrux",
+        "longitude": "Scorpio 11°51'",
+        "aspect": "Opposition (MC)",
+        "orb": "4°45' S",
+        "theme": "Idealism, interest in hidden or mystical matters"
+      },
+      {
+        "star": "Alphecca",
+        "longitude": "Scorpio 12°17'",
+        "aspect": "Conjunction (H2 Cusp)",
+        "orb": "0°38' A",
+        "theme": "Artistic talent, dignity, success through intellect"
+      }
+    ],
+    "objects_at_axis_at_birth": [
+      {
+        "object": "Uranus",
+        "axis": "Near Ascendant (AC)"
+      },
+      {
+        "object": "True Node",
+        "axis": "Near IC (4th Cusp)"
+      }
+    ]
+  },
+  "planetary_pictures": [
+    {
+      "formula": "Pluto = Vertex / MC",
+      "degree_aries_point": "1°43'",
+      "keyword": "Fated, unavoidable, and profound transformation linked to public standing."
+    },
+    {
+      "formula": "Venus / Jupiter = Ascendant / MC",
+      "degree_aries_point": "5°55'",
+      "keyword": "Great fortune and charisma aligned with the entire personal/public axis."
+    },
+    {
+      "formula": "Mars = MC / Chiron",
+      "degree_aries_point": "16°43'",
+      "keyword": "Dynamic action used to overcome the core wound (Chiron) in the public sphere (MC)."
+    },
+    {
+      "formula": "Sun = Uranus / Neptune",
+      "degree_aries_point": "20°32'",
+      "keyword": "Identity linked to unexpected and intuitive expression; sudden inspiration/dissolution."
+    },
+    {
+      "formula": "Saturn / Cupido = Moon / Ptah",
+      "degree_aries_point": "3°36'",
+      "keyword": "Serious commitment affecting emotional foundation/homelife."
+    },
+    {
+      "formula": "Mars / True Node",
+      "degree_aries_point": "13°42'",
+      "keyword": "Action aligned with destiny or fated effort."
+    }
+  ],
+  "transit_data": {
+    "date": "28 Nov 2025 (Exact/Tight Transits)",
+    "transit_aspects": [
+      {
+        "transit_planet": "Saturn (Tr)",
+        "natal_body": "Parthenope (#j)",
+        "aspect": "Conjunction (0°)",
+        "orb": "0°58' S"
+      },
+      {
+        "transit_planet": "Chiron (Tr)",
+        "natal_body": "Cupido (#f)",
+        "aspect": "Conjunction (0°)",
+        "orb": "3°28' A"
+      },
+      {
+        "transit_planet": "Pluto (Tr)",
+        "natal_body": "Pallas (Z)",
+        "aspect": "Conjunction (0°)",
+        "orb": "3°28' A"
+      }
+    ]
+  },
+  "angular_metrics": {
+    "angular_separation": "AC to DC 180°00'",
+    "quadrant_spans": [
+      {
+        "quadrant": "1st (AC to IC)",
+        "houses": "1, 2, 3",
+        "span": "91°39'"
+      },
+      {
+        "quadrant": "2nd (IC to DC)",
+        "houses": "4, 5, 6",
+        "span": "98°19'"
+      },
+      {
+        "quadrant": "3rd (DC to MC)",
+        "houses": "7, 8, 9",
+        "span": "91°39'"
+      },
+      {
+        "quadrant": "4th (MC to AC)",
+        "houses": "10, 11, 12",
+        "span": "78°23'"
+      }
+    ],
+    "interpretation": "The 2nd Quadrant (Home/Creativity) is the largest, while the 4th Quadrant (Career/Service) is the smallest, suggesting a predominant focus on personal development and security over public responsibilities."
+  }
+}

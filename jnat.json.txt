@@ -1,0 +1,164 @@
+﻿jnat
+
+
+{
+  "chart_metadata": {
+    "name": "Jimmy",
+    "date": "April 10, 1974",
+    "time": "19:02:00",
+    "location": "Steubenville, Ohio",
+    "time_zone": "GMT-4",
+    "karmic_mandate": "The soul's mission is to transition from intellectual dogma and scattering (South Node in Gemini H9) to expansive, philosophical communication and teaching based on emotional truth (North Node in Sagittarius H3).",
+    "temperament_synthesis": {
+      "elements": "Water (Intuition/Emotion) and Air (Intellect/Social) are highly dominant.",
+      "modes": "Mutable (Adaptation/Mind) and Cardinal (Action/Initiation) are dominant.",
+      "missing_elements": "Earth and Fixed energy are deficient, leading to struggles with consistency, material grounding, and sustained effort. The native must consciously cultivate stability."
+    }
+  },
+  "celestial_positions": {
+    "angles_and_points": {
+      "ascendant": "Libra 10°48'",
+      "descendant": "Aries 10°48'",
+      "midheaven": "Cancer 12°27'",
+      "imum_coeli": "Capricorn 12°27'",
+      "part_of_fortune": "Cancer 0°21' (H8) - Luck is tied to emotional security, nurturing, and shared resources.",
+      "vertex": "Aries 29°14' (H7) - Fated encounters in partnerships requiring self-assertion.",
+      "lilith_true": "Capricorn 26°26' (H4) - Fierce autonomy and confrontation of authority within the family foundation."
+    },
+    "major_planets": [
+      {
+        "name": "Sun",
+        "position": "Aries 20°41'",
+        "house": "VII",
+        "dignity": "Exaltation",
+        "retrograde": false,
+        "theme": "Ego and will are assertively expressed through one-on-one relationships. Identity is found in partnership."
+      },
+      {
+        "name": "Moon",
+        "position": "Sagittarius 10°13'",
+        "house": "III",
+        "dignity": "Peregrine",
+        "retrograde": false,
+        "theme": "Emotions are expansive and truth-seeking. The communication style is intuitive, philosophical, and restless."
+      },
+      {
+        "name": "Mercury",
+        "position": "Pisces 28°55'",
+        "house": "VI",
+        "dignity": "Detriment/Fall",
+        "retrograde": false,
+        "theme": "Mind is highly intuitive and empathetic, but struggles with detail and practicality, best suited for creative or service-oriented work."
+      },
+      {
+        "name": "Venus",
+        "position": "Pisces 4°24'",
+        "house": "V",
+        "dignity": "Exaltation",
+        "retrograde": false,
+        "theme": "Immense artistic talent, love, and fortune are expressed through compassionate, spiritual creativity."
+      },
+      {
+        "name": "Mars",
+        "position": "Gemini 24°26'",
+        "house": "IX",
+        "dignity": "Peregrine",
+        "retrograde": false,
+        "theme": "Drive and action are focused on intellectual mastery, teaching, and structured learning."
+      },
+      {
+        "name": "Jupiter",
+        "position": "Pisces 7°26'",
+        "house": "V",
+        "dignity": "Domicile (Co-ruler)",
+        "retrograde": false,
+        "theme": "Greatest benefic; vast opportunities for growth and expansion in creative and romantic life."
+      },
+      {
+        "name": "Saturn",
+        "position": "Gemini 29°22'",
+        "house": "IX",
+        "dignity": "Peregrine",
+        "retrograde": false,
+        "theme": "Discipline and structure are applied rigorously to intellectual pursuits and philosophical development."
+      },
+      {
+        "name": "Uranus",
+        "position": "Libra 25°58'",
+        "house": "I",
+        "retrograde": true,
+        "theme": "Uniqueness and rebellion are internalized, affecting the persona and relational style."
+      },
+      {
+        "name": "Neptune",
+        "position": "Sagittarius 9°22'",
+        "house": "II",
+        "retrograde": true,
+        "theme": "Spiritual vision and idealism are turned inward, leading to ambiguity with finances and values."
+      },
+      {
+        "name": "Pluto",
+        "position": "Libra 5°03'",
+        "house": "XII",
+        "retrograde": true,
+        "theme": "Profound psychological transformation is processed in the subconscious and in seclusion."
+      },
+      {
+        "name": "Chiron",
+        "position": "Aries 17°56'",
+        "house": "VII",
+        "retrograde": true,
+        "theme": "The core relational wound requires continuous re-examination of self-assertion and identity within partnerships."
+      },
+      {
+        "name": "North Node",
+        "position": "Sagittarius 21°06'",
+        "house": "III",
+        "retrograde": true,
+        "theme": "Life purpose is focused on teaching, communication, and embracing faith and optimism."
+      }
+    ],
+    "minor_bodies_tno_dwarf_planets": [
+      {"name": "Orcus", "position": "Cancer 22°34' (H10)", "theme": "Accountability, oaths, and public promises related to security."},
+      {"name": "Sedna", "position": "Taurus 3°05' (H7)", "theme": "Deep betrayal, relational trauma, healing through partnership."},
+      {"name": "Quaoar", "position": "Scorpio 5°36' (H1)", "theme": "Creation myth, defining primal rhythm and deep self-transformation."},
+      {"name": "Ixion", "position": "Scorpio 8°08' (H2)", "theme": "Second chances, ethical struggles tied to self-worth/values."},
+      {"name": "Pholus", "position": "Pisces 9°13' (H5)", "theme": "Trigger point: small actions lead to massive, unexpected creative/romantic events."},
+      {"name": "Kaali", "position": "Aries 16°45' (H7)", "theme": "Fierce independence; necessary destruction of falsehoods in relationships."},
+      {"name": "Vesta", "position": "Libra 8°15' (H12)", "theme": "Sacred dedication focused on hidden, spiritual, and relational themes."},
+      {"name": "Eros", "position": "Pisces 7°18' (H5)", "theme": "Passionate drive and attraction fused with creativity/love."},
+      {"name": "Pallas", "position": "Aquarius 5°18' (H4)", "theme": "Strategic intelligence applied to creating intellectual security in the home."}
+    ],
+    "intercepted_signs": {
+      "signs": "Scorpio and Taurus",
+      "axis": "1st and 7th Houses",
+      "interpretation": "The potent energies of psychological intensity (Scorpio) and material stability (Taurus) are initially suppressed or delayed in the native's expression and relationship sphere, requiring conscious effort to access."
+    }
+  },
+  "aspect_configurations": {
+    "major_patterns": {
+      "name": "Cardinal Grand Cross (Aries-Cancer-Libra-Capricorn)",
+      "tension": "Relentless pressure for initiation, leadership, and confrontation across the self/relationship (1/7) and home/career (4/10) axes. It is the core dynamic that drives the life story."
+    },
+    "harmonic_aspects_talent_destiny": [
+      {"series": "Septile (7th Harmonic - Fated)", "aspect": "Mars Septile Sedna (0°02' Exact)", "interpretation": "Fated, compulsive drive to act linked to ancestral/relational trauma."},
+      {"series": "Quintile (5th Harmonic - Talent)", "aspect": "Venus Sesqui-quintile Lilith (0°02' Exact)", "interpretation": "Ingenious, original skill in fusing creative expression and autonomous energy."},
+      {"series": "Decile (10th Harmonic - Vocation)", "aspect": "Moon Decile Pluto", "interpretation": "Compulsion to achieve success through psychological investigation."}
+    ],
+    "high_impact_ptolemaic_aspects": [
+      {"aspect": "Sun Square Saturn", "theme": "Core challenge: Struggle with authority and self-worth, requiring disciplined expertise for validation."},
+      {"aspect": "Mercury Square Neptune", "theme": "Challenge: Difficulty grounding imagination and intuition into clear, practical communication."},
+      {"aspects": "Jupiter/Venus Trine Pluto", "theme": "Extremely fortunate ease in transforming psychological depth into creative/material fortune (a protective and empowering trine)."}]
+  },
+  "technical_elements": {
+    "fixed_star_influences": [
+      {"star": "Fomalhaut", "conjunction": "Venus/Jupiter (H5)", "theme": "Confers great artistic genius and the promise of public honor and spiritual success."},
+      {"star": "Antares", "conjunction": "Moon/Neptune (H3)", "theme": "Imbues communication with fated, passionate intensity and courage to speak deep truths."},
+      {"star": "Vega", "conjunction": "Pluto (H12)", "theme": "Grants artistic potential by transforming hidden, subconscious material into public output."}
+    ],
+    "midpoints_synthesis": [
+      {"midpoint": "Sun/Moon", "interpretation": "Central point of personality balance is on the Cardinal Axis, defining personality through action and relational confrontation."},
+      {"midpoint": "Mars/Saturn", "interpretation": "High focus on structured effort and mental discipline in philosophical pursuits."}
+    ]
+  }
+}
