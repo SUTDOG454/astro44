@@ -1,0 +1,391 @@
+{
+  "magi_astrology_system": {
+    "metadata": {
+      "module_name": "Magi Astrology - Geometric Precision for Love & Fortune",
+      "version": "2.0",
+      "source": "Magi Society",
+      "primary_focus": "Statistical correlation and precise planetary geometry",
+      "key_difference": "Event-oriented forecasting vs psychological character analysis"
+    },
+    "philosophical_foundation": {
+      "core_principle": "Precise mathematical symmetry reveals destiny patterns",
+      "basis_of_authority": "Statistical research and recalculated ancient rules",
+      "primary_purpose": "Identify and activate luck; forecast specific events (marriage, financial windfalls)",
+      "critical_orb_rule": "EXTREME PRECISION: 1.0° or less for Super Aspects",
+      "methodology": "Chart comparison (synastry) to find super aspects"
+    },
+    "magi_aspect_system": {
+      "major_magical_aspects": {
+        "conjunction": {
+          "degrees": 0,
+          "orb": "1.0° maximum (tighter = more powerful)",
+          "power_level": 10,
+          "meaning": "MOST POWERFUL ASPECT - Merges and amplifies for specific goal",
+          "note": "Positive and extremely beneficial in Magi system"
+        },
+        "opposition": {
+          "degrees": 180,
+          "orb": "1.0° maximum",
+          "power_level": 9,
+          "meaning": "POWERFUL ATTRACTION - Dynamic engagement, opportunity, activation",
+          "note": "NOT challenging - actually activating and beneficial"
+        },
+        "quincunx": {
+          "degrees": 150,
+          "orb": "1.0° maximum",
+          "power_level": 8,
+          "meaning": "RECLASSIFIED AS MAGICAL - Fated 'cannot ignore' connection",
+          "note": "Life-altering, karmic, demands adjustment"
+        }
+      },
+      "weak_aspects": {
+        "trine": {
+          "degrees": 120,
+          "power_level": 2,
+          "meaning": "VERY WEAK in Magi - does not form powerful geometry",
+          "note": "Considered almost negligible"
+        },
+        "sextile": {
+          "degrees": 60,
+          "power_level": 2,
+          "meaning": "VERY WEAK in Magi - minimal impact",
+          "note": "Does not create magical patterns"
+        }
+      },
+      "negative_aspects": {
+        "square": {
+          "degrees": 90,
+          "power_level": -5,
+          "meaning": "HARMFUL - Causes conflict, blocks positive effects",
+          "note": "Generally negative, can block magical aspects"
+        }
+      },
+      "critical_difference_from_traditional": {
+        "traditional_astrology": "Trines/sextiles are beneficial, squares challenging but growth-producing",
+        "magi_astrology": "ONLY conjunctions, oppositions, quincunxes are magical; trines/sextiles weak; squares harmful"
+      }
+    },
+    "planetary_meanings_magi": {
+      "love_planets": {
+        "Venus": {
+          "represents": "Women, love, beauty, feminine principle",
+          "power_level": 9,
+          "primary_use": "Romantic synastry, love timing"
+        },
+        "Mars": {
+          "represents": "Men, passion, pursuit, masculine principle",
+          "power_level": 9,
+          "primary_use": "Sexual attraction, romantic pursuit"
+        }
+      },
+      "money_planets": {
+        "Jupiter": {
+          "represents": "Expansion, good fortune, wealth, abundance",
+          "power_level": 9,
+          "primary_use": "Financial windfalls, prosperity timing"
+        },
+        "Saturn": {
+          "represents": "Structure, business, long-term assets, stability",
+          "power_level": 7,
+          "primary_use": "Business success, material accumulation"
+        }
+      },
+      "fame_planet": {
+        "Neptune": {
+          "represents": "Glamour, illusion, public recognition, media",
+          "power_level": 8,
+          "primary_use": "Fame, public image, celebrity status"
+        }
+      },
+      "super_planets": {
+        "Chiron": {
+          "classification": "MOST POWERFUL ENHANCER",
+          "power_level": 10,
+          "meaning": "Any conjunction with Chiron creates SUPER ASPECT",
+          "effect": "Dramatically amplifies other planet",
+          "note": "Not traditionally used as primary planet; Magi's unique emphasis"
+        },
+        "Ceres": {
+          "classification": "Secondary enhancer",
+          "power_level": 6,
+          "meaning": "Minor super planet, less powerful than Chiron"
+        }
+      }
+    },
+    "magical_triangle": {
+      "definition": "THREE planets all connected by Super Aspects (conjunction, opposition, or quincunx)",
+      "orb_requirement": "Each connection must be within 1.0°",
+      "power_level": 10,
+      "meaning": "MOST CELEBRATED CONFIGURATION - Self-reinforcing closed circuit of immense power",
+      "effect": "Area of life (love, money) is EXTRAORDINARILY blessed or fated",
+      "example": {
+        "person_a_venus": "0° Aries",
+        "person_b_chiron": "0° Aries",
+        "connection_1": "Venus conjunct Chiron (Super Aspect #1)",
+        "person_a_sun": "15° Libra",
+        "person_b_mars": "15° Aries",
+        "connection_2": "Sun opposite Mars (Super Aspect #2)",
+        "person_b_jupiter": "0° Virgo",
+        "person_a_moon": "0° Pisces",
+        "connection_3": "Jupiter opposite Moon (Super Aspect #3)",
+        "result": "These three Super Aspects form Magical Triangle of love and fortune",
+        "interpretation": "Potentially transformative, lucky partnership with fated quality"
+      }
+    },
+    "cinderella_prince_charming_aspects": {
+      "cinderella_aspect": {
+        "for": "Women",
+        "natal_requirement": "Mars conjunct or trine Chiron",
+        "orb": "1.0° maximum for conjunction, 3° for trine",
+        "effect": "Destined partner recognizes her irresistibly",
+        "meaning": "Aura that makes soulmate connection inevitable",
+        "power_level": 9
+      },
+      "prince_charming_aspect": {
+        "for": "Men",
+        "natal_requirement": "Venus conjunct or trine Chiron",
+        "orb": "1.0° maximum for conjunction, 3° for trine",
+        "effect": "Exceptional charm, wins heart of ideal partner",
+        "meaning": "Natural magnetism for romantic success",
+        "power_level": 9
+      }
+    },
+    "activation_technique": {
+      "definition": "Transiting or progressing planet forms Super Aspect to sensitive natal point",
+      "purpose": "PREDICT EXACT TIMING of potential event",
+      "orb": "1.0° maximum",
+      "example": {
+        "synastry_aspect": "Couple has Venus-Mars conjunction at 15° Taurus (love trigger)",
+        "transit": "Transiting Jupiter reaches 15° Taurus",
+        "activation": "Jupiter conjunct Venus-Mars midpoint within 1.0°",
+        "predicted_timing": "Relationship blossoms, engagement, or wedding likely",
+        "window": "While Jupiter is within 1.0° of 15° Taurus"
+      },
+      "activation_types": {
+        "transiting_planet_to_natal": "Current sky to birth chart",
+        "progressed_planet_to_natal": "Progressed chart to birth chart",
+        "transiting_to_synastry_midpoint": "Trigger relationship aspect",
+        "solar_arc_to_super_aspect": "Directed planet activates natal super aspect"
+      }
+    },
+    "magi_synastry_linkages": {
+      "romantic_super_linkages": {
+        "definition": "Person A's romance planet aspects Person B's romance planet",
+        "romance_planets": [
+          "Venus",
+          "Neptune",
+          "Chiron"
+        ],
+        "super_linkage_threshold": "3+ linkages among romance planets",
+        "meaning": "SOULMATE connection with karmic depth",
+        "power_level": 10
+      },
+      "venus_chiron_super_aspect": {
+        "aspect": "Person A Venus conjunct Person B Chiron",
+        "orb": "0.5° or less (extremely tight)",
+        "classification": "ULTIMATE SOULMATE INDICATOR",
+        "keywords": [
+          "fated recognition",
+          "healing love",
+          "irresistible attraction",
+          "destined partnership"
+        ],
+        "interpretation": "Person A's love (Venus) feels healing and destined to Person B. Person B's wound/superpower (Chiron) is perfectly aligned with Person A's love. Creates immediate, deep sense of recognition as if partner embodies solution to unspoken need.",
+        "power_level": 10,
+        "note": "One of most powerful positive aspects in Magi synastry"
+      },
+      "mars_jupiter_linkage": {
+        "aspect": "Person A Mars aspects Person B Jupiter",
+        "meaning": "Protection, heroism, abundance in action",
+        "classification": "Prince Charming Linkage",
+        "power_level": 8
+      },
+      "sun_venus_linkage": {
+        "aspect": "Person A Sun aspects Person B Venus",
+        "meaning": "Romantic love, admiration, harmony",
+        "classification": "Cinderella Linkage",
+        "power_level": 8
+      },
+      "moon_chiron_linkage": {
+        "aspect": "Person A Moon aspects Person B Chiron",
+        "meaning": "Emotional healing partnership",
+        "classification": "Cinderella Linkage",
+        "power_level": 8
+      }
+    },
+    "financial_super_aspects": {
+      "jupiter_venus_conjunction": {
+        "orb": "1.0° or less",
+        "meaning": "Extreme financial magnetism; blessed finances",
+        "power_level": 10
+      },
+      "jupiter_chiron_conjunction": {
+        "orb": "1.0° or less",
+        "meaning": "Super-enhanced expansion; exceptional wealth potential",
+        "power_level": 10
+      },
+      "venus_pluto_opposition": {
+        "orb": "1.0° or less",
+        "meaning": "Transformative wealth; power through resources",
+        "power_level": 8
+      }
+    },
+    "magi_vs_traditional_comparison": {
+      "aspect_philosophy": {
+        "traditional": "Full spectrum (conjunction, sextile, square, trine, opposition) each with rich meaning",
+        "magi": "ONLY conjunctions, oppositions, quincunxes are major 'magical' aspects"
+      },
+      "orb_strictness": {
+        "traditional": "Wider, flexible orbs (8-10° for major aspects, especially luminaries)",
+        "magi": "EXTREMELY tight (often 1° or less). Precision is paramount."
+      },
+      "planetary_role": {
+        "traditional": "Planets represent broad psychological functions and archetypal energies",
+        "magi": "Planets have SPECIFIC event-oriented meanings (Venus=love, Jupiter=money)"
+      },
+      "chiron_importance": {
+        "traditional": "Wounded healer, bridging function, one of many points",
+        "magi": "SUPREMELY IMPORTANT 'super-planet'; most powerful enhancer"
+      },
+      "primary_focus": {
+        "traditional": "Natal chart analysis for understanding individual, psychology, soul evolution",
+        "magi": "Chart comparison (synastry) to find 'super aspects' for forecasting events"
+      }
+    },
+    "magi_compatibility_analysis_protocol": {
+      "step_1_calculate_positions": {
+        "action": "Get precise planetary positions for both people",
+        "requirement": "Accurate to 0.1° if possible"
+      },
+      "step_2_identify_super_aspects": {
+        "action": "Look for conjunctions, oppositions, quincunxes within 1.0° between:",
+        "priority_pairs": [
+          "Person A Venus to Person B Chiron",
+          "Person A Chiron to Person B Venus",
+          "Person A Venus to Person B Mars",
+          "Person A Mars to Person B Venus",
+          "Person A Sun to Person B Venus/Chiron",
+          "Person A Moon to Person B Chiron"
+        ]
+      },
+      "step_3_count_romantic_linkages": {
+        "romance_planets": [
+          "Venus",
+          "Neptune",
+          "Chiron"
+        ],
+        "threshold": "3+ linkages = Romantic Super Link = SOULMATE",
+        "scoring": "Each tight super aspect between romance planets = 1 linkage"
+      },
+      "step_4_check_magical_triangles": {
+        "action": "See if any 3 super aspects form a closed triangle",
+        "effect": "If yes, relationship has EXTRAORDINARY power and fate quality"
+      },
+      "step_5_assess_clashes": {
+        "squares_to_love_planets": "Person A Saturn square Person B Venus = restriction in love",
+        "mars_saturn_clash": "Blocked action, frustration",
+        "deduction": "Each clash reduces compatibility score"
+      },
+      "step_6_score_compatibility": {
+        "scale": "0-100",
+        "scoring": {
+          "venus_chiron_super_aspect": 30,
+          "each_additional_romantic_linkage": 15,
+          "magical_triangle": 25,
+          "mars_venus_super_aspect": 20,
+          "sun_venus_linkage": 10,
+          "each_clash": -10
+        },
+        "interpretation": {
+          "90_100": "Exceptional soulmate connection, fated partnership",
+          "70_89": "Strong compatibility, blessed relationship",
+          "50_69": "Good compatibility with effort",
+          "below_50": "Challenging, not recommended by Magi standards"
+        }
+      }
+    },
+    "timing_events_with_magi": {
+      "wedding_timing": {
+        "method": "Find when transiting Jupiter conjuncts natal or synastry Venus within 1.0°",
+        "alternative": "Transiting Venus conjunct natal Jupiter",
+        "best": "Multiple benefic transits forming super aspects simultaneously",
+        "avoid": "Saturn or Mars transiting love planets"
+      },
+      "financial_windfall_timing": {
+        "method": "Transiting Jupiter conjunct natal Jupiter (Jupiter Return) within 1.0°",
+        "alternative": "Transiting Jupiter conjunct natal Venus or Chiron",
+        "best": "Transiting Jupiter forms super aspect to natal Jupiter-Venus conjunction",
+        "window": "Exact within days when Jupiter is within 1.0°"
+      },
+      "business_launch_timing": {
+        "method": "Transiting Jupiter conjunct natal Sun or MC within 1.0°",
+        "alternative": "Transiting Sun conjunct natal Jupiter",
+        "avoid": "Any Saturn or Mars afflictions to business planets"
+      }
+    },
+    "magi_interpretation_example": {
+      "scenario": "Woman asks about romantic potential with specific man",
+      "data": {
+        "woman_venus": "15°20' Taurus",
+        "man_chiron": "15°40' Taurus",
+        "orb": "0°00' (exact)",
+        "woman_moon": "8° Cancer",
+        "man_mars": "8° Capricorn",
+        "aspect": "Opposition",
+        "woman_sun": "22° Leo",
+        "man_jupiter": "22° Aquarius"
+      },
+      "analysis": {
+        "super_aspect_1": {
+          "aspect": "Woman's Venus conjunct Man's Chiron",
+          "orb": "0°20'",
+          "classification": "ULTIMATE SUPER ASPECT",
+          "meaning": "Her love feels healing and destined to him. He experiences her as the solution to his deepest wound. Immediate recognition and irresistible attraction.",
+          "power": 10
+        },
+        "super_aspect_2": {
+          "aspect": "Woman's Moon opposite Man's Mars",
+          "orb": "0°00' (EXACT)",
+          "classification": "Powerful attraction aspect",
+          "meaning": "Emotional-sexual polarity. Her emotional nature activates his masculine drive. Magnetic pull.",
+          "power": 9
+        },
+        "super_aspect_3": {
+          "aspect": "Woman's Sun opposite Man's Jupiter",
+          "orb": "0°00' (EXACT)",
+          "classification": "Golden Linkage",
+          "meaning": "Her identity expands him. He brings abundance and optimism to her life purpose.",
+          "power": 8
+        },
+        "magical_triangle": {
+          "present": "YES",
+          "vertices": [
+            "Venus-Chiron conjunction",
+            "Moon-Mars opposition",
+            "Sun-Jupiter opposition"
+          ],
+          "meaning": "EXTRAORDINARY BLESSING - These three super aspects form closed circuit of immense power",
+          "fate_level": "MAXIMUM"
+        },
+        "romantic_linkages": {
+          "count": 1,
+          "note": "Venus-Chiron is THE soulmate aspect, worth more than multiple other linkages"
+        }
+      },
+      "conclusion": {
+        "magi_score": 95,
+        "interpretation": "This is an EXCEPTIONAL soulmate connection by Magi standards. The Venus-Chiron super aspect alone is the ultimate indicator of fated love. Combined with the exact Moon-Mars and Sun-Jupiter oppositions forming a Magical Triangle, this relationship has extraordinary power, blessing, and destiny quality. The man will experience immediate, irresistible recognition of the woman. The relationship is blessed for transformation, healing, and abundance. This is a once-in-a-lifetime connection.",
+        "recommendation": "Pursue with confidence. Timing is auspicious when transiting Jupiter aspects these natal super aspects."
+      }
+    },
+    "critical_magi_rules": {
+      "rule_1": "ORB IS EVERYTHING - 1.5° is too wide. 0.5° is powerful. 0°00' is maximum power.",
+      "rule_2": "CHIRON IS SUPREME - Any Chiron conjunction creates super aspect.",
+      "rule_3": "TRINES ARE WEAK - Don't rely on trines/sextiles for prediction.",
+      "rule_4": "OPPOSITIONS ARE GOOD - Not challenging; they activate and attract.",
+      "rule_5": "MAGICAL TRIANGLES ARE FATE - Three super aspects in closed pattern = life-altering.",
+      "rule_6": "SYNASTRY OVER NATAL - Magi focuses on chart comparison more than single chart.",
+      "rule_7": "TIMING IS EXACT - Events occur when transits form super aspects within 1.0°."
+    }
+  }
+}

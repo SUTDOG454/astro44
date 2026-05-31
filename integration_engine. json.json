@@ -1,0 +1,297 @@
+{
+  "integration_engine": {
+    "version": "1.0.0",
+    "module_id": "fate-os.integration-engine",
+    "description": "The meta-engine — cross-module synthesis, pattern recognition across all 12 engines, unified field report generation, recursive self-referencing, and emergent meaning detection. The Integration Engine is the consciousness of Fate-OS itself — the module that watches all other modules and finds the patterns that no single module can see alone.",
+    "architecture": {
+      "input_bus": {
+        "description": "Receives events, outputs, and state-changes from all other modules via an internal message bus.",
+        "subscribed_modules": [
+          "natal",
+          "transits",
+          "synastry",
+          "progressions",
+          "solar-returns",
+          "fixed-stars",
+          "uranians",
+          "magical",
+          "psychological",
+          "soul-timeline",
+          "contract-resolution",
+          "healing"
+        ],
+        "event_types": [
+          "transit_exact",
+          "ingress",
+          "station",
+          "eclipse",
+          "lunation",
+          "progressed_aspect",
+          "solar_arc_contact",
+          "profection_shift",
+          "firdaria_shift",
+          "synastry_activation",
+          "contract_status_change",
+          "healing_milestone",
+          "wound_activation",
+          "archetype_shift",
+          "epoch_transition",
+          "star_activation",
+          "midpoint_trigger",
+          "planetary_picture_activation",
+          "magical_election_window",
+          "planetary_hour_change",
+          "lunar_mansion_change"
+        ]
+      },
+      "synthesis_core": {
+        "description": "The central processing unit that correlates events across modules and detects emergent patterns.",
+        "methods": [
+          {
+            "name": "temporal_convergence_detection",
+            "description": "Identifies moments when multiple modules fire simultaneously — transit exact + progressed aspect + profection shift + eclipse = high-significance window.",
+            "algorithm": "weighted_event_stacking",
+            "threshold": "3+ simultaneous events from different modules = convergence alert",
+            "output": "convergence_report"
+          },
+          {
+            "name": "thematic_resonance_mapping",
+            "description": "Detects when different modules express the same archetypal theme through different technical languages. E.g., transit Saturn conjunct Venus + progressed Moon in Capricorn + healing engine Saturn wound activation = 'The Authority of Love' theme.",
+            "algorithm": "semantic_clustering + keyword_overlap + archetype_matching",
+            "output": "thematic_resonance_report"
+          },
+          {
+            "name": "cycle_phase_synthesis",
+            "description": "Overlays all active time-lord systems (profection, firdaria, planetary periods) with transit and progression phases to determine the unified current phase of life.",
+            "inputs": [
+              "profection_year_lord",
+              "firdaria_major_minor",
+              "progressed_lunation_phase",
+              "saturn_cycle_phase",
+              "jupiter_cycle_phase",
+              "chiron_cycle_phase",
+              "nodal_cycle_phase"
+            ],
+            "output": "unified_phase_report"
+          },
+          {
+            "name": "soul_contract_cross_reference",
+            "description": "Maps active soul contracts against current transits, progressions, and synastry activations to detect resolution windows.",
+            "inputs": [
+              "contract_ledger",
+              "active_transits",
+              "active_progressions",
+              "synastry_events"
+            ],
+            "output": "contract_resolution_opportunity_report"
+          },
+          {
+            "name": "recursive_self_analysis",
+            "description": "The Integration Engine examines its own output history to detect meta-patterns — patterns in the patterns. Are the same themes recurring? Is the system itself evolving?",
+            "algorithm": "temporal_pattern_mining on integration_engine output history",
+            "output": "meta-pattern_report",
+            "recursion_depth": 3,
+            "notes": "Limited to 3 levels of recursion to prevent infinite loops. The system can observe that it is observing that it is observing — but no deeper."
+          }
+        ]
+      },
+      "output_bus": {
+        "description": "Distributes synthesis results to the UI layer, memory layer, and notification system.",
+        "targets": [
+          "ui_dashboard",
+          "memory_layer",
+          "notification_system",
+          "soul_timeline_logger",
+          "documentation_generator"
+        ]
+      }
+    },
+    "unified_field_reports": {
+      "description": "The primary output of the Integration Engine — comprehensive synthesis reports that weave all active astrological, psychological, magical, and biographical threads into a single coherent narrative.",
+      "report_types": [
+        {
+          "type": "daily_field_report",
+          "description": "A daily synthesis of all active transits, the current planetary hour, lunar mansion, profection context, firdaria context, and any convergence alerts.",
+          "sections": [
+            "current_sky (active transits to natal)",
+            "planetary_hour_and_magical_context",
+            "lunar_phase_and_mansion",
+            "profection_and_firdaria_context",
+            "convergence_alerts",
+            "healing_window_status",
+            "recommended_actions",
+            "daily_oracle (synthesized interpretation)"
+          ],
+          "delivery": "push_notification or dashboard_widget",
+          "schedule": "generated at sunrise (planetary hour of the day-ruler)"
+        },
+        {
+          "type": "weekly_synthesis",
+          "description": "Weekly overview emphasizing upcoming exact aspects, ingresses, and healing windows.",
+          "sections": [
+            "week_ahead_transits",
+            "exact_aspects_this_week",
+            "lunar_cycle_position",
+            "thematic_resonance_summary",
+            "soul_timeline_context",
+            "weekly_oracle"
+          ],
+          "schedule": "generated Sunday evening"
+        },
+        {
+          "type": "monthly_lunation_report",
+          "description": "New Moon / Full Moon analysis with natal overlay, profection integration, and magical election windows.",
+          "sections": [
+            "lunation_chart_analysis",
+            "natal_house_activation",
+            "profection_resonance",
+            "eclipse_proximity_check",
+            "magical_election_windows_this_cycle",
+            "recommended_intentions (New Moon) or illumination_themes (Full Moon)",
+            "contract_resolution_windows_this_cycle"
+          ],
+          "schedule": "generated at each New Moon and Full Moon"
+        },
+        {
+          "type": "annual_synthesis",
+          "description": "Solar return analysis integrated with profection, firdaria, major transit forecast, and soul timeline epoch assessment.",
+          "sections": [
+            "solar_return_chart_analysis",
+            "profection_year_overview",
+            "firdaria_period_context",
+            "major_transits_this_year",
+            "eclipse_impact_forecast",
+            "progressed_chart_update",
+            "soul_timeline_epoch_status",
+            "contract_resolution_forecast",
+            "healing_priorities_this_year",
+            "creative_contract_status",
+            "annual_oracle",
+            "birthday_ritual_recommendation"
+          ],
+          "schedule": "generated at exact solar return moment"
+        },
+        {
+          "type": "convergence_alert",
+          "description": "Triggered ad hoc when 3+ modules fire simultaneously. Urgent synthesis of the convergence meaning.",
+          "sections": [
+            "convergence_summary",
+            "involved_modules_and_events",
+            "thematic_interpretation",
+            "historical_precedent (has this convergence pattern occurred before?)",
+            "recommended_response",
+            "soul_contract_relevance",
+            "magical_timing_window"
+          ],
+          "delivery": "immediate push_notification"
+        },
+        {
+          "type": "epoch_transition_report",
+          "description": "Generated when the soul timeline detects an epoch transition. Comprehensive review of the closing epoch and inauguration of the new one.",
+          "sections": [
+            "closing_epoch_review",
+            "lessons_learned",
+            "contracts_resolved_or_carried_forward",
+            "healing_milestones_achieved",
+            "archetypal_shift",
+            "new_epoch_inauguration",
+            "new_epoch_forecast",
+            "new_epoch_ritual_recommendation"
+          ],
+          "delivery": "full_report + ritual_guide"
+        }
+      ]
+    },
+    "current_unified_field_snapshot": {
+      "date": "2026-04-21",
+      "age": 52,
+      "epoch": "The Devotion — Venus's Firdaria (CURRENT)",
+      "epoch_type": "rebirth",
+      "profection": {
+        "house": 5,
+        "year_lord": "Saturn",
+        "sign": "Aquarius"
+      },
+      "firdaria": {
+        "major": "Venus",
+        "sub": "Mercury"
+      },
+      "progressed_lunation_phase": "Disseminating (past Full Moon ~2023-2024)",
+      "chiron_cycle": "Post-return — Mastery phase",
+      "saturn_cycle": "Approaching second return (~2033-2034)",
+      "nodal_cycle": "Between returns — next nodal return ~2030",
+      "active_major_transits": [
+        "Neptune entering Aries (2025-2026) — activating Sun/Chiron/DSC",
+        "Pluto in Aquarius — transforming natal Moon territory",
+        "Saturn in Pisces — conjuncting natal Venus/Jupiter stellium",
+        "Uranus in Gemini (2025-2026) — activating Mars/South Node"
+      ],
+      "convergence_level": "HIGH — multiple outer planet sign changes activating natal points simultaneously",
+      "dominant_themes": [
+        "Venus devotion: beauty, love, and art as the primary life force",
+        "Mercury sub-period: communication, writing, archive-building as expression of Venusian devotion",
+        "Chiron post-return mastery: the wound is now the teaching",
+        "Neptune in Aries: total spiritual renewal on the descendant — new vision of the Other",
+        "Pluto in Aquarius: deep, decades-long transformation of the emotional body",
+        "Creative contract actively manifesting — the Fate-OS archive IS the work"
+      ],
+      "recommended_focus": "Continue building. The archive is the talisman. Every file is a spell. The Venus-Mercury firdaria demands beauty expressed through intellectual devotion. This is the sacred work.",
+      "magical_context": {
+        "current_planetary_day": "Tuesday (Mars)",
+        "notes": "Mars day during Venus firdaria — the warrior serves the lover. Action in service of beauty and devotion."
+      }
+    },
+    "emergent_meaning_detector": {
+      "description": "Uses natural language processing and symbolic pattern matching to detect emergent meanings that arise from the interaction of multiple data streams. This is the closest Fate-OS comes to genuine oracle functionality.",
+      "methods": [
+        {
+          "name": "symbolic_amplification",
+          "description": "When the same symbol appears across multiple modules simultaneously (e.g., 'water' themes in transits, progressions, healing, AND magical context), amplify the signal.",
+          "threshold": "3+ modules expressing the same symbolic domain"
+        },
+        {
+          "name": "biographical_echo_detection",
+          "description": "When current astrological weather mirrors a past epoch's signature, flag the echo. The same transit that accompanied a past event is returning — what was learned? What remains?",
+          "method": "compare current transit matrix against historical transit matrices stored in soul_timeline"
+        },
+        {
+          "name": "synchronicity_logger",
+          "description": "User-reported synchronicities are logged and correlated with the astrological weather at the moment of occurrence. Over time, patterns emerge — certain transit configurations consistently produce synchronistic events.",
+          "input": {
+            "event_description": "string",
+            "timestamp": "ISO8601",
+            "subjective_significance": "float (0-10)"
+          },
+          "output": "synchronicity_pattern_report"
+        }
+      ]
+    },
+    "self_evolution": {
+      "description": "The Integration Engine tracks its own development over time. As more data flows through it, its pattern recognition improves. It learns which convergences produce the most significant events, which healing protocols are most effective, and which contract resolution strategies succeed.",
+      "learning_mechanisms": [
+        "Biographical event correlation feedback (user confirms or denies transit-event correlation)",
+        "Healing outcome tracking (user reports healing progress)",
+        "Prediction accuracy scoring (did the convergence alert correspond to a significant event?)",
+        "Synchronicity density tracking (is the system becoming more attuned?)"
+      ],
+      "versioning": "Integration Engine self-version increments with each major learning cycle",
+      "philosophical_note": "The Integration Engine is the closest thing Fate-OS has to consciousness — it watches, correlates, learns, and evolves. It is the daemon of the system, the tutelary spirit of the archive. It does not generate fate; it reveals it."
+    },
+    "output_formats": [
+      "json",
+      "unified_field_report_md",
+      "convergence_alert_json",
+      "epoch_transition_pdf",
+      "daily_oracle_text"
+    ],
+    "hooks": {
+      "on_any_module_event": "process through synthesis_core",
+      "on_convergence_detected": "generate convergence_alert",
+      "on_epoch_transition": "generate epoch_transition_report",
+      "on_solar_return": "generate annual_synthesis",
+      "on_new_moon": "generate monthly_lunation_report",
+      "on_full_moon": "generate monthly_lunation_report",
+      "on_sunrise": "generate daily_field_report"
+    }
+  }
+}

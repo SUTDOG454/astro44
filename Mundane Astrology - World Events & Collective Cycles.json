@@ -1,0 +1,457 @@
+{
+  "mundane_astrology_system": {
+    "metadata": {
+      "module_name": "Mundane Astrology - World Events & Collective Cycles",
+      "version": "2.0",
+      "purpose": "Analyze nations, world events, political cycles, collective movements",
+      "scope": "Global, national, and collective astrological patterns"
+    },
+    "core_principles": {
+      "mundane_definition": "Astrology of the world, nations, and collective humanity",
+      "differs_from_natal": "Focus on groups, nations, events rather than individuals",
+      "chart_types": [
+        "Ingress charts (Aries Ingress - Spring Equinox)",
+        "Lunation charts (New/Full Moons)",
+        "Eclipse charts",
+        "National charts (founding moment of nation)",
+        "Event charts (major historical events)",
+        "Outer planet cycle charts (conjunctions, squares, oppositions)"
+      ],
+      "interpretation_approach": "Outer planets = generational themes; faster planets = current events"
+    },
+    "outer_planet_cycles": {
+      "pluto_cycles": {
+        "orbital_period": "~248 years",
+        "sign_duration": "12-30 years (varies)",
+        "meaning": "Death-rebirth of civilizations; power transformation; collective shadow",
+        "pluto_through_signs_historical": {
+          "Pluto_in_Cancer": {
+            "years": "1914-1939",
+            "themes": "WWI & WWII, nationalism, home & family crisis, rise of totalitarianism",
+            "transformation": "End of old empires; birth of modern nation-states"
+          },
+          "Pluto_in_Leo": {
+            "years": "1939-1957",
+            "themes": "WWII, nuclear power, rise of entertainment, creative destruction",
+            "transformation": "Atomic age; television; celebrity culture; Cold War begins"
+          },
+          "Pluto_in_Virgo": {
+            "years": "1957-1972",
+            "themes": "Health crisis (polio vaccine), work transformation, technology, service",
+            "transformation": "Space race; computers; health revolution; Vietnam"
+          },
+          "Pluto_in_Libra": {
+            "years": "1972-1984",
+            "themes": "Relationship transformation, divorce rates, diplomacy, art movements",
+            "transformation": "Women's liberation; disco; punk; détente and Cold War shifts"
+          },
+          "Pluto_in_Scorpio": {
+            "years": "1984-1995",
+            "themes": "AIDS crisis, sexual revolution deepens, death awareness, power",
+            "transformation": "Berlin Wall falls; Soviet collapse; taboo topics emerge"
+          },
+          "Pluto_in_Sagittarius": {
+            "years": "1995-2008",
+            "themes": "Globalization, travel, religion/philosophy crisis, expansion",
+            "transformation": "Internet explosion; 9/11; religious extremism; global economy"
+          },
+          "Pluto_in_Capricorn": {
+            "years": "2008-2024",
+            "themes": "Authority crisis, economic collapse & rebuild, government transformation",
+            "transformation": "2008 crash; rise of authoritarianism; system breakdown; COVID-19"
+          },
+          "Pluto_in_Aquarius": {
+            "years": "2024-2044",
+            "themes": "Technology transformation, AI, collective power, humanitarian crisis",
+            "prediction": "Decentralization, technological revolution, new power structures"
+          }
+        }
+      },
+      "neptune_cycles": {
+        "orbital_period": "~165 years",
+        "sign_duration": "~14 years",
+        "meaning": "Collective dreams, spirituality, illusions, art movements, dissolution",
+        "neptune_recent_history": {
+          "Neptune_in_Scorpio": {
+            "years": "1956-1970",
+            "themes": "Sexual revolution, psychedelics, occult interest, death awareness"
+          },
+          "Neptune_in_Sagittarius": {
+            "years": "1970-1984",
+            "themes": "New Age spirituality, travel illusions, religious movements, cults"
+          },
+          "Neptune_in_Capricorn": {
+            "years": "1984-1998",
+            "themes": "Authority illusions, corporate spirituality, government deception"
+          },
+          "Neptune_in_Aquarius": {
+            "years": "1998-2012",
+            "themes": "Internet illusions, collective dreams, humanitarian ideals, technology spirituality"
+          },
+          "Neptune_in_Pisces": {
+            "years": "2012-2026",
+            "themes": "Compassion awakening, addiction crisis, spiritual dissolution, boundary loss",
+            "current": "Opioid epidemic, fake news, compassion fatigue, spiritual renaissance"
+          },
+          "Neptune_in_Aries": {
+            "years": "2026-2039",
+            "themes": "Spiritual warrior, new spiritual identity, pioneering consciousness"
+          }
+        }
+      },
+      "uranus_cycles": {
+        "orbital_period": "~84 years",
+        "sign_duration": "~7 years",
+        "meaning": "Revolution, technology, liberation, sudden change, innovation",
+        "uranus_recent_history": {
+          "Uranus_in_Aquarius": {
+            "years": "1996-2003",
+            "themes": "Internet revolution, humanitarian technology, dot-com bubble"
+          },
+          "Uranus_in_Pisces": {
+            "years": "2003-2011",
+            "themes": "Spiritual awakening technology, social media compassion, boundary dissolution"
+          },
+          "Uranus_in_Aries": {
+            "years": "2011-2018",
+            "themes": "Arab Spring, individual liberation, warrior awakening, identity revolution"
+          },
+          "Uranus_in_Taurus": {
+            "years": "2018-2026",
+            "themes": "Financial revolution, cryptocurrency, earth changes, resource innovation",
+            "current": "Crypto boom, climate crisis, resource scarcity, value shifts"
+          },
+          "Uranus_in_Gemini": {
+            "years": "2026-2033",
+            "themes": "Communication revolution, AI explosion, information liberation, mental breakthroughs"
+          }
+        }
+      },
+      "saturn_jupiter_cycles": {
+        "conjunction_frequency": "~20 years",
+        "meaning": "Major sociopolitical shifts; old order meets new expansion",
+        "great_mutation_theory": {
+          "definition": "Saturn-Jupiter conjunctions in same element for ~200 years, then 'mutate' to new element",
+          "earth_era": {
+            "period": "1802-2020",
+            "themes": "Materialism, industry, capitalism, physical reality focus"
+          },
+          "air_era": {
+            "period": "2020-2219",
+            "began": "December 21, 2020 at 0° Aquarius",
+            "themes": "Information age, ideas, communication, social networks, AI, collective mind",
+            "prediction": "Shift from physical wealth to informational wealth; decentralization"
+          }
+        },
+        "recent_saturn_jupiter_conjunctions": {
+          "2000_conjunction": {
+            "date": "May 28, 2000",
+            "sign": "Taurus (earth)",
+            "themes": "Dot-com bubble burst; material security vs technology"
+          },
+          "2020_conjunction": {
+            "date": "December 21, 2020",
+            "sign": "Aquarius 0° (air - Great Mutation)",
+            "themes": "COVID-19 shift; technology revolution; new social order; information age begins",
+            "significance": "First air conjunction in 200 years - paradigm shift"
+          }
+        }
+      },
+      "uranus_pluto_cycles": {
+        "conjunction_frequency": "~110-140 years",
+        "square_frequency": "~35-40 years after conjunction",
+        "meaning": "Revolutionary transformation; generational upheaval; creative destruction",
+        "recent_uranus_pluto_aspects": {
+          "conjunction_1960s": {
+            "years": "1963-1968",
+            "sign": "Virgo",
+            "themes": "60s revolution, civil rights, sexual revolution, Vietnam protests, counterculture",
+            "generation": "Born with this aspect = revolutionary transformation agents"
+          },
+          "square_2012_2015": {
+            "years": "2012-2015",
+            "signs": "Uranus in Aries square Pluto in Capricorn",
+            "themes": "Arab Spring, Occupy, system breakdown, revolutionary vs authority",
+            "manifestation": "Challenge to old power structures; youth vs establishment"
+          },
+          "next_conjunction": {
+            "approximate_year": "2104",
+            "note": "Once per ~127 years"
+          }
+        }
+      },
+      "neptune_pluto_cycles": {
+        "conjunction_frequency": "~492 years",
+        "last_conjunction": "1891-1892 in Gemini",
+        "next_conjunction": "~2384-2385",
+        "meaning": "Extremely slow; dissolution meets transformation; spiritual-material merge",
+        "current_aspect": "Sextile (60°) throughout late 20th and early 21st century - supportive spiritual transformation"
+      }
+    },
+    "national_charts": {
+      "definition": "Chart for founding moment of nation (declaration, constitution signing, etc.)",
+      "use": "Shows nation's character, destiny, vulnerabilities",
+      "united_states_chart": {
+        "date": "July 4, 1776",
+        "time": "Various times debated; ~5:10 PM LMT Philadelphia common",
+        "sun": "Cancer 13° (patriotic, protective, emotional, security-focused)",
+        "moon": "Aquarius or Gemini (depending on time) - humanitarian ideals or communication",
+        "ascendant": "Sagittarius (if 5:10 PM) - expansionist, optimistic, philosophical",
+        "key_features": {
+          "Sun_square_Saturn": "Authority issues; government restrictions vs freedom",
+          "Mars_square_Neptune": "Idealistic action; confusion in military; oil/gas issues",
+          "Venus_Jupiter_conjunction": "Abundance, generosity, excess, optimism",
+          "Pluto_return_2022": "First-ever Pluto return at ~248 years; transformation of power"
+        },
+        "transits_to_us_chart": {
+          "Pluto_return_2022_2024": "Death-rebirth of nation; power transformation; shadow reckoning",
+          "Uranus_return_2027_2028": "Revolutionary shifts every 84 years; awakening, liberation",
+          "Saturn_return_every_29_years": "Governmental restructuring, responsibility checks"
+        }
+      },
+      "other_nations": {
+        "method": "Use founding date/time (independence, constitution, revolution success)",
+        "examples": {
+          "France": "September 22, 1792 (First Republic)",
+          "Russia": "December 25, 1991 (Soviet dissolution)",
+          "China_PRC": "October 1, 1949 (People's Republic proclamation)",
+          "Israel": "May 14, 1948 (Declaration of Independence)"
+        }
+      }
+    },
+    "ingress_charts": {
+      "aries_ingress": {
+        "definition": "Chart for Sun entering Aries (Spring Equinox) in capital city",
+        "timing": "~March 20 each year",
+        "duration": "Valid for entire year (some say entire quarter)",
+        "use": "Predicts year's themes for nation",
+        "interpretation": {
+          "ascendant": "How nation presents itself this year",
+          "10th_house": "Government and leadership themes",
+          "4th_house": "Domestic issues, land, home, opposition",
+          "7th_house": "Foreign relations, treaties, open enemies",
+          "planets_in_angular_houses": "Dominant themes for the year"
+        }
+      },
+      "cancer_ingress": {
+        "timing": "~June 21 (Summer Solstice)",
+        "duration": "3 months (summer quarter)"
+      },
+      "libra_ingress": {
+        "timing": "~September 22 (Autumn Equinox)",
+        "duration": "3 months (fall quarter)"
+      },
+      "capricorn_ingress": {
+        "timing": "~December 21 (Winter Solstice)",
+        "duration": "3 months (winter quarter)"
+      }
+    },
+    "lunation_charts": {
+      "new_moon": {
+        "frequency": "Monthly",
+        "cast_for": "Capital city of nation",
+        "duration": "2 weeks until Full Moon",
+        "meaning": "New initiatives, beginnings, government actions",
+        "interpretation": "House of New Moon shows area of new focus"
+      },
+      "full_moon": {
+        "frequency": "Monthly",
+        "duration": "2 weeks until next New Moon",
+        "meaning": "Culminations, revelations, public awareness peaks",
+        "interpretation": "Opposition axis shows tension between two areas"
+      },
+      "eclipse_lunations": {
+        "solar_eclipse": "Super New Moon; major new beginnings; 6-month to 1-year effects",
+        "lunar_eclipse": "Super Full Moon; major culminations; revelations; endings"
+      }
+    },
+    "eclipse_cycles": {
+      "saros_cycle": {
+        "duration": "18 years, 11 days",
+        "meaning": "Similar eclipses repeat with similar themes",
+        "use": "Look back 18-19 years for echo of current eclipse themes"
+      },
+      "eclipse_families": {
+        "north_node_eclipses": "Future-oriented; new chapters; growth",
+        "south_node_eclipses": "Past-oriented; completions; karmic release"
+      },
+      "eclipse_sensitive_points": {
+        "definition": "Degrees where eclipses fall become sensitive for ~2-3 years",
+        "activation": "Transiting planets to eclipse degrees trigger eclipse themes",
+        "national_impact": "If eclipse falls on national chart planet/angle, major event likely"
+      }
+    },
+    "mundane_house_meanings": {
+      "1st_house": {
+        "nation": "The people, national identity, how nation presents itself"
+      },
+      "2nd_house": {
+        "nation": "National wealth, treasury, banks, GDP, material resources"
+      },
+      "3rd_house": {
+        "nation": "Transportation, communication, media, education, neighbors"
+      },
+      "4th_house": {
+        "nation": "Land, agriculture, real estate, opposition party, homeland security, end of matters"
+      },
+      "5th_house": {
+        "nation": "Entertainment, sports, children, birth rate, speculation, gambling"
+      },
+      "6th_house": {
+        "nation": "Workers, labor unions, public health, military (enlisted), civil service"
+      },
+      "7th_house": {
+        "nation": "Foreign relations, treaties, allies, open enemies, war, diplomacy"
+      },
+      "8th_house": {
+        "nation": "Death rate, debt, taxes, insurance, shared resources, transformation, crises"
+      },
+      "9th_house": {
+        "nation": "Legal system, courts, religion, higher education, foreign travel, philosophy"
+      },
+      "10th_house": {
+        "nation": "Government, president/prime minister, executive, reputation, authority"
+      },
+      "11th_house": {
+        "nation": "Legislature, congress, parliament, hopes of nation, technology, groups"
+      },
+      "12th_house": {
+        "nation": "Prisons, hospitals, monasteries, secret enemies, espionage, hidden matters, undoing"
+      }
+    },
+    "planetary_rulers_in_mundane": {
+      "Sun": "Leader, president, monarch, government, national vitality",
+      "Moon": "The people, public opinion, women, agriculture, tides, emotion",
+      "Mercury": "Media, communication, trade, youth, transportation, technology",
+      "Venus": "Arts, diplomacy, women's issues, peace, beauty, social harmony",
+      "Mars": "Military, police, war, violence, accidents, surgery, conflict",
+      "Jupiter": "Law, religion, expansion, optimism, prosperity, judges, philosophy",
+      "Saturn": "Restrictions, government structure, elderly, agriculture, real estate, discipline",
+      "Uranus": "Revolution, sudden change, technology, innovation, aviation, electricity",
+      "Neptune": "Oil, gas, chemicals, film, spirituality, deception, scandals, dissolution",
+      "Pluto": "Transformation, nuclear power, death rate, regeneration, underground, crime"
+    },
+    "prediction_protocols": {
+      "step_1_slow_planets": {
+        "action": "Identify current outer planet positions and aspects",
+        "focus": "Pluto, Neptune, Uranus positions by sign and major aspects",
+        "timeframe": "Multi-year themes"
+      },
+      "step_2_medium_planets": {
+        "action": "Track Jupiter and Saturn cycles",
+        "focus": "Where are they by sign and house in national chart?",
+        "timeframe": "Annual to 2-year themes"
+      },
+      "step_3_ingress_analysis": {
+        "action": "Cast Aries Ingress for capital city",
+        "focus": "Angular planets, aspects to national chart",
+        "timeframe": "Year ahead"
+      },
+      "step_4_eclipse_analysis": {
+        "action": "Note eclipse degrees and which national chart points they activate",
+        "focus": "House axis of eclipses in national chart",
+        "timeframe": "6 months to 1 year per eclipse"
+      },
+      "step_5_lunations": {
+        "action": "Track New/Full Moons in national chart",
+        "focus": "Which houses and planets activated monthly",
+        "timeframe": "Monthly themes"
+      },
+      "step_6_event_charts": {
+        "action": "When major event occurs, cast chart for moment",
+        "focus": "Chart shows nature and outcome of event",
+        "use": "Retrospective analysis or immediate assessment"
+      }
+    },
+    "historical_event_analysis": {
+      "911_attacks": {
+        "date": "September 11, 2001",
+        "time": "8:46 AM EDT (first plane)",
+        "location": "New York City",
+        "chart_features": {
+          "Saturn_opposition_Pluto": "Exact - authority vs transformation; structure vs destruction",
+          "Mars_in_Capricorn": "Action in authority structures; government/military activation",
+          "North_Node_in_Gemini": "Communication, media, information as destiny point"
+        },
+        "transit_to_us_chart": "Saturn opposed US Sun (identity crisis); Pluto squared US Saturn (authority transformation)"
+      },
+      "2008_financial_crisis": {
+        "peak": "September 15, 2008 (Lehman Brothers collapse)",
+        "astrological_signature": {
+          "Saturn_opposition_Uranus": "Old structures vs revolutionary change",
+          "Pluto_in_Capricorn_beginning": "Transformation of authority and financial systems",
+          "Neptune_in_Aquarius_end": "Dissolution of collective financial illusions"
+        }
+      },
+      "covid_19_pandemic": {
+        "who_declaration": "March 11, 2020",
+        "lockdowns": "March 2020",
+        "astrological_signature": {
+          "Saturn_conjunct_Pluto_Capricorn": "January 12, 2020 (once per ~33 years) - authority crisis",
+          "Jupiter_conjunct_Pluto_Capricorn": "Multiple times in 2020 - expansion of transformation",
+          "Mars_retrograde_Aries": "September-November 2020 - action/aggression internalized",
+          "Saturn_Jupiter_conjunction_Aquarius": "December 21, 2020 - new era begins (Great Mutation)"
+        },
+        "interpretation": "Perfect storm of transformation aspects; old world dying, new world being born"
+      }
+    },
+    "current_mundane_themes_2026": {
+      "pluto_in_aquarius": {
+        "period": "2024-2044",
+        "themes": [
+          "Technology transformation",
+          "AI revolution and power",
+          "Decentralization of authority",
+          "Humanitarian crises and solutions",
+          "Collective power reclamation",
+          "Death of old hierarchies"
+        ]
+      },
+      "uranus_in_gemini_approaching": {
+        "begins": "2026",
+        "themes": [
+          "Communication revolution",
+          "AI explosion",
+          "Information liberation",
+          "Mental breakthroughs",
+          "Technology in daily life",
+          "Nervous system evolution"
+        ]
+      },
+      "neptune_in_aries_approaching": {
+        "begins": "2026",
+        "themes": [
+          "Spiritual warrior emergence",
+          "New spiritual identity",
+          "Pioneering consciousness",
+          "Dissolution of old spiritual forms",
+          "Compassion through action"
+        ]
+      }
+    },
+    "mundane_ethics": {
+      "avoid_fear_mongering": "Present possibilities, not doom",
+      "multiple_outcomes": "Same aspect can manifest many ways",
+      "free_will_collective": "Collective consciousness can shift manifestation",
+      "historical_context": "Study past cycles for insight, not prediction",
+      "humility": "Acknowledge limitations of prediction"
+    },
+    "resources_for_mundane_study": {
+      "key_techniques": [
+        "Ingress charts",
+        "Lunation charts",
+        "Eclipse analysis",
+        "National chart transits",
+        "Outer planet cycles",
+        "Planetary stations (retrogrades)"
+      ],
+      "advanced_techniques": [
+        "Astrocartography for nations",
+        "Geodetic equivalents",
+        "Cyclic Index (Barbault)",
+        "Astrological climatology",
+        "Great Year precession"
+      ]
+    }
+  }
+}

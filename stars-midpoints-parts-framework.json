@@ -1,0 +1,1314 @@
+{
+  "MasterFixedStarsSynastryMatrix": {
+    "metadata": {
+      "version": "1.3.0",
+      "total_stars": 1127,
+      "date": "2026-01-15",
+      "precession_epoch": "J2026",
+      "update_note": "Integrated Synastry Midpoints system and Chiron Cycle"
+    },
+    "houses": {
+      "1st": {
+        "weight": 10.0,
+        "type": "Angular",
+        "provenance": {
+          "traditional_source": "Ptolemy Tetrabiblos Bk III Ch4 - 'House of life and body'",
+          "modern_source": "Lilly Christian Astrology p45 - 'radical significator of native'",
+          "synastry_role": "Identity fusion, physical attraction",
+          "fixed_star_activation": "Sirius/Regulus = +35x boost"
+        },
+        "synastry_meaning": "Partner activates core identity, changes self-perception",
+        "planet_scores": {
+          "Sun": 90,
+          "Moon": 75,
+          "Venus": 72,
+          "Mars": 60,
+          "NorthNode": 85
+        }
+      },
+      "2nd": {
+        "weight": 7.5,
+        "type": "Succedent",
+        "provenance": {
+          "traditional_source": "Ptolemy - 'movables and substance'",
+          "modern_source": "Morin Book 21 Ch23 - 'pecunia et res mobiles'",
+          "synastry_role": "Shared values, financial compatibility"
+        },
+        "synastry_meaning": "Partner influences self-worth and material security"
+      },
+      "3rd": {
+        "weight": 6.0,
+        "type": "Cadent",
+        "provenance": {
+          "traditional_source": "Al Biruni - 'brethren, short journeys, communication'",
+          "modern_source": "BA Journal Vol 52 - mental rapport house"
+        },
+        "synastry_meaning": "Communication style compatibility, sibling-like rapport"
+      },
+      "4th": {
+        "weight": 9.5,
+        "type": "Angular",
+        "provenance": {
+          "traditional_source": "Ptolemy Tetrabiblos Bk III - 'parents, home, end of life'",
+          "modern_source": "Lilly - 'mother, family, buildings'",
+          "psychological": "Jungian - 'family unconscious complex'",
+          "synastry_role": "Emotional roots activation"
+        },
+        "synastry_meaning": "Deepest family/emotional bonding",
+        "planet_scores": {
+          "Sun": 75,
+          "Moon": 90,
+          "Venus": 60,
+          "Mars": 48,
+          "NorthNode": 72
+        }
+      },
+      "5th": {
+        "weight": 8.0,
+        "type": "Succedent",
+        "provenance": {
+          "traditional_source": "Ptolemy - 'children, pleasures, creation'",
+          "modern_source": "Rudhyar - 'house of creative self-expression'",
+          "synastry_role": "Romance, children, creativity"
+        },
+        "synastry_meaning": "Romantic attraction, creative collaboration"
+      },
+      "6th": {
+        "weight": 5.0,
+        "type": "Cadent",
+        "provenance": {
+          "traditional_source": "Firmicus Maternus - 'servants, illness, small animals'",
+          "modern_source": "daily work/service house"
+        },
+        "synastry_meaning": "Work habits, health compatibility"
+      },
+      "7th": {
+        "weight": 10.0,
+        "type": "Angular",
+        "provenance": {
+          "traditional_source": "Ptolemy Tetrabiblos Bk III Ch7 - 'marriage, partnerships'",
+          "modern_source": "Lilly Christian Astrology p192 - 'all manner of contracts'",
+          "psychological": "Projection house - partner's mirror",
+          "synastry_role": "Marriage destiny axis"
+        },
+        "synastry_meaning": "Primary relationship house - soul contract activation",
+        "planet_scores": {
+          "Sun": 90,
+          "Moon": 78,
+          "Venus": 90,
+          "Mars": 72,
+          "NorthNode": 90
+        }
+      },
+      "8th": {
+        "weight": 8.0,
+        "type": "Succedent",
+        "provenance": {
+          "traditional_source": "Dorotheus - 'death, inheritance, other's goods'",
+          "modern_source": "Placidus - 'house of sex and transformation'",
+          "psychological": "Jung - 'shadow confrontation house'",
+          "synastry_role": "Sexual intimacy, power dynamics"
+        },
+        "synastry_meaning": "Deepest psychological merging",
+        "planet_scores": {
+          "Sun": 84,
+          "Moon": 84,
+          "Venus": 84,
+          "Mars": 90,
+          "NorthNode": 84
+        }
+      },
+      "9th": {
+        "weight": 6.0,
+        "type": "Cadent",
+        "provenance": {
+          "traditional_source": "Ptolemy - 'long journeys, religion, science'",
+          "modern_source": "higher mind/philosophy house"
+        },
+        "synastry_meaning": "Shared beliefs, travel compatibility"
+      },
+      "10th": {
+        "weight": 9.5,
+        "type": "Angular",
+        "provenance": {
+          "traditional_source": "Ptolemy - 'kings, honors, magistracy'",
+          "modern_source": "Lilly - 'preferment and dignity'",
+          "synastry_role": "Career/status elevation"
+        },
+        "synastry_meaning": "Public image enhancement through partnership"
+      },
+      "11th": {
+        "weight": 7.0,
+        "type": "Succedent",
+        "provenance": {
+          "traditional_source": "Al Biruni - 'friends, hopes, benefactors'",
+          "modern_source": "social aspirations house"
+        },
+        "synastry_meaning": "Shared social circles, future goals"
+      },
+      "12th": {
+        "weight": 4.0,
+        "type": "Cadent",
+        "provenance": {
+          "traditional_source": "Ptolemy - 'bad spirit, servants, large animals'",
+          "modern_source": "self-undoing, subconscious, spirituality",
+          "psychological": "Jung - 'collective unconscious access'"
+        },
+        "synastry_meaning": "Subconscious activation, hidden enemies"
+      }
+    },
+    "house_authority": {
+      "primary_sources": [
+        "Ptolemy Tetrabiblos Book III (2nd century AD)",
+        "William Lilly Christian Astrology (1647)",
+        "Dorotheus of Sidon Carmen Astrologicum (1st century AD)",
+        "Firmicus Maternus Matheseos Libri VIII (4th century AD)"
+      ],
+      "modern_references": [
+        "Morin of Villefranche Book 21 (17th century)",
+        "Alan Rudhyar planetary house meanings",
+        "Robert Hand Planets in Composite"
+      ]
+    },
+    "calculation_integration": {
+      "final_score": "PlanetNatalStrength × HouseWeight(0-10) × PlanetRole × StarOrb × AspectMult",
+      "royal_star_angular_boost": "HouseWeight ≥ 9.5 × StarOrb × 3.5",
+      "danger_star_cadent_reduction": "HouseWeight ≤ 6.0 × StarOrb × 0.8"
+    },
+    "lunar_mansions": {
+      "metadata": {
+        "source": "The Magus or Celestial Intelligencer by Francis Barrett (1801)",
+        "system": "Western/Tropical Lunar Mansions",
+        "degrees_basis": "Tropical zodiac, pre-cession adjusted to 1801 epoch",
+        "modern_application": "Used in electional astrology, talismanic magic, and timing of lunar influences"
+      },
+      "mansions": [
+        {
+          "mansion": 1,
+          "range": "0° Aries to 12°51' Aries",
+          "angel": "Geniel",
+          "effects": "causes discords and journies",
+          "symbolic_image": "For destruction: black man in hair garment with lance, sealed in black wax with liquid storax",
+          "synastry_application": "Activation of conflict or travel themes in relationship"
+        },
+        {
+          "mansion": 2,
+          "range": "12°51' Aries to 25°42' Aries",
+          "angel": "Enediel",
+          "effects": "finding treasures, retaining captives",
+          "symbolic_image": "Against prince's wrath: crowned king image in white wax and mastich",
+          "synastry_application": "Shared resources, binding commitments"
+        },
+        {
+          "mansion": 3,
+          "range": "25°42' Aries to 8°34' Taurus",
+          "angel": "Anixiel",
+          "effects": "profitable to sailors, huntsmen, alchemists",
+          "symbolic_image": "Happy fortune: woman in chair with hand on head, in silver ring",
+          "synastry_application": "Adventurous partnership, shared quests"
+        },
+        {
+          "mansion": 4,
+          "range": "8°34' Taurus to 21°25' Taurus",
+          "angel": "Azariel",
+          "effects": "destruction of buildings, wells, discord",
+          "symbolic_image": "For revenge: soldier on horse with serpent, red wax",
+          "synastry_application": "Foundation challenges, security issues"
+        },
+        {
+          "mansion": 5,
+          "range": "21°25' Taurus to 4°17' Gemini",
+          "angel": "Gabriel",
+          "effects": "confirms edifices, gives health and good-will",
+          "symbolic_image": "Favour of kings: head of man in silver with red sanders",
+          "synastry_application": "Building stable relationship structures"
+        },
+        {
+          "mansion": 6,
+          "range": "4°17' Gemini to 17°8' Gemini",
+          "angel": "Dirachiel",
+          "effects": "hunting, besieging towns, revenge, destroys harvests",
+          "symbolic_image": "Love between two: embracing images in white wax",
+          "synastry_application": "Passionate pursuit or destructive patterns"
+        },
+        {
+          "mansion": 7,
+          "range": "17°8' Gemini to 0° Cancer",
+          "angel": "Scheliel",
+          "effects": "gain, friendship, profitable to lovers, scares flies",
+          "symbolic_image": "Every good thing: man praying to Heaven, in silver",
+          "synastry_application": "Social harmony, mutual benefits"
+        },
+        {
+          "mansion": 8,
+          "range": "0° Cancer to 12°51' Cancer",
+          "angel": "Amnediel",
+          "effects": "love, friendship, society, drives away mice",
+          "symbolic_image": "Victory in war: eagle with man's face, in tin",
+          "synastry_application": "Emotional bonding, protective partnership"
+        },
+        {
+          "mansion": 9,
+          "range": "12°51' Cancer to 25°42' Cancer",
+          "angel": "Barbiel",
+          "effects": "hinders harvests, travelers, discord",
+          "symbolic_image": "Cause infirmities: man without privy parts covering eyes",
+          "synastry_application": "Emotional blocks, intimacy issues"
+        },
+        {
+          "mansion": 10,
+          "range": "25°42' Cancer to 8°34' Leo",
+          "angel": "Ardefiel",
+          "effects": "strengthens buildings, love, benevolence, help against enemies",
+          "symbolic_image": "Child bearing, cure sick: lion's head in gold",
+          "synastry_application": "Creative partnerships, healing dynamics"
+        },
+        {
+          "mansion": 11,
+          "range": "8°34' Leo to 21°25' Leo",
+          "angel": "Neciel",
+          "effects": "voyages, gain by merchandise, redemption of captives",
+          "symbolic_image": "Fear, reverence: man riding lion with bracelet",
+          "synastry_application": "Shared adventures, liberating each other"
+        },
+        {
+          "mansion": 12,
+          "range": "21°25' Leo to 4°17' Virgo",
+          "angel": "Abdizuel",
+          "effects": "prosperity to harvests, hinders seamen, betters servants",
+          "symbolic_image": "Separation of lovers: dragon fighting man",
+          "synastry_application": "Service dynamics, refinement through relationship"
+        },
+        {
+          "mansion": 13,
+          "range": "4°17' Virgo to 17°8' Virgo",
+          "angel": "Jazeriel",
+          "effects": "benevolence, gain, voyages, harvests, freedom of captives",
+          "symbolic_image": "Agreement of married people: embracing couple images",
+          "synastry_application": "Marital harmony, sexual compatibility"
+        },
+        {
+          "mansion": 14,
+          "range": "17°8' Virgo to 0° Libra",
+          "angel": "Ergediel",
+          "effects": "love of married folks, cures sick, profitable to sailors",
+          "symbolic_image": "Divorce: dog biting tail in red copper",
+          "synastry_application": "Health partnerships, separation themes"
+        },
+        {
+          "mansion": 15,
+          "range": "0° Libra to 12°51' Libra",
+          "angel": "Atliel",
+          "effects": "extracting treasures, digging pits, divorce, discord",
+          "symbolic_image": "Friendship: man sitting inditing letters",
+          "synastry_application": "Balancing partnership values"
+        },
+        {
+          "mansion": 16,
+          "range": "12°51' Libra to 25°42' Libra",
+          "angel": "Azeruel",
+          "effects": "hinders journeys, wedlock, harvests, merchandise",
+          "symbolic_image": "Gaining merchandising: man with balance in hand",
+          "synastry_application": "Financial partnership, justice in relationship"
+        },
+        {
+          "mansion": 17,
+          "range": "25°42' Libra to 8°34' Scorpio",
+          "angel": "Adriel",
+          "effects": "betters bad fortune, makes love durable, strengthens buildings",
+          "symbolic image": "Against thieves: image of ape in iron",
+          "synastry_application": "Transformative bonding, overcoming obstacles"
+        },
+        {
+          "mansion": 18,
+          "range": "8°34' Scorpio to 21°25' Scorpio",
+          "angel": "Egibiel",
+          "effects": "discord, sedition, conspiracy, frees captives",
+          "symbolic_image": "Against fevers: snake with tail above head",
+          "synastry_application": "Power struggles, healing through conflict"
+        },
+        {
+          "mansion": 19,
+          "range": "21°25' Scorpio to 4°17' Sagittarius",
+          "angel": "Amutiel",
+          "effects": "besieging cities, driving men away, destruction of seamen",
+          "symbolic_image": "Provoking menstrues: woman with hands on face",
+          "synastry_application": "Intense psychological merging"
+        },
+        {
+          "mansion": 20,
+          "range": "4°17' Sagittarius to 17°8' Sagittarius",
+          "angel": "Kyriel",
+          "effects": "taming wild beasts, strengthening prisons, compels coming",
+          "symbolic_image": "For hunting: Sagittary (half-man half-horse)",
+          "synastry_application": "Adventure partnership, freedom themes"
+        },
+        {
+          "mansion": 21,
+          "range": "17°8' Sagittarius to 0° Capricorn",
+          "angel": "Bethnael",
+          "effects": "good for harvests, gain, buildings, travellers, causes divorce",
+          "symbolic_image": "Destruction: man with double countenance",
+          "synastry_application": "Philosophical compatibility, long-distance"
+        },
+        {
+          "mansion": 22,
+          "range": "0° Capricorn to 12°51' Capricorn",
+          "angel": "Geliel",
+          "effects": "promotes flight of servants/captives, helps curing diseases",
+          "symbolic_image": "Security of runaways: man with winged feet",
+          "synastry_application": "Practical support, health maintenance"
+        },
+        {
+          "mansion": 23,
+          "range": "12°51' Capricorn to 25°42' Capricorn",
+          "angel": "Requiel",
+          "effects": "divorce, liberty of captives, health of sick",
+          "symbolic_image": "Destruction: cat with dog's head",
+          "synastry_application": "Structural change in relationship"
+        },
+        {
+          "mansion": 24,
+          "range": "25°42' Capricorn to 8°34' Aquarius",
+          "angel": "Abrinael",
+          "effects": "benevolence of married, victory of soldiers, hurts government",
+          "symbolic_image": "Multiplying cattle: woman nursing son",
+          "synastry_application": "Unconventional partnership structures"
+        },
+        {
+          "mansion": 25,
+          "range": "8°34' Aquarius to 21°25' Aquarius",
+          "angel": "Agiel",
+          "effects": "favors besieging, revenge, destroys enemies, causes divorce",
+          "symbolic_image": "Preservation of trees: man planting",
+          "synastry_application": "Revolutionary relationship ideals"
+        },
+        {
+          "mansion": 26,
+          "range": "21°25' Aquarius to 4°17' Pisces",
+          "angel": "Tagriel",
+          "effects": "causes union, health of captives, destroys buildings",
+          "symbolic_image": "Love and favour: woman washing hair",
+          "synastry_application": "Spiritual connection, dream sharing"
+        },
+        {
+          "mansion": 27,
+          "range": "4°17' Pisces to 17°8' Pisces",
+          "angel": "Atheniel",
+          "effects": "increases harvests, revenues, gain, heals infirmities",
+          "symbolic_image": "Man winged with empty vessel",
+          "synastry_application": "Sacrificial love, spiritual service"
+        },
+        {
+          "mansion": 28,
+          "range": "17°8' Pisces to 0° Aries",
+          "angel": "Amnixiel",
+          "effects": "increases harvests, merchandise, secures travellers",
+          "symbolic_image": "Getting fish together: image of fish",
+          "synastry_application": "Karmic completion, soul connection"
+        }
+      ],
+      "synastry_integration": {
+        "method": "Moon's mansion at birth or by transit reveals underlying emotional patterns in relationship",
+        "angular_mansions": "Mansions on angles (1st, 4th, 7th, 10th house cusps) have amplified effects",
+        "mansion_conjunctions": "When partner's planets fall in native's lunar mansion, activates specific destiny themes"
+      }
+    },
+    "synastry_midpoints": {
+      "metadata": {
+        "source": "Synastry Midpoints Interpretations Resource © 2006 Hamish Saunders and Angela Thomas",
+        "format": "Janus Astrology Software format",
+        "planets_used": [
+          "Sun",
+          "Moon",
+          "Mercury",
+          "Venus",
+          "Mars",
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptune",
+          "Pluto",
+          "Moon's North Node",
+          "Ascendant",
+          "Midheaven"
+        ],
+        "interpretation_count": 473
+      },
+      "midpoint_planets": {
+        "Sun": [
+          {
+            "midpoint_axis": "Moon/Mercury",
+            "interpretation": "The ability to relate well to one another."
+          },
+          {
+            "midpoint_axis": "Moon/Venus",
+            "interpretation": "Doing things from the heart and with feeling. Attentiveness and affection. Forming a close personal connection. Devotion."
+          },
+          {
+            "midpoint_axis": "Moon/Mars",
+            "interpretation": "Emotionally direct and honest."
+          },
+          {
+            "midpoint_axis": "Moon/Jupiter",
+            "interpretation": "Social and material advantages."
+          },
+          {
+            "midpoint_axis": "Moon/Saturn",
+            "interpretation": "Periodic loneliness. Emotional or physical separations."
+          },
+          {
+            "midpoint_axis": "Moon/Uranus",
+            "interpretation": "Changeable emotional states. Nervous tension."
+          },
+          {
+            "midpoint_axis": "Moon/Neptune",
+            "interpretation": "Sensitivity. Undermining influences. Exposure to deception. Receptive to spiritual and psychic influences."
+          },
+          {
+            "midpoint_axis": "Moon/Pluto",
+            "interpretation": "Reactive and compulsive tendencies lead to relationship difficulties. Emotional manipulation. Power struggles."
+          },
+          {
+            "midpoint_axis": "Moon/Moon's North Node",
+            "interpretation": "An emotional need for partnership and connection. Cultivating a personal tie. Adaptability. Creative and fruitful teamwork."
+          },
+          {
+            "midpoint_axis": "Moon/Ascendant",
+            "interpretation": "A personal connection. Sensitivity to environmental influences. The presence of influential women. Acknowledging the importance of family relations."
+          },
+          {
+            "midpoint_axis": "Moon/Midheaven",
+            "interpretation": "A soul-tie."
+          },
+          {
+            "midpoint_axis": "Mercury/Venus",
+            "interpretation": "An appreciation of beauty, refinement and culture. An enjoyment of social activity. Flirtatiousness. Discussions about love or art."
+          },
+          {
+            "midpoint_axis": "Mercury/Mars",
+            "interpretation": "Argumentative and verbally aggressive. A tendency to retaliate. Critical and abrupt."
+          },
+          {
+            "midpoint_axis": "Mercury/Jupiter",
+            "interpretation": "An ability to command the attention of others. Exposure to a wide range of experiences. Learning, erudition and travel. Success in a career."
+          },
+          {
+            "midpoint_axis": "Mercury/Saturn",
+            "interpretation": "A realistic outlook on life. Deep and philosophical discussions. The inclination to think and say bad things."
+          },
+          {
+            "midpoint_axis": "Mercury/Uranus",
+            "interpretation": "Original and intuitive thinking. The ability to sum up situations quickly. Intellectual flexibility and verbal dexterity. Impulsive and contradictory."
+          },
+          {
+            "midpoint_axis": "Mercury/Neptune",
+            "interpretation": "Receptive and perceptive. Compassionate. Idealistic objectives. Easily influenced. Misunderstandings and misconceptions. Confusion."
+          },
+          {
+            "midpoint_axis": "Mercury/Pluto",
+            "interpretation": "Intense discussions or arguments. Expressing strong convictions and intentions. Impatience."
+          },
+          {
+            "midpoint_axis": "Mercury/Moon's North Node",
+            "interpretation": "Establishing connections with like-minded people. A desire for mentally stimulating contacts. Shared interests and ideologies."
+          },
+          {
+            "midpoint_axis": "Mercury/Ascendant",
+            "interpretation": "The desire to exchange ideas with others and to meet people on a daily basis. Active discussions and negotiations."
+          },
+          {
+            "midpoint_axis": "Mercury/Midheaven",
+            "interpretation": "An interest in philosophical matters. Business activity."
+          },
+          {
+            "midpoint_axis": "Venus/Mars",
+            "interpretation": "Power of attraction. Sexual magnetism. Sensuality. Passion. Ardent love. Strong desire for sexual experiences. Lust. Adventures in love."
+          },
+          {
+            "midpoint_axis": "Venus/Jupiter",
+            "interpretation": "A successful and fortunate partnership. Good social standing. Happiness and prosperity. Being well-liked by others. A happy and healthy outlook."
+          },
+          {
+            "midpoint_axis": "Venus/Saturn",
+            "interpretation": "Difficulties in love. The inability to feel completely satisfied. Sexual inhibitions. Feelings of emotional loneliness and restraint. Separations and loss in love and partnership."
+          },
+          {
+            "midpoint_axis": "Venus/Uranus",
+            "interpretation": "Free-spirited, flirtatious, spontaneous and adventurous in love and sex. Infidelity. Kinky sex."
+          },
+          {
+            "midpoint_axis": "Venus/Neptune",
+            "interpretation": "A highly romantic union. The tendency to be infatuated. Soft-hearted and compassionate. Seduction. Secret desires and wishes. Deception in love. Secretive affairs. Disappointments."
+          },
+          {
+            "midpoint_axis": "Venus/Pluto",
+            "interpretation": "Sexual magnetism. Compulsive tendencies and desires. Intensity of feeling in love. Deep passions. Jealousy. Power struggles."
+          },
+          {
+            "midpoint_axis": "Venus/Moon's North Node",
+            "interpretation": "Ability to cultivate harmonious and pleasant connections with other people. Displaying charm and adaptability in social interactions."
+          },
+          {
+            "midpoint_axis": "Venus/Ascendant",
+            "interpretation": "An intimate personal relationship. Expressions of love and affection. Magnetic attraction and allure. A sense of beauty and refinement. Diplomacy."
+          },
+          {
+            "midpoint_axis": "Venus/Midheaven",
+            "interpretation": "Loving and being loved. A union based on sincere affection."
+          },
+          {
+            "midpoint_axis": "Mars/Jupiter",
+            "interpretation": "A successful and fruitful partnership. Enterprising and productive activity. Feeling fulfilled."
+          },
+          {
+            "midpoint_axis": "Mars/Saturn",
+            "interpretation": "Struggling against the odds. Subjection to tests of strength and endurance. Challenging life experiences. Separations or losses. Heavy responsibilities."
+          },
+          {
+            "midpoint_axis": "Mars/Uranus",
+            "interpretation": "Defiance, impatience and intolerance within the union. A predisposition to injuries and accidents."
+          },
+          {
+            "midpoint_axis": "Mars/Neptune",
+            "interpretation": "A lack of resistance and power. Weakened [defences,defenses]. Easily disenchanted. Exposure to deceptive influences, particularly involving males. Susceptible to intoxicants."
+          },
+          {
+            "midpoint_axis": "Mars/Pluto",
+            "interpretation": "Tendency to proceed in a forceful or pushy manner. Ruthlessness. Strong survival instincts."
+          },
+          {
+            "midpoint_axis": "Mars/Moon's North Node",
+            "interpretation": "The desire to combine forces and to achieve something of significance. Competing with each other. Difficulties caused by arrogance or ego clashes."
+          },
+          {
+            "midpoint_axis": "Mars/Ascendant",
+            "interpretation": "Argumentativeness. Heated disagreements. Enthusiasm for sparring. Relationship conflicts."
+          },
+          {
+            "midpoint_axis": "Mars/Midheaven",
+            "interpretation": "Motivation to succeed in life. Competitiveness. Potential to rise to positions of authority and prestige. Commanding positions. Power to achieve recognition and elevated status. Professional ambition. A risk of damaging reputation through arrogant acts."
+          },
+          {
+            "midpoint_axis": "Jupiter/Saturn",
+            "interpretation": "Difficulty setting and maintaining ground rules or guidelines. Knowing when to move on or depart."
+          },
+          {
+            "midpoint_axis": "Jupiter/Uranus",
+            "interpretation": "An eagerness for new and stimulating experiences. Resourceful and mentally flexible. Sudden opportunities and successes."
+          },
+          {
+            "midpoint_axis": "Jupiter/Neptune",
+            "interpretation": "Idealistic. High hopes and expectations. Acting ability. Fluctuating vitality and weakened resolve. Potential gullibility and naivety. Frequent confusion. Unfulfilled expectations."
+          },
+          {
+            "midpoint_axis": "Jupiter/Pluto",
+            "interpretation": "Aspiring to positions of influence, prestige and prominence. Pursuit of excellence, achievement and success. A risk of losses through arrogance or greed."
+          },
+          {
+            "midpoint_axis": "Jupiter/Moon's North Node",
+            "interpretation": "Capability to readily integrate and to be a vital member of a group or association. Advantageous and pro-active connections. Contact with achievers."
+          },
+          {
+            "midpoint_axis": "Jupiter/Ascendant",
+            "interpretation": "The ability to get ahead in life and to come into contact with successful and prominent people. Affluent connections. A positive and healthy outlook on life."
+          },
+          {
+            "midpoint_axis": "Jupiter/Midheaven",
+            "interpretation": "Prosperity through a positive outlook and actions. [Recognising,Recognizing] a good thing and knowing when to act on it; seizing the right moment."
+          },
+          {
+            "midpoint_axis": "Saturn/Uranus",
+            "interpretation": "Strong inner and physical tensions. The urge to be free of imposed restraints. Pushing against boundaries. Sudden losses and separations. Struggles for survival. Accidents and injuries."
+          },
+          {
+            "midpoint_axis": "Saturn/Neptune",
+            "interpretation": "Fluctuating levels of vitality, motivation and initiative. Recycling periods of decreased physical strength and stamina. Acknowledging the value of maintaining a healthy diet and lifestyle. Sacrifices."
+          },
+          {
+            "midpoint_axis": "Saturn/Pluto",
+            "interpretation": "Contending with difficulties and hardships in life. Loss or separation."
+          },
+          {
+            "midpoint_axis": "Saturn/Moon's North Node",
+            "interpretation": "Reclusive tendencies. Difficulty integrating with others. Estrangements and separations."
+          },
+          {
+            "midpoint_axis": "Saturn/Ascendant",
+            "interpretation": "Reserve in the presence of others. Shyness. Feeling compromised and frustrated. Periodic despondency. Circumstantial limitations and restrictions."
+          },
+          {
+            "midpoint_axis": "Saturn/Midheaven",
+            "interpretation": "A strong sense of purpose and direction in life. Motivation to establish and secure a position in life. Difficulties in career or family. Tendency to be readily discouraged or prone to defeatist attitudes."
+          },
+          {
+            "midpoint_axis": "Uranus/Neptune",
+            "interpretation": "Interest in metaphysical subjects. Psychic experiences. Physical sensitivity. Weakness or inertia. Disorientation, confusion and instability."
+          },
+          {
+            "midpoint_axis": "Uranus/Pluto",
+            "interpretation": "Intense restlessness and impatience. Volatile [behaviour,behavior]. Sudden or unsettling incidents. A proneness to stress and tension."
+          },
+          {
+            "midpoint_axis": "Uranus/Moon's North Node",
+            "interpretation": "Innovative and influential alliances. Associating with unusual, stimulating and original personalities. Changeable connections. Sudden or unexpected incidents."
+          },
+          {
+            "midpoint_axis": "Uranus/Ascendant",
+            "interpretation": "Pronounced restlessness. Tendency to be constantly on the go and mobile. A stimulating personal environment. Association with interesting and progressively-minded people."
+          },
+          {
+            "midpoint_axis": "Uranus/Midheaven",
+            "interpretation": "Reactive outbursts and erratic [behaviour,behavior]. The tendency to become agitated and aggressive suddenly."
+          },
+          {
+            "midpoint_axis": "Neptune/Pluto",
+            "interpretation": "Psychic awareness and perception. Metaphysical interests. Addictive tendencies. Stimulants and intoxicants. Health issues."
+          },
+          {
+            "midpoint_axis": "Neptune/Moon's North Node",
+            "interpretation": "Sensitivity and empathy in the relationship. Connections with spiritual, healing or idealistic groups. Disappointments within associations."
+          },
+          {
+            "midpoint_axis": "Neptune/Ascendant",
+            "interpretation": "Susceptibility to environmental influences. The tendency to yield - or go with the flow. The state of feeling vulnerable or easily embarrassed."
+          },
+          {
+            "midpoint_axis": "Neptune/Midheaven",
+            "interpretation": "Spiritual and metaphysical interests. Psychic awareness. States of confusion and uncertainty. Weakened vitality and willpower. Professional dissatisfaction or despondency."
+          },
+          {
+            "midpoint_axis": "Pluto/Moon's North Node",
+            "interpretation": "An intense personal relationship. Power struggles. Fated union."
+          },
+          {
+            "midpoint_axis": "Pluto/Ascendant",
+            "interpretation": "Power struggles, confrontations and clashes of will. Arrogance. An over-bearing manner."
+          },
+          {
+            "midpoint_axis": "Pluto/Midheaven",
+            "interpretation": "The motivation to succeed and to gain prestige and recognition in life. Compulsive and manipulative [behaviour,behavior]."
+          },
+          {
+            "midpoint_axis": "Moon's North Node/Ascendant",
+            "interpretation": "Cultivating influential relationships. Shared interests and experiences. Forming important social connections."
+          },
+          {
+            "midpoint_axis": "Moon's North Node/Midheaven",
+            "interpretation": "Cultivating contacts with important people. Influential relationships."
+          },
+          {
+            "midpoint_axis": "Ascendant/Midheaven",
+            "interpretation": "The desire for acknowledgement and recognition. Contacts with influential people."
+          }
+        ],
+        "Moon": [
+          {
+            "midpoint_axis": "Sun/Mercury",
+            "interpretation": "Sharing impressions, thoughts and feelings with each other. An ease of communication. Maintaining regular contact with family members."
+          },
+          {
+            "midpoint_axis": "Sun/Venus",
+            "interpretation": "A strong emotional and physical tie. Expressions of love and devotion. An enjoyment of social activity. Tendency to over-indulge in the good things in life."
+          },
+          {
+            "midpoint_axis": "Sun/Mars",
+            "interpretation": "Playing the part of protector and provider - hard working and productive. Taking care of others and taking charge of situations. Inclination to marriage and procreation."
+          },
+          {
+            "midpoint_axis": "Sun/Jupiter",
+            "interpretation": "Thriving and prospering on many levels. Emotional and physical well-being. Having material needs catered for and met. Giving and receiving support and encouragement. A sense of harmony in domestic and family life."
+          },
+          {
+            "midpoint_axis": "Sun/Saturn",
+            "interpretation": "Working hard to gain personal security in life. Serious experiences and difficulties in family life. A feeling of duty and responsibility. States of despondency, depression and anxiety. Emotional and physical estrangements."
+          },
+          {
+            "midpoint_axis": "Sun/Uranus",
+            "interpretation": "An intuitive and perceptive understanding. Sudden disturbances to daily patterns and routines. Unpredictable circumstances. Unsettling and disruptive influences in domestic or family life."
+          },
+          {
+            "midpoint_axis": "Sun/Neptune",
+            "interpretation": "Emotional idealism - imaginative perception. Spiritual leanings. Sensitivity between partners. Emotional and physical dependency. Impressionability. Insecurity and uncertainty. Susceptible to intoxicants."
+          },
+          {
+            "midpoint_axis": "Sun/Pluto",
+            "interpretation": "An intense emotional life. Recycling periods of feeling at the mercy of powerful forces or people. Family and domestic dramas. Power struggles. Fixations and obsessions. Manipulation."
+          },
+          {
+            "midpoint_axis": "Sun/Moon's North Node",
+            "interpretation": "The establishment of a personal partnership. An emotional need for physical contact. A strong family bond. Significant personalities within the family unit."
+          },
+          {
+            "midpoint_axis": "Sun/Ascendant",
+            "interpretation": "The need for public acknowledgement of the relationship. Important and influential personalities within the family unit and personal environment."
+          },
+          {
+            "midpoint_axis": "Sun/Midheaven",
+            "interpretation": "A working partnership - emotional and physical compatibility. Supporting each others' ambitions. Forming important or influential relationships with women. Fame or status within the family."
+          },
+          {
+            "midpoint_axis": "Mercury/Venus",
+            "interpretation": "Affectionate, caring and sensitive to one another's needs. Discussing intimate relationship details."
+          },
+          {
+            "midpoint_axis": "Mercury/Mars",
+            "interpretation": "Lively discussions and arguments within the family and domestic environment. Reactive and verbally aggressive when emotionally upset."
+          },
+          {
+            "midpoint_axis": "Mercury/Jupiter",
+            "interpretation": "A willingness to discuss emotional issues. Receptive to one another's thoughts and ideas. Open communication. Travel. Successful business activity."
+          },
+          {
+            "midpoint_axis": "Mercury/Saturn",
+            "interpretation": "Communication difficulties and misunderstandings within the relationship or with family members. Sensitivity to negative criticism. Emotional reserve. Feeling sad and thinking about separation."
+          },
+          {
+            "midpoint_axis": "Mercury/Uranus",
+            "interpretation": "Intuitively ascertaining each other's thoughts, moods and feelings."
+          },
+          {
+            "midpoint_axis": "Mercury/Neptune",
+            "interpretation": "Sensitive to each other's opinions and moods. Emotional and mental confusion - a tendency to lose focus or stray off the point. Dependencies; addictive tendencies. Misunderstandings or dishonesty."
+          },
+          {
+            "midpoint_axis": "Mercury/Pluto",
+            "interpretation": "Passionate and emotionally intense discussions. Emotionally charged power struggles. Family and domestic dramas."
+          },
+          {
+            "midpoint_axis": "Mercury/Moon's North Node",
+            "interpretation": "Discussing emotional issues together. Personal dialogues. Listening and responding. Good communication within the family circle."
+          },
+          {
+            "midpoint_axis": "Mercury/Ascendant",
+            "interpretation": "Sensitive and receptive to each other's ideas - and criticisms. Active communication within the family circle. Commercial activity."
+          },
+          {
+            "midpoint_axis": "Mercury/Midheaven",
+            "interpretation": "Supporting one another's aims and objectives. Constructive ideas and criticism. A family that sets intellectual or business targets."
+          },
+          {
+            "midpoint_axis": "Venus/Mars",
+            "interpretation": "Sexual magnetism. Emotional and physical arousal. The desire for sexual experiences. Intimacy. Procreative power. Temperamental; fluctuating moods and desires. Promiscuity."
+          },
+          {
+            "midpoint_axis": "Venus/Jupiter",
+            "interpretation": "Emotional contentment and happiness. A loving family. Entertaining at home; enjoying parties and social events. Sumptuous living. Expensive tastes. Materialistic inclinations."
+          },
+          {
+            "midpoint_axis": "Venus/Saturn",
+            "interpretation": "Difficulty achieving and sustaining emotional satisfaction. Unfulfilled physical and sexual desires. The inability to express intimate feelings and affections easily. Testing experiences in love and sex. Separating tendencies."
+          },
+          {
+            "midpoint_axis": "Venus/Uranus",
+            "interpretation": "Emotionally spontaneous and demonstrative. The desire for new and stimulating experiences in love and romance. Flirtatiousness. Sexual adventures - and experimentation. Promiscuity. Infidelity."
+          },
+          {
+            "midpoint_axis": "Venus/Neptune",
+            "interpretation": "Emotional sensitivity. Supporting and loving one another. The need to care for and to feel cared for. Romantic idealism. Wishful and hopeful in love. The potential for deceiving - and being deceived."
+          },
+          {
+            "midpoint_axis": "Venus/Pluto",
+            "interpretation": "Intense feelings and passions. A compulsive nature. Sexual magnetism. Profound emotional and sexual experiences. A fated partnership. Emotional manipulation and power struggles. Possessiveness and jealousy. Dramas in love and family life. A strong desire for parenthood."
+          },
+          {
+            "midpoint_axis": "Venus/Moon's North Node",
+            "interpretation": "Loving and supporting each other. The enjoyment of giving and sharing; affectionate bonds between family members. Feeling happy and emotionally content with one another. Devotion. Emotional and sexual intimacy and compatibility."
+          },
+          {
+            "midpoint_axis": "Venus/Ascendant",
+            "interpretation": "A loving atmosphere. Happily supporting each other. Intimacy and closeness between partners. Appreciating one another."
+          },
+          {
+            "midpoint_axis": "Venus/Midheaven",
+            "interpretation": "Supporting others and being supported in the pursuit of personal and professional goals. Close connections to family members. A welcoming and hospitable domestic life."
+          },
+          {
+            "midpoint_axis": "Mars/Jupiter",
+            "interpretation": "Enthusiasm and confidence. Acting with integrity. Successful and productive activity. Mutual creativity and resourcefulness. Prospering financially and materially. Procreative energy - fertility. An enterprising relationship."
+          },
+          {
+            "midpoint_axis": "Mars/Saturn",
+            "interpretation": "Contending with repressive and depressive elements. Feelings of intense frustration and inertia. Negative mood swings. Difficult and challenging family dynamics. Emotional defensiveness and distrust. Estrangements and separations."
+          },
+          {
+            "midpoint_axis": "Mars/Uranus",
+            "interpretation": "The ability to sense danger or threatening situations. Emotional agitation and volatility. Accident proneness. Unsettling and unpredictable experiences within the family."
+          },
+          {
+            "midpoint_axis": "Mars/Neptune",
+            "interpretation": "Difficulty fending off negative energies or emotions. Moodiness and evasiveness. Emotional and physical sensitivity."
+          },
+          {
+            "midpoint_axis": "Mars/Pluto",
+            "interpretation": "Extreme feelings and reactions. Emotional manipulation. Subjection to emotional pressure. Subversive elements or dramas in the family."
+          },
+          {
+            "midpoint_axis": "Mars/Moon's North Node",
+            "interpretation": "Cooperative and industrious efforts. Competitive and ambitious pursuits. Emotionally reactive and aggressive tendencies. Conflict within associations - or within the family unit."
+          },
+          {
+            "midpoint_axis": "Mars/Ascendant",
+            "interpretation": "Strong survival instincts; the ability to sense and respond quickly to threatening situations. Sensitive to disharmony. Confrontations. Conflict or drama within the family. Dealing with emotive and contentious issues."
+          },
+          {
+            "midpoint_axis": "Mars/Midheaven",
+            "interpretation": "Moodiness and irritability. Emotionally reactive and combative. A busy family and domestic life."
+          },
+          {
+            "midpoint_axis": "Jupiter/Saturn",
+            "interpretation": "Changeable financial and material circumstances. Inconsistency in emotional and family life. Emotional despondency and feelings of dissatisfaction. A periodic need for time apart."
+          },
+          {
+            "midpoint_axis": "Jupiter/Uranus",
+            "interpretation": "Emotional enthusiasm and excitability. Bilaterally knowing when things will turn out well - and as expected. Mutual growth as a result of trying new experiences. Adapting quickly and easily to change. Sudden benefits through the family."
+          },
+          {
+            "midpoint_axis": "Jupiter/Neptune",
+            "interpretation": "A receptivity to spiritual, religious or philosophical subjects. Metaphysical interests. Psychic perception. Trusting and having faith. Believing anything is possible. Feelings of disappointment. Susceptible to the effects of intoxicants and stimulants. Evasive and escapist tendencies."
+          },
+          {
+            "midpoint_axis": "Jupiter/Pluto",
+            "interpretation": "An emotionally intense and passionate relationship. Instinctively [recognising,recognizing] the opportunities for success. Manipulating people or situations to maximum advantage. Indulgent and material tendencies."
+          },
+          {
+            "midpoint_axis": "Jupiter/Moon's North Node",
+            "interpretation": "Generosity and prosperity within the partnership - and the family. Feelings of contentment and satisfaction. Sociability; affluent associations. Cultivating close female connections."
+          },
+          {
+            "midpoint_axis": "Jupiter/Ascendant",
+            "interpretation": "Feelings of contentment. Emotional honesty. Enjoying the company of women or family contacts on a regular basis. Positive and supportive people within the environment. Creating a welcoming home environment. A successful and prosperous partnership."
+          },
+          {
+            "midpoint_axis": "Jupiter/Midheaven",
+            "interpretation": "High expectations in life. A combined instinct for success and for making beneficial career moves. Vocational advancement and recognition. A positive outlook. The tendency to look on the bright side."
+          },
+          {
+            "midpoint_axis": "Saturn/Uranus",
+            "interpretation": "Emotional restraint and frustration. Contending with restrictive and challenging circumstances. Feeling compromised, restricted or trapped. Difficulty releasing inner tensions. The sudden loss of emotional control - reaching \"breaking point\". Unsettling experiences in domestic or family life."
+          },
+          {
+            "midpoint_axis": "Saturn/Neptune",
+            "interpretation": "Acute emotional sensitivity. Contending with feelings of despondency and insecurity. Painful emotional experiences. Sacrifices. Asceticism. Tenuous family relationships."
+          },
+          {
+            "midpoint_axis": "Saturn/Pluto",
+            "interpretation": "Contending with difficult or challenging emotional experiences. Emotional commitment - making significant sacrifices. Impenetrable emotional barriers. Intense family dynamics."
+          },
+          {
+            "midpoint_axis": "Saturn/Moon's North Node",
+            "interpretation": "Emotional reserve and restraint. Difficulty establishing and maintaining inner connections. Feeling excluded or cut off from others. Withdrawing from social contact. Testing relationship experiences."
+          },
+          {
+            "midpoint_axis": "Saturn/Ascendant",
+            "interpretation": "Emotionally reserved and cautious. Contending with restrictive or negative environments. Difficulty giving and receiving emotional support. Controlling women or family members."
+          },
+          {
+            "midpoint_axis": "Saturn/Midheaven",
+            "interpretation": "Striving for emotional and vocational security. A periodic need to spend time apart from one another or others. Sensitive to restrictive or controlling influences. Recycling insecurities or negative moods. Feeling weighed down by family responsibilities."
+          },
+          {
+            "midpoint_axis": "Uranus/Neptune",
+            "interpretation": "Acute sensitivity. Psychic perception. An active inner life and imagination. Inspirational states. An interest in metaphysical and spiritual matters. Emotional confusion and instability. Shattered hopes and dreams."
+          },
+          {
+            "midpoint_axis": "Uranus/Pluto",
+            "interpretation": "Instinctively knowing when significant changes are imminent. Doing things with emotional intensity and conviction. Dramatic experiences in emotional and family life. Volatile reactions and outbursts. Contending with family dramas."
+          },
+          {
+            "midpoint_axis": "Uranus/Moon's North Node",
+            "interpretation": "Spontaneous and stimulating connections. Alliances with contemporary or progressive groups - and women. Brief or temporary contacts. Emotionally excitable and reactive tendencies. Unsettling family experiences."
+          },
+          {
+            "midpoint_axis": "Uranus/Ascendant",
+            "interpretation": "Impulsive [behaviour,behavior]. Sensitive to unexpected and disruptive influences. Excitability or instability within the family and environment."
+          },
+          {
+            "midpoint_axis": "Uranus/Midheaven",
+            "interpretation": "The creation of a lifestyle that caters to the need for mobility, change and stimulus. The tendency to become quickly agitated and irritated. Feeling on edge and emotionally unsettled. Volatile reactions. Provocation. Tensions within the family."
+          },
+          {
+            "midpoint_axis": "Neptune/Pluto",
+            "interpretation": "Intense idealism. Profound [realisations,realizations]. Metaphysical and spiritual interests. Psychic activity. The tendency to become overwhelmed by extreme emotional states; feeling vulnerable or exposed. Addictive patterns and dependencies which are difficult to control or break."
+          },
+          {
+            "midpoint_axis": "Neptune/Moon's North Node",
+            "interpretation": "Empathy and sensitivity towards one another. Cultivating ties with spiritual, musical and creative people. Undermining influences within the partnership or family dynamics."
+          },
+          {
+            "midpoint_axis": "Neptune/Ascendant",
+            "interpretation": "Spiritual interests - healing abilities. Vulnerability and susceptibility. States of feeling emotionally and physically drained. Contending with undermining or deceptive currents within the partnership or the family."
+          },
+          {
+            "midpoint_axis": "Neptune/Midheaven",
+            "interpretation": "Receptive to spiritual and psychic influences. Healing abilities. Fluctuating moods. An occasional lack of direction and motivation. Vocational insecurity. Misunderstandings with women and family members."
+          },
+          {
+            "midpoint_axis": "Pluto/Moon's North Node",
+            "interpretation": "Profound emotional experiences. Intensity of feeling within the relationship. Power struggles. Manipulation and control. Subjection to family and cultural pressures."
+          },
+          {
+            "midpoint_axis": "Pluto/Ascendant",
+            "interpretation": "Obsessive about family and domestic concerns. Fixations and dependencies. Sensing potential threats or negative energies in the environment. Emotional manipulation within the union. Power struggles."
+          },
+          {
+            "midpoint_axis": "Pluto/Midheaven",
+            "interpretation": "A destiny shaped by family and cultural influences. Contending with vocational pressure or resentment. Potential power struggles. Intense emotional reactions or responses."
+          },
+          {
+            "midpoint_axis": "Moon's North Node/Ascendant",
+            "interpretation": "Sensitive and accommodating towards one another. Instinctively knowing what each others' needs. Enjoying a sense of familiarity and inclusiveness. Close connection with women. Frequent family gatherings."
+          },
+          {
+            "midpoint_axis": "Moon's North Node/Midheaven",
+            "interpretation": "Cultivating an inner connection. Connecting with people who can influence and assist in the [realisation,realization] of goals and objectives. A close-knit family unit. Professional and emotional ties with women."
+          },
+          {
+            "midpoint_axis": "Ascendant/Midheaven",
+            "interpretation": "A highly sensitive and emotional relationship. Intuitive understanding between partners. Expressing what is felt at any given moment. Supporting each other emotionally."
+          }
+        ],
+        "Mercury": [
+          {
+            "midpoint_axis": "Sun/Moon",
+            "interpretation": "Mental rapport between partners. Ability to talk things through together. Communication between the sexes. Formulating plans jointly. A balanced perspective."
+          },
+          {
+            "midpoint_axis": "Sun/Venus",
+            "interpretation": "Declaring love and what is felt. Discussing the nature of love and also heartfelt issues. Social interaction. An appreciation of the arts and beauty."
+          },
+          {
+            "midpoint_axis": "Sun/Mars",
+            "interpretation": "Participating in mental activity. Assertive or aggressive communications. Presenting and defending ideas. Fighting with the written or spoken word. Rash or irrational decisions."
+          },
+          {
+            "midpoint_axis": "Sun/Jupiter",
+            "interpretation": "A positive and optimistic attitude. Comprehending one another's assertions and arguments. Commonsense. Informed [judgements,judgments]. Far-reaching ideas. Broadening perspectives through education, travel and philosophy."
+          },
+          {
+            "midpoint_axis": "Sun/Saturn",
+            "interpretation": "The tendency to view life seriously and realistically. A slow accomplishment of mutual goals. Perseverance. [Scepticism,Skepticism]. A negative outlook. Sober [realisations,realizations]. Mental and communication blocks."
+          },
+          {
+            "midpoint_axis": "Sun/Uranus",
+            "interpretation": "Mental stimulation. Intuitive understanding. Original and progressive means of communication. Exploring new ideas together. Making decisions bilaterally. Resourceful and forward-thinking. Opinionated and uncompromising attitudes. Nervous tension and stress."
+          },
+          {
+            "midpoint_axis": "Sun/Neptune",
+            "interpretation": "Inspired and imaginative discussions. Subtle awareness. Idealistic trains of thought. Perceptive and insightful. Spiritual interests. Study of metaphysics. Day-dreaming. Confused thinking. Misunderstandings."
+          },
+          {
+            "midpoint_axis": "Sun/Pluto",
+            "interpretation": "Deep discussions. Development of [specialised,specialized] interests and aptitudes. Excellent research skills. Mental and verbal coercion. Dictating or being dictated to. One-sided opinions and attitudes."
+          },
+          {
+            "midpoint_axis": "Sun/Moon's North Node",
+            "interpretation": "Cultivating social and intellectual relationships. Establishing stimulating connections. Active and lively communications. Sharing ideas, opinions and information."
+          },
+          {
+            "midpoint_axis": "Sun/Ascendant",
+            "interpretation": "Being at the [centre,center] of busy and stimulating environments. Active business and social contacts. Open communication between partners."
+          },
+          {
+            "midpoint_axis": "Sun/Midheaven",
+            "interpretation": "A mentally stimulating relationship. Shared intellectual interests. Teaching and learning."
+          },
+          {
+            "midpoint_axis": "Moon/Venus",
+            "interpretation": "Feeling blessed and acknowledging it. Affectionate responses. Pondering the nature of love. Discussing intimate feelings. Talking about relationship and sexual needs and desires; speaking with heart and soul. Thinking about parenthood."
+          },
+          {
+            "midpoint_axis": "Moon/Mars",
+            "interpretation": "Communicating excitedly or when in a state of agitation; emotionally charged verbal exchanges. Speaking openly and candidly. Impatience. Verbally aggressive and argumentative."
+          },
+          {
+            "midpoint_axis": "Moon/Jupiter",
+            "interpretation": "A positive outlook. An ease of communication. Broadminded. Influential intellectual, social or business contacts. Travel. Foreign connections."
+          },
+          {
+            "midpoint_axis": "Moon/Saturn",
+            "interpretation": "A realistic outlook. Applying reason over emotion. Discussing emotional concerns with others; knowing when to be responsible. Serious considerations and [realisations,realizations] involving family life. Contemplating separation."
+          },
+          {
+            "midpoint_axis": "Moon/Uranus",
+            "interpretation": "Intuitive and instinctive understanding between one another. Spontaneous plans and decisions. The need for intellectual stimulation. Emotionally reactive and argumentative."
+          },
+          {
+            "midpoint_axis": "Moon/Neptune",
+            "interpretation": "Spiritual and metaphysical interests. Psychic perception and understanding. Healing ability. Empathy. Knowing how to deal with delicate situations or people. Sensitive to the thoughts and feelings of others."
+          },
+          {
+            "midpoint_axis": "Moon/Pluto",
+            "interpretation": "Having strong feelings about specific issues and effectively communicating them. Discussing deeply felt concerns. Verbally and emotionally reactive and responsive. Acutely sensitive to what is said or implied. Mental and emotional fixations. Manipulative influences."
+          },
+          {
+            "midpoint_axis": "Moon/Moon's North Node",
+            "interpretation": "Discussing personal matters. Emotionally sensitive and receptive to the thoughts and ideas of others. Active communication within close associations. Sensitive understanding; knowing and catering to what people need."
+          },
+          {
+            "midpoint_axis": "Moon/Ascendant",
+            "interpretation": "Becoming close by sharing ideas, opinions and feelings. An empathic and caring approach with the ability to say the right thing - at the right time. Sensitive to environmental influences."
+          },
+          {
+            "midpoint_axis": "Moon/Midheaven",
+            "interpretation": "The periodic need to discuss the direction the relationship is heading in."
+          },
+          {
+            "midpoint_axis": "Venus/Mars",
+            "interpretation": "Emotionally expressive communications. Speaking directly from the heart. Intimate dialogues; thinking and talking about love and sex. Discussing relationship issues. Romantic and sexual partnership. Procreative activity."
+          },
+          {
+            "midpoint_axis": "Venus/Jupiter",
+            "interpretation": "An ease of communication between partners. A cheerful outlook. Making decisions together in a positive state of mind. Knowing how to enjoy life. Indulgent tendencies. Delighting in mental stimulation. An active social life."
+          },
+          {
+            "midpoint_axis": "Venus/Saturn",
+            "interpretation": "[Recognising,Recognizing] challenges in love and sex-life; contending with inhibitive and restrictive influences. Difficulty opening-up or discussing intimate feelings. Reticence and reluctance. Emotional and sexual dissatisfaction. Thoughts of separation."
+          },
+          {
+            "midpoint_axis": "Venus/Uranus",
+            "interpretation": "A quick attraction. Flirting together. Impulsive decisions in love. Discussing intimate feelings excitedly."
+          },
+          {
+            "midpoint_axis": "Venus/Neptune",
+            "interpretation": "Romantic dreaming - infatuations. Wishful thinking. Idealistic ideas about love, sex and partnership. Seducing influences. Disenchantment or disillusionment in love. Misconceptions or misunderstandings."
+          },
+          {
+            "midpoint_axis": "Venus/Pluto",
+            "interpretation": "Expressing passionate views and ideas. Discussing relationship dynamics and confronting emotional and sexual issues. Obsessive thinking. Jealousy and possessiveness. Emotional and mental manipulation; power struggles in love."
+          },
+          {
+            "midpoint_axis": "Venus/Moon's North Node",
+            "interpretation": "Knowing how to make the most of the good things in life. Enjoying social activity, parties and amusements. Discussing relationship dynamics; intimate dialogues between partners."
+          },
+          {
+            "midpoint_axis": "Venus/Ascendant",
+            "interpretation": "The ability to say the right thing. Tact and diplomacy. Displaying a genuine interest in each other's interests. Discussing love and partnership matters. The enjoyment of social activity and artistic events."
+          },
+          {
+            "midpoint_axis": "Venus/Midheaven",
+            "interpretation": "Thinking and speaking from the heart. Knowing what is wanted in love and personal relationships. The desire for true love and understanding with each other."
+          },
+          {
+            "midpoint_axis": "Mars/Jupiter",
+            "interpretation": "Successful mutual decisions and initiatives. Direct and honest communications. Negotiating skill. Strategic planning. A fruitful and profitable partnership."
+          },
+          {
+            "midpoint_axis": "Mars/Saturn",
+            "interpretation": "Tough talking. Adopting firm and aggressive stances. The tendency to become locked into negative trains of thought. Facing and addressing harsh realities. States of fear and anxiety. Defeatist attitudes. Mental blocks. Separation."
+          },
+          {
+            "midpoint_axis": "Mars/Uranus",
+            "interpretation": "Innovative in thought and action. Ingenuity. Lateral and progressive thinking. Spontaneous decisions. Resourcefulness. Contradictory and argumentative. Provocative words and actions."
+          },
+          {
+            "midpoint_axis": "Mars/Neptune",
+            "interpretation": "Impractical plans and ideas. Irresponsible and irrational [behaviour,behavior]. Addictive tendencies. Secretive thinking and acting. The act of deceiving or being deceived."
+          },
+          {
+            "midpoint_axis": "Mars/Pluto",
+            "interpretation": "Thriving on intellectual challenges. Intense discussions. Cutting remarks. Threatening and destructive communications. Inciting reactions. Verbal, written and physical aggression."
+          },
+          {
+            "midpoint_axis": "Mars/Moon's North Node",
+            "interpretation": "Communicating directly and assertively. [Realising,Realizing] plans and enterprises together. Presenting a united front. The breakdown of teamwork through arguments, intolerance or a lack of consensus."
+          },
+          {
+            "midpoint_axis": "Mars/Ascendant",
+            "interpretation": "Assertive and direct communication. Speaking with conviction. Decisive in speech and writing. Verbal sparring. Stimulating and heated discussions between partners. Arguments. Altercations."
+          },
+          {
+            "midpoint_axis": "Mars/Midheaven",
+            "interpretation": "Heated and lively discussions. The tendency to become irritable and reactive when under stress. Dictating. Laying down the law. Impulsive decisions and actions."
+          },
+          {
+            "midpoint_axis": "Jupiter/Saturn",
+            "interpretation": "[Recognising,Recognizing] when change is imminent and timely. Knowing when to expand and when to consolidate. Acquiring knowledge and practical experience in life. Changeable financial and business circumstances. Knowing when to withdraw."
+          },
+          {
+            "midpoint_axis": "Jupiter/Uranus",
+            "interpretation": "A combined wealth of original ideas and innovative plans. Ingenuity. [Recognising,Recognizing] and seizing excellent opportunities. Entrepreneurial talent. A quirky sense of [humour,humor]."
+          },
+          {
+            "midpoint_axis": "Jupiter/Neptune",
+            "interpretation": "Idealistic thinking. Having faith and believing in a better future. Religious, spiritual and philosophical interests. The study of metaphysical subjects. Speculations. Unmet expectations. Misunderstandings and disappointments."
+          },
+          {
+            "midpoint_axis": "Jupiter/Pluto",
+            "interpretation": "Campaigning for causes; the ability to influence others and gain support for ideas and projects. Exposure to influential thinking. A transformation of belief systems and religious outlooks."
+          },
+          {
+            "midpoint_axis": "Jupiter/Moon's North Node",
+            "interpretation": "Sharing similar ideas, outlooks or faiths. Ease of interaction and communication with each other. Successful and constructive plans and ventures. Beneficial social or business connections. Open communication."
+          },
+          {
+            "midpoint_axis": "Jupiter/Ascendant",
+            "interpretation": "Witty and entertaining with a good sense of [humour,humor]. The ability to communicate openly and freely together and with others. An interest in philosophy, learning and travel."
+          },
+          {
+            "midpoint_axis": "Jupiter/Midheaven",
+            "interpretation": "Positive in outlook and approach to life. Affirmative thinking. Successful planning and outcomes. Achieving mutual goals. Good professional prospects."
+          },
+          {
+            "midpoint_axis": "Saturn/Uranus",
+            "interpretation": "Rigid and inflexible thinking. Sudden mental blocks. Verbally aggressive and confrontational. Reactive and defensive [behaviour,behavior]. Contending with stressful and difficult situations."
+          },
+          {
+            "midpoint_axis": "Saturn/Neptune",
+            "interpretation": "Focusing on the inner aspect of life. Spiritual disciplines and insights. Meditation. A proneness to defeatist attitudes. Unfounded anxiety; imagining things are worse than they really are."
+          },
+          {
+            "midpoint_axis": "Saturn/Pluto",
+            "interpretation": "Inflexible attitudes. Persisting despite the odds. Mental fixations. Being prone to negative thoughts and defeatist outlooks. Difficult and reluctant compromises. Harsh criticism. Miscommunications."
+          },
+          {
+            "midpoint_axis": "Saturn/Moon's North Node",
+            "interpretation": "Reticence. Inflexible attitudes. Misunderstandings. Strained relations and communications. Testing relationships and family ties. Separative trends; departures."
+          },
+          {
+            "midpoint_axis": "Saturn/Ascendant",
+            "interpretation": "Knowing what to say and what not to say. Finding it hard to establish and maintain common ground. Difficulty being heard and understood. A tendency to withdraw or retreat. Separations and departures. Testing environmental conditions."
+          },
+          {
+            "midpoint_axis": "Saturn/Midheaven",
+            "interpretation": "Viewing life seriously. A single-minded attitude and approach to life. Questioning and evaluating direction in life. A proneness to defeatist attitudes. Depressive and pessimistic thinking."
+          },
+          {
+            "midpoint_axis": "Uranus/Neptune",
+            "interpretation": "Original and idealistic thinking. Receptive to alternative ideas and philosophies. The study of metaphysical and spiritual subjects. Sudden psychic cognitions. Unrealistic and bizarre ideas. Mental confusion."
+          },
+          {
+            "midpoint_axis": "Uranus/Pluto",
+            "interpretation": "Progressive plans and ideas. Radical thinking. Investigating new ideas and ways of doing things. Thriving on intellectual challenge. Ingenuity. Contending with mental pressure and stress. Reactive and provocative tendencies."
+          },
+          {
+            "midpoint_axis": "Uranus/Moon's North Node",
+            "interpretation": "Connections with stimulating and progressively-minded people. Sharing new and exciting experiences with others. Changeable relationship dynamics."
+          },
+          {
+            "midpoint_axis": "Uranus/Ascendant",
+            "interpretation": "Mutually assessing situations quickly and accurately. Swift responses and reactions. Relating thoughts and ideas as they come to mind. An intuitive understanding between partners. Intellectually stimulating contacts."
+          },
+          {
+            "midpoint_axis": "Uranus/Midheaven",
+            "interpretation": "A progressive outlook on life. Seeing things from a different angle or perspective. Thriving on intellectual stimulation. Lively discussions and communication. A stimulating home life. Inflexible attitudes. Stress."
+          },
+          {
+            "midpoint_axis": "Neptune/Pluto",
+            "interpretation": "Psychic perception and phenomena; an interest in spiritual and metaphysical matters. Misunderstandings. Susceptible to obsessive thinking patterns. Paranoia. Addictive tendencies."
+          },
+          {
+            "midpoint_axis": "Neptune/Moon's North Node",
+            "interpretation": "Discussing sensitive matters. Sharing spiritual outlooks and philosophies. Misunderstandings; difficulties through failing to make intentions clear. Secretive [behaviour,behavior]. Dishonesty within relationships or within the family."
+          },
+          {
+            "midpoint_axis": "Neptune/Ascendant",
+            "interpretation": "An empathic and compassionate duo. Sensitive to environmental influences. Gullibility; being easily influenced by the ideas and comments of others. Misplaced trust. Misunderstandings. Clouded [judgements,judgments]. Deceptive influences within relationships."
+          },
+          {
+            "midpoint_axis": "Neptune/Midheaven",
+            "interpretation": "Idealistic and spiritual aspirations. Creative or healing interests. Misunderstandings and mistakes. Indecision."
+          },
+          {
+            "midpoint_axis": "Pluto/Moon's North Node",
+            "interpretation": "Arguments and power struggles in associations. Oppressive and intolerant [behaviour,behavior]."
+          },
+          {
+            "midpoint_axis": "Pluto/Ascendant",
+            "interpretation": "Ability to express ideas and opinions persuasively. Power struggles in relationships. Intense discussions between partners. [Specialised,Specialized] interests. Influential and stimulating contacts."
+          },
+          {
+            "midpoint_axis": "Pluto/Midheaven",
+            "interpretation": "Passionate and all-consuming interests. Mastering a [specialised,specialized] subject. Speaking with conviction. Exposure to influential minds and thinking. Fanaticism."
+          },
+          {
+            "midpoint_axis": "Moon's North Node/Ascendant",
+            "interpretation": "Thought-provoking discussions. Conversing with others and exchanging personal viewpoints. Sharing ideas, opinions and perspectives. An active and stimulating environment and social life. Discussing topical issues and interests."
+          },
+          {
+            "midpoint_axis": "Moon's North Node/Midheaven",
+            "interpretation": "A relationship based on mutual interests and aspirations. [Recognising,Recognizing] meaningful and trusted associations. Active discussions and communications. Business ties. Close communication within the family."
+          },
+          {
+            "midpoint_axis": "Ascendant/Midheaven",
+            "interpretation": "[Emphasising,Emphasizing] the importance of communication. Business, commercial and educational interests."
+          }
+        ]
+      },
+      "integration_note": "Note: Only Sun, Moon, and Mercury midpoint interpretations are shown here for brevity. Full dataset includes interpretations for all 13 midpoint planets with 473 total interpretations."
+    },
+    "chiron_cycle": {
+      "metadata": {
+        "source": "Jessica Davidson - The Chiron Cycle and the Process of Awakening (2019)",
+        "url": "https://jessicadavidson.co.uk/2019/05/06/the-chiron-cycle-and-the-process-of-awakening/",
+        "copyright": "© Jessica Davidson 2019",
+        "application": "Transit cycle timing for Chiron's wounding/healing process in individual development"
+      },
+      "cycle_phases": {
+        "1st_sextile": {
+          "age_range": "3 to 16 years",
+          "significance": "Mostly unconscious effects. May represent opportunity to heal or discover true purpose. Starting new interests/hobbies important to future path."
+        },
+        "1st_square": {
+          "age_range": "5 to 23 years",
+          "significance": "First conscious awareness of wounds. Reinforces original wound. May involve sudden spiritual awakenings or disassociative experiences. Can rip open mind to reveal spirit trapped in body."
+        },
+        "1st_trine": {
+          "age_range": "8 to 29 years",
+          "significance": "Opportunity to heal. Meeting teachers/healers/mentors. Beginning to understand life purpose and wound meaning."
+        },
+        "opposition": {
+          "age_range": "13 to 37 years",
+          "significance": "Peak of cycle. Reveals meaning of life. Opportunity to heal and see wound gifts. Accepting shadow, balancing opposites, becoming whole. Happens before Uranus opposition."
+        },
+        "2nd_trine": {
+          "age_range": "21 to 42 years",
+          "significance": "Opportunity to heal and awaken. May occur before/during/after Uranus opposition. Meeting healing people or situations moving toward life purpose."
+        },
+        "2nd_square": {
+          "age_range": "27 to 44 years",
+          "significance": "Opportunity for further healing and creativity. Anything unhealed comes up for dealing. Opportunity to reconnect with soul and manifest true self. May coincide with Uranus opposition."
+        },
+        "2nd_sextile": {
+          "age_range": "Timing varies",
+          "significance": "Similar to first sextile - opportunity to heal and manifest purpose. More conscious than first sextile."
+        },
+        "return": {
+          "age_range": "50 to 51 years",
+          "significance": "Can fully manifest higher consciousness in life. Embodiment of the process. Goal is self-acceptance and wholeness."
+        }
+      },
+      "key_concepts": {
+        "wounding_healing_process": "Chiron initiates path of individuation through wounding and healing stages",
+        "irregular_cycle": "50-year orbit but highly elliptical - spends longer in some signs",
+        "spiritual_awakening": "Transits can trigger spiritual awakening depending on age",
+        "integration": "Healing draws on whole chart, not just Chiron",
+        "early_transits": "Before age 12 can create 'systemically mystical' individuals with boundary issues"
+      },
+      "synastry_application": {
+        "note": "While primarily a transit cycle, Chiron synastry contacts (conjunctions, squares, etc.) can indicate wounding/healing themes activated between partners",
+        "chiron_aspects": "Chiron conjunct/opposite/square partner's planets can indicate areas where partners trigger each other's wounds for healing",
+        "chiron_house": "Partner's Chiron in your houses shows areas of life where they catalyze healing through wound activation",
+        "chiron_sign": "Reveals the archetypal nature of wounding/healing dynamics in relationship"
+      }
+    },
+    "cross_system_integration": {
+      "note": "Fixed stars provide karmic/destiny themes, houses show life areas, lunar mansions reveal emotional/magical undertones, midpoints show specific relationship dynamics, Chiron shows wounding/healing patterns",
+      "composite_scoring_v2": "For comprehensive synastry: (FixedStarScore × 0.3) + (HouseScore × 0.3) + (LunarMansionScore × 0.1) + (MidpointScore × 0.2) + (ChironScore × 0.1)",
+      "temporal_layers": {
+        "fixed_stars": "Eternal/karmic patterns (slow-moving)",
+        "houses": "Life structure/role dynamics",
+        "lunar_mansions": "Emotional/psychological timing (28-day cycles)",
+        "midpoints": "Specific relationship interaction patterns",
+        "chiron_cycle": "Wounding/healing developmental timing (50-year cycle)"
+      },
+      "relationship_depth_assessment": {
+        "surface_level": "Sun/Moon/Ascendant contacts",
+        "emotional_level": "Moon/Venus/4th house/Lunar Mansions",
+        "psychological_level": "Pluto/8th house/Chiron contacts",
+        "karmic_level": "Fixed stars/Nodes/Saturn/12th house",
+        "destiny_level": "Multiple system convergences + angular placements"
+      }
+    }
+  }
+}

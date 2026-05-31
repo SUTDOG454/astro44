@@ -1,0 +1,1601 @@
+{
+  "unified_astrology_framework": {
+    "metadata": {
+      "title": "Complete Unified Astrological Systems Framework",
+      "version": "4.0",
+      "created": "2024",
+      "last_updated": "2024-03-15",
+      "sources_integrated": [
+        "Arroyo-Based Western Astrology",
+        "Magi Astrology Delineation System",
+        "Traditional Rulership Systems",
+        "Arabic Parts & Interpretation Data",
+        "Asteroid Database",
+        "Comprehensive Transits & Timing Framework",
+        "Archetypal Pairs System",
+        "Advanced Points & Bodies System"
+      ],
+      "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0"
+    },
+    "philosophical_foundations": {
+      "arroyo_philosophy": {
+        "core": "Astrology as a language of energy focusing on inner experience and psychological dynamics",
+        "key_principles": [
+          "Astrology is a language of energy - learn to speak it fluently",
+          "Focus on essentials - ignore minor factors that confuse rather than clarify",
+          "Prioritize inner experience - charts show psychological dynamics more than events",
+          "Use guidelines, not rules - adapt to each unique person",
+          "Think wholistically - synthesis is more valuable than analysis"
+        ]
+      },
+      "magi_philosophy": {
+        "core_principles": [
+          {
+            "name": "Cosmic Sympathy",
+            "description": "The celestial pattern is resonant, not causative—a higher-dimensional signature manifesting through all scales",
+            "corollary": "As above, so below; as within, so without"
+          },
+          {
+            "name": "Anima Mundi Participation",
+            "description": "Planets as concentrations of archetypal consciousness with which one can engage dialogically",
+            "corollary": "All is ensouled; consciousness pervades cosmos"
+          },
+          {
+            "name": "Telesmatic Imagination",
+            "description": "Astrological symbols as gateways to direct experiential knowing through visualization and embodiment",
+            "corollary": "To know is to become"
+          }
+        ]
+      },
+      "traditional_philosophy": {
+        "purpose": "Astrology as a sacred language of divination, a way to understand the Divine Mind",
+        "cosmology": "Geocentric model with Earth as center of divine observation",
+        "hermetic_influence": "Rooted in Hermetic principles of 'as above, so below'",
+        "divine_order": "Astrology represents humanity's attempt to understand the Will of God or Divine Plan"
+      },
+      "transits_philosophy": {
+        "what_are_transits": "Ongoing movement of planets compared to their positions at birth; reflects collective reality and personal triggers for change",
+        "natal_chart": "Snapshot of sky at birth representing unchanging core self and potential",
+        "midpoints": "Sensitive points calculated as the exact middle between two planets or points; represent integration of archetypal energies",
+        "archetypal_pairs": "Divine couples representing cosmic dualities and integration principles",
+        "cosmology_layers": {
+          "geocentric": "Earth-centered perspective; shows personal experience and manifestation",
+          "heliocentric": "Sun-centered perspective; shows soul's purpose and cosmic alignment",
+          "draconic": "Node-centered perspective; shows karmic blueprint and soul's journey"
+        }
+      }
+    },
+    "celestial_intelligences": {
+      "planetary_classes": {
+        "inner_planets": [
+          "Sun",
+          "Moon",
+          "Mercury",
+          "Venus",
+          "Mars"
+        ],
+        "outer_planets": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Neptune",
+          "Pluto"
+        ],
+        "advanced_bodies": [
+          "Fixed Stars",
+          "Arabic Parts",
+          "Vertex",
+          "Aries Point",
+          "Uranian Points",
+          "Centaurs",
+          "TNOs",
+          "Archetype Pairs",
+          "Love/Sex Points",
+          "Karmic/Fate Points",
+          "Occult/Mystical Points"
+        ]
+      },
+      "detailed_planetary_profiles": {
+        "Sun": {
+          "arroyo": {
+            "core_meaning": "Vitality; sense of individuality; creative energy; radiant inner self; essential values",
+            "urge": "To be and to create",
+            "need": "To be recognized and to express self",
+            "elemental_recharge": {
+              "Fire": "Through vigorous activity and pursuing new visions",
+              "Earth": "Through working with physical world and feeding senses",
+              "Air": "Through social involvement and intellectual stimulation",
+              "Water": "Through intense emotional experience and intimate involvement"
+            }
+          },
+          "magi": {
+            "essence": "Conscious will, essential self, the Gold",
+            "intelligence_name": "Helios",
+            "magical_function": "Invocation, leadership, theurgy",
+            "shadow": "Inflation, tyranny, solar eclipse of the soul",
+            "alchemical_element": "Gold",
+            "metal": "Gold",
+            "number": 1,
+            "archetypes": [
+              "King",
+              "Father",
+              "Hero",
+              "Conscious Self"
+            ]
+          },
+          "traditional_dignities": {
+            "rulership": "Leo",
+            "exaltation": "Aries",
+            "detriment": "Aquarius",
+            "fall": "Libra"
+          },
+          "transit_cycle": "365 days",
+          "transit_areas": "vitality, creativity, confidence"
+        },
+        "Moon": {
+          "arroyo": {
+            "core_meaning": "Reaction; sub-conscious predisposition; feeling about self (self-image); conditioned responses",
+            "urge": "To feel inner support; domestic and emotional security urge",
+            "need": "For emotional tranquility and sense of belonging; to feel right about self",
+            "elemental_comfort": {
+              "Fire": "When expressing confidence and strength",
+              "Earth": "When being productive and working toward goals",
+              "Air": "When expressing ideas and interacting socially",
+              "Water": "When feelings are deeply involved"
+            }
+          },
+          "magi": {
+            "essence": "Unconscious patterning, soul memory, the Silver",
+            "intelligence_name": "Selene",
+            "magical_function": "Receptivity, dreaming, soul retrieval",
+            "shadow": "Possession by the past, emotional tyranny",
+            "alchemical_element": "Silver",
+            "metal": "Silver",
+            "number": 2,
+            "archetypes": [
+              "Queen",
+              "Mother",
+              "Soul",
+              "Unconscious"
+            ]
+          },
+          "traditional_dignities": {
+            "rulership": "Cancer",
+            "exaltation": "Taurus",
+            "detriment": "Capricorn",
+            "fall": "Scorpio"
+          },
+          "transit_cycle": "28 days",
+          "transit_areas": "emotion, daily routine, home"
+        },
+        "Mercury": {
+          "arroyo": {
+            "core_meaning": "Communication; conscious mind (logical or rational mind)",
+            "urge": "To express one's perceptions and intelligence through skill or speech",
+            "need": "To establish connections with others; to learn",
+            "elemental_thought_style": {
+              "Fire": "Thoughts influenced by aspirations, beliefs, hopes, and future visions",
+              "Earth": "Thoughts influenced by practical considerations and traditional attitudes",
+              "Air": "Thoughts as real things influenced by abstract ideals and social considerations",
+              "Water": "Thoughts influenced by deep feelings and yearnings"
+            }
+          },
+          "magi": {
+            "essence": "Mediation, differentiation, translation",
+            "intelligence_name": "Hermes",
+            "magical_function": "Sigils, language, communication with subtle realms",
+            "shadow": "Deception, fragmentation, information overload",
+            "alchemical_role": "The Mercurius who runs between all opposites",
+            "metal": "Quicksilver",
+            "number": 3
+          },
+          "traditional_dignities": {
+            "rulership": [
+              "Gemini",
+              "Virgo"
+            ],
+            "exaltation": "Aquarius",
+            "detriment": [
+              "Sagittarius",
+              "Pisces"
+            ],
+            "fall": "Leo"
+          },
+          "transit_cycle": "88 days",
+          "transit_areas": "learning, communication"
+        },
+        "Venus": {
+          "arroyo": {
+            "core_meaning": "Emotionally-colored tastes; values; exchange of energy with others",
+            "urge": "Social and love urge; urge to express affections; urge for pleasure",
+            "need": "To feel close to another; to feel comfort and harmony; to give of self's emotions",
+            "gender_differences": {
+              "for_women": "Associated with female ego; how she gives and receives in love and sex",
+              "for_men": "Associated with romantic ideals and aesthetic attraction; type of woman that turns on feelings"
+            }
+          },
+          "magi": {
+            "essence": "Valuation, attraction, harmony",
+            "intelligence_name": "Aphrodite",
+            "magical_function": "Glamour, attraction, beauty as transformative force",
+            "shadow": "Vanity, codependency, passive aggression",
+            "alchemical_role": "The uniting principle",
+            "metal": "Copper",
+            "number": 5
+          },
+          "traditional_dignities": {
+            "rulership": [
+              "Taurus",
+              "Libra"
+            ],
+            "exaltation": "Pisces",
+            "detriment": [
+              "Scorpio",
+              "Aries"
+            ],
+            "fall": "Virgo"
+          },
+          "transit_cycle": "~1 year",
+          "transit_areas": "relationship, finances",
+          "love_transit_keywords": [
+            "pleasure",
+            "affection",
+            "beauty",
+            "relationships",
+            "money"
+          ]
+        },
+        "Mars": {
+          "arroyo": {
+            "core_meaning": "Will toward action; initiative; physical energy; drive",
+            "urge": "Self-expressive and aggressive urge; urge to act decisively",
+            "need": "To achieve desires; need for physical and sexual excitement",
+            "assertion_method_by_element": {
+              "Fire": "Direct physical action, initiative, outgoing radiation",
+              "Earth": "Concrete achievement requiring patience and persistence",
+              "Air": "Expression of ideas, active communication, energetic imagination",
+              "Water": "Emotional subtlety and persistence, appealing to deeper feelings"
+            }
+          },
+          "magi": {
+            "essence": "Direction, assertion, purification",
+            "intelligence_name": "Ares",
+            "magical_function": "Protection, consecration, focused will",
+            "shadow": "Aggression, destruction, impulsivity",
+            "alchemical_role": "The sword that separates",
+            "metal": "Iron",
+            "number": 4
+          },
+          "traditional_dignities": {
+            "rulership": [
+              "Aries",
+              "Scorpio"
+            ],
+            "exaltation": "Capricorn",
+            "detriment": [
+              "Libra",
+              "Taurus"
+            ],
+            "fall": "Cancer"
+          },
+          "transit_cycle": "2.5 years",
+          "transit_areas": "work, conflict, sexuality",
+          "sexuality_transit_keywords": [
+            "action",
+            "initiative",
+            "conflict",
+            "sexuality",
+            "competition"
+          ]
+        },
+        "Jupiter": {
+          "arroyo": {
+            "core_meaning": "Expansion; grace; faith; optimism",
+            "urge": "Toward a larger order or to connect self with something greater than self",
+            "need": "For faith, trust, and confidence in life and self; to improve self"
+          },
+          "magi": {
+            "essence": "Expansion, meaning, grace",
+            "intelligence_name": "Zeus",
+            "magical_function": "Abundance rituals, legal magic, philosophical alignment",
+            "role": "The beneficence that comes after Saturn's discipline",
+            "metal": "Tin",
+            "number": 6
+          },
+          "traditional_dignities": {
+            "rulership": [
+              "Sagittarius",
+              "Pisces"
+            ],
+            "exaltation": "Cancer",
+            "detriment": [
+              "Gemini",
+              "Virgo"
+            ],
+            "fall": "Capricorn"
+          },
+          "transit_cycle": "12 years",
+          "transit_areas": "education, travel, adventure",
+          "transit_keywords": [
+            "learning",
+            "beliefs",
+            "travel",
+            "risk",
+            "hope"
+          ]
+        },
+        "Saturn": {
+          "arroyo": {
+            "core_meaning": "Contraction; effort; discipline; structure",
+            "urge": "To defend self's structure and integrity; toward safety and security through tangible achievement",
+            "need": "For social approval; to rely on one's own resources and work"
+          },
+          "magi": {
+            "essence": "Structure, limitation, crystallization",
+            "intelligence_name": "Kronos",
+            "magical_function": "Binding, foundation-building, ancestral work",
+            "shadow": "Depression, restriction, coldness",
+            "alchemical_role": "The vessel that contains the work",
+            "metal": "Lead",
+            "number": 7,
+            "special_note": "Saturn-Chiron axis as the 'Wounded Architect'"
+          },
+          "traditional_dignities": {
+            "rulership": [
+              "Capricorn",
+              "Aquarius"
+            ],
+            "exaltation": "Libra",
+            "detriment": [
+              "Cancer",
+              "Leo"
+            ],
+            "fall": "Aries"
+          },
+          "transit_cycle": "29.5 years",
+          "transit_areas": "career, responsibility, maturity",
+          "karmic_role": "Primary planet of karma, discipline, life lessons"
+        },
+        "Uranus": {
+          "arroyo": {
+            "core_meaning": "Individualistic freedom; freedom of ego-self; originality",
+            "urge": "Toward differentiation, originality, and independence from tradition",
+            "need": "For change, excitement and expression without restraint"
+          },
+          "magi": {
+            "essence": "Awakening, individuation, revolution",
+            "intelligence_name": "Ouranos",
+            "magical_function": "Innovation, sudden breakthrough, electrical magic",
+            "shadow": "Anarchy, disruption for its own sake, alienation",
+            "key": "The Promethean fire-bringer",
+            "metal": "Uranium",
+            "number": 9
+          },
+          "modern_dignities": {
+            "rulership": "Aquarius",
+            "detriment": "Leo"
+          },
+          "transit_cycle": "84 years",
+          "transit_areas": "change, disruption, rebellion"
+        },
+        "Neptune": {
+          "arroyo": {
+            "core_meaning": "Transcendent freedom; unification; freedom from ego-self",
+            "urge": "To escape from the limitations of one's self and of the material world",
+            "need": "To experience a oneness with life, a complete merger with the whole"
+          },
+          "magi": {
+            "essence": "Dissolution, unity, transcendence",
+            "intelligence_name": "Poseidon",
+            "magical_function": "Visionary art, mysticism, glamour of the highest order",
+            "shadow": "Delusion, escapism, boundary dissolution",
+            "key": "The mystic ocean",
+            "metal": "Neptunium",
+            "number": 11
+          },
+          "modern_dignities": {
+            "rulership": "Pisces",
+            "detriment": "Virgo"
+          },
+          "transit_cycle": "165 years",
+          "transit_areas": "spirituality, illusion, disillusion",
+          "occult_transit_keywords": [
+            "spirituality",
+            "compassion",
+            "art",
+            "illusion",
+            "loss"
+          ]
+        },
+        "Pluto": {
+          "arroyo": {
+            "core_meaning": "Transformation; transmutation; elimination; rebirth",
+            "urge": "Toward total rebirth; to penetrate to the core of experience",
+            "need": "To refine self; to let go of the old through pain"
+          },
+          "magi": {
+            "essence": "Transformation, power, rebirth",
+            "intelligence_name": "Hades",
+            "magical_function": "Shadow work, regeneration, wealth alchemy",
+            "shadow": "Control, manipulation, destruction without rebuilding",
+            "key": "The phoenix fire",
+            "metal": "Plutonium",
+            "number": 13
+          },
+          "modern_dignities": {
+            "rulership": "Scorpio",
+            "detriment": "Taurus"
+          },
+          "transit_cycle": "248 years",
+          "transit_areas": "transformation, inner strength",
+          "karmic_transit_keywords": [
+            "transformation",
+            "power",
+            "control",
+            "obsession",
+            "regeneration"
+          ]
+        },
+        "Chiron": {
+          "magi": {
+            "essence": "Wounding as initiation, healing as teaching",
+            "intelligence_name": "Chiron",
+            "magical_function": "Shamanic healing, rite-of-passage facilitation",
+            "role": "The wounded healer bridge between personal and transpersonal",
+            "metal": "Bronze",
+            "number": 8,
+            "special_note": "Central to Magi Astrology; considered 'planet of marriage'"
+          },
+          "transit_cycle": "50.7 years",
+          "transit_areas": "wounding and healing, teaching, integration",
+          "return_cycle": "Chiron Return around age 50-51; major healing initiation"
+        }
+      }
+    },
+    "archetypal_pairs_system": {
+      "definition": "Divine couples from world mythologies representing cosmic dualities, integration principles, and relationship archetypes",
+      "interpretation_approach": "Activated by transits to related points; represent soul-level relationship patterns and integration challenges",
+      "major_archetype_pairs": [
+        {
+          "pair": "Isis & Osiris (Egyptian)",
+          "keywords": [
+            "resurrection",
+            "wholeness",
+            "divine marriage",
+            "death/rebirth",
+            "sacred union"
+          ],
+          "mythology": "Goddess of magic and god of underworld; dismemberment and resurrection story",
+          "astrological_correspondences": {
+            "isis": "Moon, Venus, Neptune (feminine magic, intuition, mourning)",
+            "osiris": "Sun, Pluto, Saturn (masculine authority, death, resurrection)",
+            "midpoint": "Venus/Pluto, Sun/Moon, Saturn/Neptune"
+          },
+          "integration_theme": "Wholeness through loss and restoration; sacred marriage of opposites",
+          "transit_activation": "Transits to Venus/Pluto, Sun/Moon midpoint, or Neptune/Saturn aspects",
+          "life_lessons": [
+            "Finding wholeness after loss or betrayal",
+            "Sacred partnership that transcends death",
+            "Integration of magic and structure",
+            "Resurrection of what was lost"
+          ]
+        },
+        {
+          "pair": "Shiva & Parvati (Hindu)",
+          "keywords": [
+            "asceticism/domesticity",
+            "destruction/creation",
+            "yoga/household",
+            "divine lovers"
+          ],
+          "mythology": "God of destruction and goddess of domesticity; union of opposites",
+          "astrological_correspondences": {
+            "shiva": "Saturn, Pluto, Uranus (asceticism, destruction, transcendence)",
+            "parvati": "Moon, Venus, Jupiter (domesticity, devotion, fertility)",
+            "midpoint": "Saturn/Venus, Pluto/Moon, Uranus/Jupiter"
+          },
+          "integration_theme": "Union of transcendence and immanence; spiritual practice within relationship",
+          "transit_activation": "Transits to Saturn/Venus, Pluto/Moon, or Uranus/Venus aspects",
+          "life_lessons": [
+            "Balancing spiritual practice with relationship",
+            "Destructive patterns transforming into creative ones",
+            "Finding divinity in domestic life",
+            "Union of masculine transcendence and feminine immanence"
+          ]
+        },
+        {
+          "pair": "Inanna & Dumuzi (Sumerian)",
+          "keywords": [
+            "sacred marriage",
+            "fertility",
+            "descent",
+            "seasonal cycles",
+            "queenship/shepherd"
+          ],
+          "mythology": "Goddess of love and war and shepherd god; descent to underworld story",
+          "astrological_correspondences": {
+            "inanna": "Venus, Mars, Pluto (love, war, underworld descent)",
+            "dumuzi": "Sun, Mercury, Saturn (fertility, shepherding, seasonal cycles)",
+            "midpoint": "Venus/Mars, Pluto/Sun, Mars/Saturn"
+          },
+          "integration_theme": "Sacred marriage as cosmic principle; descent and return cycles",
+          "transit_activation": "Transits to Venus/Mars, Pluto/Sun, or Mars/Saturn aspects",
+          "life_lessons": [
+            "Cycles of relationship loss and return",
+            "Sacred sexuality and fertility",
+            "Descent to underworld in relationships",
+            "Queenship balanced with partnership"
+          ]
+        },
+        {
+          "pair": "Kali & Shiva (Hindu)",
+          "keywords": [
+            "fierce feminine",
+            "cosmic dance",
+            "destruction/transcendence",
+            "time/eternity"
+          ],
+          "mythology": "Goddess of time and destruction and god of transcendence; cosmic dance of creation/destruction",
+          "astrological_correspondences": {
+            "kali": "Pluto, Mars, Moon (fierce feminine, destruction, time)",
+            "shiva": "Saturn, Uranus, Neptune (transcendence, meditation, liberation)",
+            "midpoint": "Pluto/Saturn, Mars/Uranus, Moon/Neptune"
+          },
+          "integration_theme": "Cosmic dance of destruction and transcendence; fierce love",
+          "transit_activation": "Transits to Pluto/Saturn, Mars/Uranus, or Moon/Neptune aspects",
+          "life_lessons": [
+            "Embracing fierce feminine energy",
+            "Dancing with destruction as creative force",
+            "Transcendence through embracing darkness",
+            "Time and eternity in relationship"
+          ]
+        },
+        {
+          "pair": "Persephone & Hades (Greek)",
+          "keywords": [
+            "abduction",
+            "underworld queen",
+            "seasonal cycles",
+            "mother/daughter separation"
+          ],
+          "mythology": "Goddess of spring abducted to underworld; seasonal cycle myth",
+          "astrological_correspondences": {
+            "persephone": "Ceres, Moon, Venus (spring, innocence, underworld queen)",
+            "hades": "Pluto, Saturn, Neptune (underworld, wealth, hidden realms)",
+            "midpoint": "Ceres/Pluto, Moon/Saturn, Venus/Neptune"
+          },
+          "integration_theme": "Innocence transformed through underworld experience; cyclic abduction and return",
+          "transit_activation": "Transits to Ceres/Pluto, Moon/Saturn, or Venus/Neptune aspects",
+          "life_lessons": [
+            "Transformation through underworld experiences",
+            "Cycles of abduction and return in relationships",
+            "Innocence lost and wisdom gained",
+            "Mother-daughter separation themes"
+          ]
+        },
+        {
+          "pair": "Odin & Frigg (Norse)",
+          "keywords": [
+            "wisdom/sacrifice",
+            "domestic magic",
+            "foresight",
+            "sovereignty"
+          ],
+          "mythology": "All-father god of wisdom and goddess of foresight; complementary rulership",
+          "astrological_correspondences": {
+            "odin": "Mercury, Uranus, Pluto (wisdom, sacrifice, ravens)",
+            "frigg": "Moon, Venus, Neptune (foresight, domesticity, spinning fate)",
+            "midpoint": "Mercury/Moon, Uranus/Venus, Pluto/Neptune"
+          },
+          "integration_theme": "Wisdom and domestic magic; masculine sacrifice and feminine foresight",
+          "transit_activation": "Transits to Mercury/Moon, Uranus/Venus, or Pluto/Neptune aspects",
+          "life_lessons": [
+            "Sacrifice for wisdom in relationships",
+            "Domestic magic and foresight",
+            "Complementary rulership",
+            "Weaving fate together"
+          ]
+        }
+      ],
+      "transit_interpretation": {
+        "archetype_activation": "When transiting planets aspect the midpoint of an archetype pair, that relationship pattern becomes active",
+        "relationship_themes": "These activations highlight soul-level relationship patterns and karmic connections",
+        "integration_challenges": "Transits bring opportunities to integrate the archetypal energies represented by the pair",
+        "shadow_manifestation": "Unintegrated archetype pairs manifest as relationship conflicts or power struggles",
+        "healing_path": "Conscious work with activated archetypes leads to relationship transformation"
+      }
+    },
+    "advanced_points_and_bodies": {
+      "fixed_stars": {
+        "definition": "Luminous points in the night sky with specific symbolic meanings; considered background influences that add color to planetary energies",
+        "nature": "Fixed, unchanging positions; operate as archetypal amplifiers",
+        "orb_allowance": "1° maximum, often 0.5° for precise effects",
+        "interpretation_approach": "Fixed stars modify planets they conjunct; add mythological themes and fated qualities",
+        "major_fixed_stars": [
+          {
+            "star": "Aldebaran",
+            "constellation": "Taurus",
+            "degree": "09°47' Gemini",
+            "keywords": [
+              "honor",
+              "integrity",
+              "success",
+              "royalty",
+              "brilliance"
+            ],
+            "mythology": "Eye of the Bull; royal Persian star",
+            "transit_effects": {
+              "sun": "Sudden honors, prominence, leadership recognition",
+              "moon": "Emotional integrity, domestic honor, family pride",
+              "mercury": "Brilliant communication, honest expression",
+              "venus": "Noble love, refined tastes, artistic success",
+              "mars": "Honorable action, courageous leadership",
+              "jupiter": "Expansion of integrity, philosophical nobility",
+              "saturn": "Responsibility for honor, tests of integrity",
+              "uranus": "Sudden honors or dishonor, unexpected recognition",
+              "neptune": "Spiritual integrity, idealized honor",
+              "pluto": "Transformation of reputation, power through integrity"
+            },
+            "notes": "One of the four Royal Stars; can bring fame or infamy"
+          }
+        ]
+      },
+      "arabic_parts_expanded": {
+        "definition": "Calculated points based on planetary positions; represent specific life areas and karmic indicators",
+        "calculation_method": "Most parts use formula: Ascendant + Planet B - Planet A",
+        "interpretation_approach": "Parts activate when transited; show timing of specific life events",
+        "orb_allowance": "1° maximum for exact activation",
+        "love_sex_relationship_parts": [
+          {
+            "part": "Part of Marriage (Pars Matrimonii)",
+            "calculation": "Ascendant + Venus - Saturn (day) / Ascendant + Saturn - Venus (night)",
+            "keywords": [
+              "marriage",
+              "long-term commitment",
+              "partnership contracts"
+            ],
+            "interpretation": "Indicates timing of marriage or serious long-term commitments"
+          },
+          {
+            "part": "Part of Sex (Pars Sexualis)",
+            "calculation": "Ascendant + Mars - Venus",
+            "keywords": [
+              "sexual encounters",
+              "physical passion",
+              "erotic energy"
+            ],
+            "interpretation": "Indicates timing of sexual experiences and passionate encounters"
+          },
+          {
+            "part": "Part of Love Affairs (Pars Amoris)",
+            "calculation": "Ascendant + Venus - Mars",
+            "keywords": [
+              "romantic affairs",
+              "passionate love",
+              "extramarital relationships"
+            ],
+            "interpretation": "Indicates timing of love affairs and passionate romantic encounters"
+          },
+          {
+            "part": "Part of Children (Pars Liberorum)",
+            "calculation": "Ascendant + Jupiter - Saturn (for sons) / Ascendant + Venus - Moon (for daughters)",
+            "keywords": [
+              "parenthood",
+              "fertility",
+              "child-related events"
+            ],
+            "interpretation": "Indicates timing of children's births or significant child-related events"
+          }
+        ],
+        "karmic_occult_fate_parts": [
+          {
+            "part": "Part of Fate (Pars Fortunae Maioris)",
+            "calculation": "Ascendant + Moon - Sun (traditional Part of Fortune)",
+            "keywords": [
+              "destiny",
+              "life purpose",
+              "soul mission"
+            ],
+            "interpretation": "Indicates major life purpose and destiny markers"
+          },
+          {
+            "part": "Part of Karma (Pars Karmae)",
+            "calculation": "Ascendant + South Node - North Node",
+            "keywords": [
+              "karmic debts",
+              "past life patterns",
+              "soul lessons"
+            ],
+            "interpretation": "Indicates specific karmic lessons and past life patterns"
+          },
+          {
+            "part": "Part of Magic (Pars Magicae)",
+            "calculation": "Ascendant + Neptune - Mercury",
+            "keywords": [
+              "occult abilities",
+              "psychic gifts",
+              "mystical experiences"
+            ],
+            "interpretation": "Indicates timing of mystical experiences and occult development"
+          },
+          {
+            "part": "Part of Death (Pars Mortis)",
+            "calculation": "Ascendant + Saturn - Moon",
+            "keywords": [
+              "endings",
+              "transitions",
+              "death-related events"
+            ],
+            "interpretation": "Indicates timing of significant endings, deaths, or major transitions"
+          }
+        ]
+      },
+      "specialized_points": {
+        "vertex": {
+          "definition": "Sensitive point representing fated encounters and significant relationships; calculated from intersection of ecliptic and prime vertical",
+          "nature": "Astrological point, not physical body",
+          "location": "Western hemisphere, often in 5th, 6th, 7th, or 8th houses",
+          "interpretation_approach": "Acts like secondary descendant; indicates karmic relationships and significant meetings",
+          "orb_allowance": "1° for conjunctions and oppositions"
+        },
+        "aries_point": {
+          "definition": "Zero degrees of Aries; represents the beginning of the zodiac and connection to collective consciousness",
+          "nature": "Cardinal point, not physical body",
+          "calculation": "0° Aries = Vernal Equinox point",
+          "interpretation_approach": "Connects personal life to collective events; amplifies public exposure",
+          "orb_allowance": "1° for exact hits"
+        },
+        "uranian_points": {
+          "definition": "Hypothetical planets and points used in Uranian astrology (Hamburg School); represent abstract principles and timing indicators",
+          "nature": "Calculated points, not physical bodies",
+          "system_origin": "Hamburg School of astrology (Uranian astrology)",
+          "interpretation_approach": "Used with 90° dial; precise timing and relationship indicators",
+          "orb_allowance": "0.5° for exact hits on 90° dial"
+        },
+        "centaurs": {
+          "definition": "Minor planets orbiting between Jupiter and Neptune; bridge personal and transpersonal realms",
+          "nature": "Physical bodies with eccentric orbits",
+          "interpretation_approach": "Act as bridges between Saturn (personal) and Uranus/Neptune (transpersonal)",
+          "orb_allowance": "1-2° depending on speed"
+        },
+        "trans_neptunian_objects": {
+          "definition": "Dwarf planets and other bodies orbiting beyond Neptune; represent collective evolutionary principles",
+          "nature": "Physical bodies with very long orbits",
+          "interpretation_approach": "Collective evolutionary forces; transpersonal consciousness",
+          "orb_allowance": "1-3° depending on significance"
+        },
+        "love_sex_points": [
+          {
+            "point": "Eros",
+            "type": "Asteroid",
+            "keywords": [
+              "erotic love",
+              "sexual desire",
+              "creative passion"
+            ],
+            "interpretation": "Represents erotic attraction and sexual desire; what we find sexually exciting"
+          },
+          {
+            "point": "Psyche",
+            "type": "Asteroid",
+            "keywords": [
+              "soul",
+              "psychology",
+              "deep intimacy"
+            ],
+            "interpretation": "Represents soul connection and psychological intimacy in relationships"
+          },
+          {
+            "point": "Amor",
+            "type": "Asteroid",
+            "keywords": [
+              "selfless love",
+              "unconditional love",
+              "spiritual affection"
+            ],
+            "interpretation": "Represents selfless, unconditional love and spiritual affection"
+          }
+        ],
+        "karmic_fate_points": [
+          {
+            "point": "Lilith (Black Moon)",
+            "type": "Lunar apogee point",
+            "keywords": [
+              "wild feminine",
+              "taboo",
+              "rebellion",
+              "shadow",
+              "sexual power"
+            ],
+            "interpretation": "Represents the wild feminine, taboo subjects, sexual power, and shadow aspects"
+          },
+          {
+            "point": "Karma",
+            "type": "Asteroid",
+            "keywords": [
+              "cause and effect",
+              "life lessons",
+              "karmic debts"
+            ],
+            "interpretation": "Represents karmic lessons, cause and effect, and life debts"
+          },
+          {
+            "point": "Moksha",
+            "type": "Asteroid",
+            "keywords": [
+              "liberation",
+              "enlightenment",
+              "release",
+              "spiritual freedom"
+            ],
+            "interpretation": "Represents spiritual liberation, enlightenment, and release from karma"
+          }
+        ],
+        "occult_mystical_points": [
+          {
+            "point": "Selene (White Moon)",
+            "type": "Lunar point",
+            "keywords": [
+              "spiritual gifts",
+              "angelic guidance",
+              "grace",
+              "protection"
+            ],
+            "interpretation": "Represents spiritual gifts, angelic guidance, divine grace, and protection"
+          },
+          {
+            "point": "Hecate",
+            "type": "Asteroid",
+            "keywords": [
+              "witchcraft",
+              "crossroads",
+              "magic",
+              "psychic abilities"
+            ],
+            "interpretation": "Represents witchcraft, crossroads decisions, magical abilities, and psychic power"
+          },
+          {
+            "point": "Proserpina",
+            "type": "Asteroid",
+            "keywords": [
+              "underworld journeys",
+              "initiation",
+              "psychic death",
+              "rebirth"
+            ],
+            "interpretation": "Represents underworld journeys, initiation experiences, psychic death and rebirth"
+          }
+        ]
+      }
+    },
+    "transits_and_timing_system": {
+      "foundational_concepts": {
+        "transit_types": {
+          "inner_planet_transits": "Fast-moving (Sun, Moon, Mercury, Venus, Mars); trigger events, daily influences",
+          "outer_planet_transits": "Slow-moving (Jupiter, Saturn, Uranus, Neptune, Pluto); generational influences, life phases",
+          "midpoint_transits": "Transits to planetary midpoints; activation of integrated energies",
+          "arabic_part_transits": "Transits to Arabic Parts; specific life area timing",
+          "fixed_star_transits": "Transits to fixed stars; archetypal amplification",
+          "archetype_transits": "Transits to archetype pair midpoints; soul-level patterns"
+        },
+        "planetary_cycles_table": [
+          {
+            "planet": "Sun",
+            "cycle": "365 days",
+            "areas": "vitality, creativity, confidence"
+          },
+          {
+            "planet": "Moon",
+            "cycle": "28 days",
+            "areas": "emotion, daily routine, home"
+          },
+          {
+            "planet": "Mercury",
+            "cycle": "88 days",
+            "areas": "learning, communication"
+          },
+          {
+            "planet": "Venus",
+            "cycle": "~1 year",
+            "areas": "relationship, finances"
+          },
+          {
+            "planet": "Mars",
+            "cycle": "2.5 years",
+            "areas": "work, conflict, sexuality"
+          },
+          {
+            "planet": "Jupiter",
+            "cycle": "12 years",
+            "areas": "education, travel, adventure"
+          },
+          {
+            "planet": "Saturn",
+            "cycle": "29.5 years",
+            "areas": "career, responsibility, maturity"
+          },
+          {
+            "planet": "Uranus",
+            "cycle": "84 years",
+            "areas": "change, disruption, rebellion"
+          },
+          {
+            "planet": "Neptune",
+            "cycle": "165 years",
+            "areas": "spirituality, illusion, disillusion"
+          },
+          {
+            "planet": "Pluto",
+            "cycle": "248 years",
+            "areas": "transformation, inner strength"
+          },
+          {
+            "planet": "Chiron",
+            "cycle": "50.7 years",
+            "areas": "wounding, healing, integration"
+          }
+        ],
+        "midpoints_system": {
+          "definition": "Midpoints represent the synthesis point between two planetary energies; transits to midpoints activate integration of those energies",
+          "calculation_method": "(Planet A degree + Planet B degree) ÷ 2 = Midpoint degree. Adjust for zodiac wheel continuity",
+          "types_of_midpoints": {
+            "planetary_midpoints": "Between two planets (e.g., Sun/Moon, Venus/Mars)",
+            "angle_midpoints": "Between angles (e.g., Asc/MC, Asc/Desc)",
+            "planetary_angle_midpoints": "Between planet and angle (e.g., Sun/Asc, Moon/MC)",
+            "harmonic_midpoints": "Midpoints between harmonic aspects",
+            "archetype_pair_midpoints": "Between archetype pair correspondences"
+          }
+        }
+      },
+      "aspect_system_for_transits": {
+        "aspects_list": [
+          {
+            "aspect": "Conjunction",
+            "degrees": "0",
+            "meaning": "Intensity, subjectivity",
+            "nature": "neutral"
+          },
+          {
+            "aspect": "Sextile",
+            "degrees": "60",
+            "meaning": "opportunity",
+            "nature": "harmonious"
+          },
+          {
+            "aspect": "Square",
+            "degrees": "90",
+            "meaning": "conflict",
+            "nature": "challenging"
+          },
+          {
+            "aspect": "Trine",
+            "degrees": "120",
+            "meaning": "ease",
+            "nature": "harmonious"
+          },
+          {
+            "aspect": "Quincunx",
+            "degrees": "150–180",
+            "meaning": "adjustment",
+            "nature": "challenging"
+          },
+          {
+            "aspect": "Opposition",
+            "degrees": "180",
+            "meaning": "balance",
+            "nature": "challenging"
+          }
+        ],
+        "orbs_guide": {
+          "general_orbs": "Allowable degrees of inexactness; larger orbs for slower planets",
+          "midpoint_orbs": "Tight orbs (1-2°) recommended for midpoint transits due to precision sensitivity",
+          "fixed_star_orbs": "0.5-1° maximum for precise effects",
+          "arabic_part_orbs": "1° maximum for activation",
+          "advanced_points_orbs": "1-2° depending on significance",
+          "archetype_pair_orbs": "2-3° for broader archetypal themes"
+        }
+      },
+      "key_midpoints_interpretation": [
+        {
+          "midpoint": "Sun/Moon",
+          "keywords": [
+            "identity",
+            "conscious/unconscious integration",
+            "vitality",
+            "emotional expression"
+          ],
+          "interpretation": "Represents synthesis of conscious will (Sun) and emotional needs (Moon). Transits here trigger events requiring alignment of actions with feelings"
+        },
+        {
+          "midpoint": "Venus/Mars",
+          "keywords": [
+            "love and desire",
+            "passion",
+            "sexual chemistry",
+            "relationship dynamics"
+          ],
+          "interpretation": "Represents the integration of love and passion; sexual attraction and romantic energy"
+        },
+        {
+          "midpoint": "Saturn/Neptune",
+          "keywords": [
+            "structure and spirit",
+            "discipline and dreams",
+            "reality and illusion"
+          ],
+          "interpretation": "Integration of structure and spirituality; where dreams meet reality"
+        },
+        {
+          "midpoint": "Venus/Pluto (Isis/Osiris)",
+          "keywords": [
+            "sacred marriage",
+            "death and rebirth in love",
+            "transformative relationships"
+          ],
+          "interpretation": "Represents the Isis-Osiris archetype; love that transcends death, transformative unions"
+        },
+        {
+          "midpoint": "Saturn/Venus (Shiva/Parvati)",
+          "keywords": [
+            "asceticism and domesticity",
+            "spiritual partnership",
+            "discipline in love"
+          ],
+          "interpretation": "Represents the Shiva-Parvati archetype; union of spiritual practice and relationship"
+        }
+      ],
+      "planetary_transits_interpretation": {
+        "Jupiter": {
+          "cycle_phases": {
+            "return": "Ages 12, 24, 36, 48, 60, 72, 84, 96",
+            "opening_square": "Ages 3, 15, 27, 39, 51, 63, 75, 87, 99",
+            "opposition": "Ages 6, 18, 30, 42, 54, 66, 78, 90",
+            "closing_square": "Ages 9, 21, 33, 45, 57, 69, 81, 93"
+          }
+        },
+        "Venus": {
+          "love_transit_interpretation": {
+            "conjunct_sun": "Romantic self-expression, love affairs",
+            "conjunct_moon": "Emotional love, nurturing relationships",
+            "conjunct_mercury": "Romantic communication, love letters",
+            "conjunct_mars": "Passionate encounters, sexual attraction",
+            "conjunct_jupiter": "Expansive love, fortunate relationships",
+            "conjunct_saturn": "Serious relationships, commitment",
+            "conjunct_uranus": "Sudden attractions, unconventional relationships",
+            "conjunct_neptune": "Romantic idealization, spiritual love",
+            "conjunct_pluto": "Intense relationships, transformative love"
+          }
+        },
+        "Mars": {
+          "cycle_info": {
+            "cycle_duration": "22 months",
+            "time_in_sign": "about 2 months",
+            "aspect_duration": "about 1 week",
+            "strong_signs": [
+              "Aries",
+              "Scorpio",
+              "Capricorn"
+            ],
+            "challenging_signs": [
+              "Cancer",
+              "Libra"
+            ]
+          },
+          "sexuality_transit_interpretation": {
+            "conjunct_sun": "Sexual identity, confident sexuality",
+            "conjunct_moon": "Emotional sexuality, nurturing through sex",
+            "conjunct_mercury": "Sexual communication, talking about desires",
+            "conjunct_venus": "Passionate love, sexual attraction",
+            "conjunct_jupiter": "Expansive sexuality, fortunate encounters",
+            "conjunct_saturn": "Restricted sexuality, disciplined desire",
+            "conjunct_uranus": "Sudden sexual attractions, unconventional sexuality",
+            "conjunct_neptune": "Spiritual sexuality, idealized desire",
+            "conjunct_pluto": "Transformative sexuality, powerful attractions"
+          }
+        },
+        "Pluto": {
+          "cycle_phases": {
+            "sextile": "Age 25",
+            "square": "Mid-30s to mid-40s",
+            "trine": "Early 50s",
+            "opposition": "80s (if lived)"
+          },
+          "karmic_transit_interpretation": {
+            "conjunct_sun": "Karmic identity transformation",
+            "conjunct_moon": "Karmic emotional patterns",
+            "conjunct_mercury": "Karmic communication patterns",
+            "conjunct_venus": "Karmic relationship patterns",
+            "conjunct_mars": "Karmic action patterns",
+            "conjunct_jupiter": "Karmic belief systems",
+            "conjunct_saturn": "Karmic life lessons",
+            "conjunct_uranus": "Karmic awakenings",
+            "conjunct_neptune": "Karmic spiritual patterns"
+          }
+        },
+        "Neptune": {
+          "cycle_phases": {
+            "sextile": "Age 27",
+            "square": "Age 42",
+            "trine": "Age 55",
+            "opposition": "Age 82"
+          },
+          "occult_transit_interpretation": {
+            "conjunct_sun": "Spiritual identity, mystical self",
+            "conjunct_moon": "Psychic abilities, intuitive emotions",
+            "conjunct_mercury": "Channeling, mystical communication",
+            "conjunct_venus": "Spiritual love, mystical relationships",
+            "conjunct_mars": "Ritual magic, mystical action",
+            "conjunct_jupiter": "Expansive spirituality, fortunate mysticism",
+            "conjunct_saturn": "Structured spirituality, disciplined mysticism",
+            "conjunct_uranus": "Sudden mystical awakening",
+            "conjunct_pluto": "Transformative mysticism, shamanic power"
+          }
+        }
+      },
+      "houses_in_transits": {
+        "individual_houses": {
+          "1st_house": "Self, appearance, personality, new beginnings",
+          "2nd_house": "Personal resources, money, values, possessions",
+          "3rd_house": "Communication, siblings, short trips, early education",
+          "4th_house": "Home, family, roots, private life",
+          "5th_house": "Creativity, romance, children, leisure, pleasure, love affairs",
+          "6th_house": "Work, health, daily routines, service",
+          "7th_house": "Partnerships, marriage, contracts, open enemies, significant others",
+          "8th_house": "Shared resources, sex, death, transformation, occult, inheritance, other people's money",
+          "9th_house": "Higher education, travel, philosophy, publishing, spirituality, law",
+          "10th_house": "Career, reputation, public life, authority, destiny",
+          "11th_house": "Friends, groups, aspirations, social causes, hopes and wishes",
+          "12th_house": "Subconscious, secrets, retreat, spirituality, hidden enemies, karma, past lives"
+        },
+        "house_pairs": {
+          "1st_7th": "Self and important others (identity vs partnership)",
+          "2nd_8th": "Personal and shared resources (mine vs ours)",
+          "3rd_9th": "Learning and understanding (local vs global)",
+          "4th_10th": "Origin and destination (private vs public)",
+          "5th_11th": "Creations and legends (personal pleasure vs collective aspirations)",
+          "6th_12th": "This world and the next (daily reality vs spiritual realm)"
+        },
+        "special_house_themes": {
+          "love_sex_houses": [
+            "5th house (romance, pleasure)",
+            "7th house (partnership)",
+            "8th house (sex, intimacy)"
+          ],
+          "karmic_houses": [
+            "8th house (shared karma)",
+            "12th house (past life karma)"
+          ],
+          "occult_houses": [
+            "8th house (occult mysteries)",
+            "12th house (hidden knowledge)",
+            "9th house (spiritual philosophy)"
+          ],
+          "fate_houses": [
+            "10th house (destiny)",
+            "12th house (karma)",
+            "4th house (ancestral fate)"
+          ]
+        }
+      },
+      "planning_frameworks": {
+        "daily": {
+          "moon": "Phase, sign, aspects to other planets",
+          "sun": "Aspects to transiting or natal planets",
+          "other_aspects": "Exact aspects between transiting planets",
+          "sign_changes": "Planets changing signs, retrograde/direct shifts",
+          "midpoint_hits": "Check for transits to key midpoints (1° orb)",
+          "fixed_star_activations": "Note Moon or fast planet conjunctions with fixed stars",
+          "love_timing": "Venus aspects to personal planets for romantic opportunities",
+          "sexual_timing": "Mars aspects to Venus or Moon for passionate encounters"
+        },
+        "monthly": {
+          "moon": "New and Full Moon dates and houses",
+          "sun": "Sign change and house transit",
+          "mercury": "Sign changes, communication style",
+          "venus": "Sign changes, financial/relationship needs",
+          "mars": "Sign changes, energy and initiative",
+          "midpoint_transits": "Note slower planets hitting major midpoints",
+          "arabic_part_activations": "Check major Arabic Parts being activated",
+          "archetype_activations": "Transits to archetype pair midpoints",
+          "karmic_timing": "South Node or Saturn aspects for karmic lessons"
+        },
+        "yearly": {
+          "sun": "Solar return, conjunctions to angles",
+          "eclipses": "House and planetary conjunctions",
+          "retrograde_periods": "Mercury, Venus, Mars retrogrades",
+          "jupiter": "Sign and house transit, returns",
+          "outer_planets": "Saturn, Uranus, Neptune, Pluto sign/house changes and aspects",
+          "midpoint_activations": "Record major outer planet transits to natal midpoints",
+          "centaur_tno_transits": "Note Chiron and major TNO transits to personal points",
+          "love_cycles": "Venus returns, Venus-Mars conjunctions",
+          "karmic_cycles": "Saturn returns, nodal returns, Pluto squares",
+          "occult_cycles": "Neptune transits to Mercury or Moon for psychic development"
+        },
+        "long_term": {
+          "jupiter_returns": "Every 12 years",
+          "saturn_returns": "Ages 29, 58, 87",
+          "uranus_opposition": "Age 42",
+          "neptune_square": "Age 42",
+          "pluto_square": "Mid-30s to mid-40s",
+          "midpoint_cycles": "Outer planet transits to sensitive midpoints",
+          "chiron_return": "Age 50-51",
+          "tno_generational_shifts": "TNO sign changes (generational)",
+          "archetype_cycles": "Transits activating major archetype pair midpoints",
+          "fated_relationship_timing": "Vertex activations by outer planets",
+          "soulmate_cycles": "Transits to Psyche and Amor points"
+        }
+      },
+      "practical_tools": {
+        "finding_transits": [
+          "Ephemeris",
+          "Astrodienst (astro.com)",
+          "Astrological software"
+        ],
+        "midpoint_calculation_tools": [
+          "Midpoint calculator software",
+          "90° dial charts",
+          "Cosmobiology programs"
+        ],
+        "advanced_bodies_sources": [
+          "Swiss Ephemeris",
+          "NASA JPL Horizons",
+          "Specialized ephemerides"
+        ],
+        "archetype_resources": [
+          "Mythological dictionaries",
+          "Comparative mythology texts",
+          "Depth psychology resources"
+        ],
+        "interpretation_approach": {
+          "slow_planets_first": "Start with Jupiter, Saturn, Uranus, Neptune, Pluto",
+          "aspects": "Consider conjunction, square, opposition as strongest",
+          "houses": "Note which house transit occurs in for life area focus",
+          "natal_aspects": "Transits echoing natal aspects are more powerful",
+          "midpoints": "Check transits to key midpoints for additional sensitivity points",
+          "fixed_stars": "Note fixed star conjunctions for archetypal amplification",
+          "arabic_parts": "Check Arabic Part activations for specific life area timing",
+          "vertex": "Consider Vertex activations for fated relationship timing",
+          "archetypes": "Note archetype pair activations for soul-level patterns",
+          "love_points": "Check Eros, Psyche, Amor for romantic timing",
+          "karmic_points": "Check Karma, South Node, Saturn for karmic lessons",
+          "occult_points": "Check Hecate, Proserpina, Lilith for mystical developments",
+          "layered_interpretation": "Combine: Planet + Sign + House + Aspect + Fixed Star + Midpoint + Archetype + Love Point"
+        },
+        "prioritization_hierarchy": {
+          "primary": "Transits to Sun, Moon, Ascendant, Midheaven",
+          "secondary": "Transits to personal planets (Mercury, Venus, Mars)",
+          "tertiary": "Transits to social planets (Jupiter, Saturn)",
+          "quaternary": "Transits to outer planets (Uranus, Neptune, Pluto)",
+          "advanced": "Transits to fixed stars, Arabic Parts, Vertex",
+          "archetypal": "Transits to archetype pair midpoints",
+          "specialized": "Transits to love, karmic, occult points",
+          "generational": "Transits to Centaurs and TNOs"
+        }
+      },
+      "implementation_guide": {
+        "learning_path": {
+          "phase_1": "Foundational Understanding (Weeks 1-2)",
+          "phase_2": "Practical Application (Weeks 3-6)",
+          "phase_3": "Deep Interpretation (Weeks 7-12)",
+          "phase_4": "Advanced Synthesis with Midpoints (Months 4-6)",
+          "phase_5": "Advanced Bodies Integration (Months 7-9)",
+          "phase_6": "Archetype and Specialized Points (Months 10-12)"
+        },
+        "tracking_systems": {
+          "daily_log": "Moon phase/sign, major aspects, observations",
+          "monthly_plan": "New/Full Moons, planetary sign changes, focus areas",
+          "yearly_map": "Jupiter/Saturn transits, retrograde periods, eclipse seasons",
+          "midpoint_tracker": "Key midpoint activations by outer planets",
+          "advanced_points_tracker": "Fixed star and Arabic Part activations",
+          "archetype_tracker": "Archetype pair activations",
+          "love_tracker": "Eros, Psyche, Venus-Mars aspects",
+          "karmic_tracker": "Saturn, South Node, Karma point activations",
+          "occult_tracker": "Lilith, Hecate, Proserpina activations"
+        },
+        "specialized_focus": {
+          "romantic_relationships": [
+            "Venus",
+            "Mars",
+            "7th house",
+            "Vertex",
+            "Eros",
+            "Psyche",
+            "Amor",
+            "Part of Love",
+            "Part of Marriage",
+            "Venus/Mars midpoint",
+            "Sun/Moon midpoint"
+          ],
+          "sexual_chemistry": [
+            "Mars",
+            "Pluto",
+            "8th house",
+            "Eros",
+            "Priapus",
+            "Lilith",
+            "Part of Sex",
+            "Venus/Mars midpoint",
+            "Mars/Pluto midpoint"
+          ],
+          "soulmate_connections": [
+            "North Node",
+            "Vertex",
+            "12th house",
+            "Psyche",
+            "Amor",
+            "Part of Spirit",
+            "Sun/Moon midpoint",
+            "Venus/Neptune midpoint"
+          ],
+          "karmic_relationships": [
+            "South Node",
+            "Saturn",
+            "12th house",
+            "Karma point",
+            "Part of Karma",
+            "Saturn/Venus midpoint",
+            "Moon/Saturn midpoint"
+          ],
+          "fated_encounters": [
+            "Vertex",
+            "8th house",
+            "12th house",
+            "Fixed stars",
+            "Part of Fate",
+            "Aries Point",
+            "Uranus/Neptune midpoint"
+          ],
+          "occult_development": [
+            "Neptune",
+            "Pluto",
+            "8th house",
+            "12th house",
+            "Hecate",
+            "Proserpina",
+            "Lilith",
+            "Part of Magic",
+            "Part of Secrets",
+            "Mercury/Neptune midpoint",
+            "Moon/Pluto midpoint"
+          ],
+          "archetypal_integration": [
+            "Relevant archetype pair midpoints",
+            "Corresponding planetary pairs",
+            "Related Arabic Parts",
+            "Fixed star conjunctions"
+          ]
+        },
+        "midpoint_focus_areas": {
+          "identity_integration": [
+            "Sun/Moon",
+            "Sun/Ascendant",
+            "Moon/Ascendant"
+          ],
+          "relationship_patterns": [
+            "Venus/Mars",
+            "Venus/Pluto",
+            "Mars/Pluto"
+          ],
+          "career_vocation": [
+            "Sun/Midheaven",
+            "Saturn/Midheaven",
+            "Jupiter/Midheaven"
+          ],
+          "spiritual_development": [
+            "Moon/Neptune",
+            "Sun/Neptune",
+            "Jupiter/Neptune"
+          ],
+          "transformative_growth": [
+            "Sun/Pluto",
+            "Moon/Pluto",
+            "Ascendant/Pluto"
+          ],
+          "sacred_marriage": [
+            "Venus/Pluto (Isis/Osiris)",
+            "Sun/Moon (Sacred Union)"
+          ],
+          "spiritual_partnership": [
+            "Saturn/Venus (Shiva/Parvati)",
+            "Mars/Venus (Sacred Passion)"
+          ],
+          "underworld_journeys": [
+            "Moon/Pluto (Persephone/Hades)",
+            "Venus/Pluto (Inanna/Dumuzi)"
+          ]
+        }
+      }
+    },
+    "unified_transit_analysis": {
+      "essential_dignity_scores": [
+        {
+          "dignity": "Domicile (Rulership)",
+          "score": 5,
+          "description": "Maximum authority, full resource access",
+          "examples": "Sun in Leo, Moon in Cancer, Mercury in Gemini or Virgo"
+        },
+        {
+          "dignity": "Exaltation",
+          "score": 4,
+          "description": "Highly respected, amplified influence",
+          "examples": "Sun in Aries, Jupiter in Cancer, Saturn in Libra"
+        },
+        {
+          "dignity": "Triplicity (Elemental Dignity)",
+          "score": 3,
+          "description": "General community support, elemental harmony",
+          "examples": "Sun in any Fire sign, Moon in any Water sign"
+        },
+        {
+          "dignity": "Term (Bounds)",
+          "score": 2,
+          "description": "Local jurisdiction within specific sign degrees"
+        },
+        {
+          "dignity": "Face (Decanate)",
+          "score": 1,
+          "description": "Minimal influence, weakest dignity"
+        },
+        {
+          "dignity": "Peregrine",
+          "score": 0,
+          "description": "No essential dignities, dependent on dispositor"
+        },
+        {
+          "dignity": "Detriment (Exile)",
+          "score": -4,
+          "description": "Conflicted operation, lack of suitable resources",
+          "examples": "Sun in Aquarius, Moon in Capricorn, Mars in Libra"
+        },
+        {
+          "dignity": "Fall",
+          "score": -5,
+          "description": "Depressed function, inherent weakness",
+          "examples": "Sun in Libra, Moon in Scorpio, Saturn in Aries"
+        }
+      ],
+      "dispositor_analysis": {
+        "definition": "Planet that rules the sign occupied by another planet",
+        "process": [
+          "For planet P1, find its dispositor P2 (ruler of P1's sign)",
+          "Find dispositor of P2 (P3)",
+          "Continue until finding a planet that rules itself (is in Domicile) or mutual reception loop closes",
+          "Final Dispositor = planet in Domicile at chain end"
+        ],
+        "interpretation_rules": [
+          "Strong Final Dispositor empowers weak transiting planets",
+          "Weak/non-existent Final Dispositor leads to unfocused, erratic energy",
+          "Dispositor functions as 'funding source' for transit action"
+        ]
+      },
+      "accidental_modifiers": [
+        {
+          "modifier": "Speed/Duration",
+          "conditions": [
+            {
+              "type": "Slow-moving (Saturn, Outer Planets)",
+              "effect": "High impact, governs major long-term life phases"
+            },
+            {
+              "type": "Fast-moving (Moon, Mercury, Venus, Mars)",
+              "effect": "Low impact alone, acts as trigger for slower transits"
+            }
+          ]
+        },
+        {
+          "modifier": "Orb Magnitude",
+          "conditions": [
+            {
+              "type": "Tight (≤1°)",
+              "effect": "Maximum intensity, precise timing"
+            },
+            {
+              "type": "Wide (>3°)",
+              "effect": "Low intensity, diffuse background influence"
+            }
+          ]
+        },
+        {
+          "modifier": "Direction",
+          "conditions": [
+            {
+              "type": "Retrograde",
+              "effect": "Debilitating, internal focus, delays, revisiting issues"
+            }
+          ]
+        },
+        {
+          "modifier": "House Placement",
+          "conditions": [
+            {
+              "type": "Angular (1st, 4th, 7th, 10th)",
+              "effect": "Accidentally strong, visible tangible events"
+            },
+            {
+              "type": "Succedent (2nd, 5th, 8th, 11th)",
+              "effect": "Moderate influence, developing situations"
+            },
+            {
+              "type": "Cadent (3rd, 6th, 9th, 12th)",
+              "effect": "Accidentally weak, internal/preparatory/diminishing"
+            }
+          ]
+        },
+        {
+          "modifier": "Avashta (Functional State)",
+          "conditions": [
+            {
+              "type": "Jagrad (Awake - in dignity)",
+              "effect": "High efficacy, conscious integrated lessons"
+            },
+            {
+              "type": "Svapna (Sleepy - in friendly/neutral sign)",
+              "effect": "Semi-conscious integration"
+            },
+            {
+              "type": "Sushupti (Asleep - in debility)",
+              "effect": "Low efficacy, unconscious, missed opportunities"
+            }
+          ]
+        }
+      ],
+      "synthesis_rules": {
+        "highest_potency_conditions": [
+          "High Essential Score (≥3)",
+          "Slow planetary speed",
+          "Tight orb (≤1°)",
+          "Angular house placement",
+          "Strong Final Dispositor",
+          "Planet in Jagrad (Awake) Avashta state"
+        ],
+        "manifestation_quality_rules": [
+          "High dignity + consciousness → 'Higher octave' archetypal expression",
+          "Low dignity + unconsciousness → 'Shadow side' expression with confusion/collapse"
+        ]
+      }
+    },
+    "key_terms_glossary": {
+      "foundational_terms": {
+        "angles": [
+          "Ascendant (1st)",
+          "IC (4th)",
+          "Descendant (7th)",
+          "MC (10th)"
+        ],
+        "natal": "Relating to birth chart",
+        "radix": "Chart for event (non-birth)",
+        "return": "Planet returns to natal position",
+        "midpoint": "Exact middle point between two planets or angles",
+        "planetary_picture": "Configuration involving midpoints and aspects"
+      },
+      "advanced_points_terms": {
+        "fixed_star": "Luminous star with symbolic meaning",
+        "arabic_part": "Calculated point representing specific life area",
+        "vertex": "Sensitive point of fated encounters",
+        "aries_point": "0° Aries, connection to collective",
+        "uranian_points": "Hypothetical points in Uranian astrology",
+        "centaurs": "Minor planets between Jupiter and Neptune",
+        "tnos": "Trans-Neptunian Objects beyond Pluto"
+      },
+      "archetypal_terms": {
+        "archetype_pair": "Divine couples representing cosmic dualities",
+        "eros": "Point of erotic love and sexual desire",
+        "psyche": "Point of soul connection and psychological intimacy",
+        "lilith": "Point of wild feminine and shadow sexuality",
+        "karma": "Point of karmic lessons and life debts",
+        "moksha": "Point of spiritual liberation",
+        "hecate": "Point of witchcraft and magic",
+        "proserpina": "Point of underworld journeys and initiation"
+      },
+      "timing_terms": {
+        "transit": "Ongoing movement of planets compared to natal positions",
+        "progression": "Symbolic movement of planets (1 day = 1 year)",
+        "solar_return": "Annual return of Sun to natal position",
+        "lunar_return": "Monthly return of Moon to natal position",
+        "eclipse_season": "Periods when eclipses occur",
+        "retrograde": "Apparent backward motion of planet",
+        "station": "Point where planet appears stationary before changing direction"
+      }
+    }
+  }
+}

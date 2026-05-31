@@ -1,0 +1,158 @@
+{
+  "aspect_configurations": [
+    {
+      "name": "Star of David",
+      "pattern_degrees": [
+        60,
+        60,
+        60,
+        60,
+        60,
+        60
+      ],
+      "description": "A configuration formed when two Grand Trines are connected by sextiles, ideally forming a hexagon. Some consider it valid even if the Grand Trines are unconnected.",
+      "interpretations": {
+        "p_globa": "Shows a native protected in all actions but subject to internal reorganizations. The inner essence remains constant despite external adaptation. All-mighty if Selena is included and Lilith is not.",
+        "march_mcevers": "Offers exclusive opportunities and brilliant communication. Danger lies in energy expenditure due to many-sided interests; hard aspects can provide necessary focus."
+      }
+    },
+    {
+      "name": "Wreath (Pentagram)",
+      "pattern_degrees": [
+        72,
+        72,
+        72,
+        72,
+        72
+      ],
+      "description": "Five points connected by quintiles and biquintiles, appearing as a pentagram. In a fifth harmonic chart, these points are in conjunction.",
+      "interpretations": {
+        "p_globa": "Strongest configuration corresponding to the element of Fire. Represents creative regeneration and constant searching. At worst, leads to boredom with innovations, adventurism, and lack of resistance to indulgence."
+      }
+    },
+    {
+      "name": "Grand Square",
+      "pattern_degrees": [
+        90,
+        90,
+        90,
+        90
+      ],
+      "description": "A quadrangular configuration of four squares. A more stable pattern than the Grand Cross if it lacks internal oppositions.",
+      "interpretations": {
+        "general": "Encloses the person in severe constraints. Provides high energy, internal dynamism, and insistence. Stable results are produced through effort.",
+        "p_globa": "The Grand Cross variant is the most clearly operating configuration corresponding to Fire."
+      }
+    },
+    {
+      "name": "Grand Cross",
+      "pattern_degrees": [
+        90,
+        90,
+        90,
+        90
+      ],
+      "description": "A special case of the Grand Square consisting of two pairs of oppositions connected by squares.",
+      "interpretations": {
+        "kozyritskaja_levin": "The native is inflexible and inclined to impose designs on the world, often disregarding external reactions. Confident and only concedes under great pressure.",
+        "march_mcevers": "Capable of surprising effort. Cardinal: speed; Fixed: resoluteness; Mutable: dependent on others' reactions.",
+        "sakoian_acker": "Compels the native to hasten from one crisis to another. Solving one planet's problem burdens the others. Better to work with the planet having the most harmonious external aspects.",
+        "podvodnyj": "A balance of oppositions. Protection is present but high-level/abstract. Success comes from balancing on the 'crest of a wave'."
+      }
+    },
+    {
+      "name": "Kite",
+      "pattern_degrees": [
+        120,
+        120,
+        60,
+        60
+      ],
+      "description": "Formed by a Grand Trine where two points are in sextile to a fourth point (Grand Trine with Bisextile).",
+      "interpretations": {
+        "kozyritskaja_levin": "Provides internal stability and flexibility. Combines the abilities of the Grand Trine with the results-oriented skill of the Bisextile. The opposition 'spine' provides stability but may cause inner discontent.",
+        "march_mcevers": "Risk of excessive concentration on specific parts of the chart at the expense of other opportunities."
+      }
+    },
+    {
+      "name": "Envelope",
+      "pattern_degrees": [
+        72,
+        108,
+        72,
+        108
+      ],
+      "description": "Four points where each is in quintile to one, sesqui-quintile (terdecile) to another, and opposition to a third.",
+      "interpretations": {
+        "p_globa": "Similar to a synthetic rectangle but at a different level. Represents smooth transitions from struggle to freedom and clearing. High capacity for personal initiative and innovation."
+      }
+    },
+    {
+      "name": "Trapeze (Cradle)",
+      "pattern_degrees": [
+        60,
+        60,
+        60,
+        180
+      ],
+      "description": "Four points connected by three sextiles with the first and last points in opposition.",
+      "interpretations": {
+        "p_globa": "Energy is gained through struggle and engagement. Without disorder or restriction, the native cannot create. Choosing and refusing is vital. At worst, foundations can collapse if a situation of protection is chosen without preparation.",
+        "j_negus": "Harmonious configuration indicating aid from the outside that arrives at critical moments."
+      }
+    },
+    {
+      "name": "T-square",
+      "pattern_degrees": [
+        90,
+        90,
+        180
+      ],
+      "description": "Two points in opposition, both in quadrature (square) to a third apex planet.",
+      "interpretations": {
+        "sakoian_acker": "Saturnian character; provides obstacles and the ambition to overcome them. Leads to significant achievements through crisis resolution.",
+        "march_mcevers": "Dynamic strength. Cardinal: instant action; Fixed: slow but resolute; Mutable: indecision and wavering.",
+        "kozyritskaja_levin": "Perceived as clumsy aggressiveness. The native feels an 'emptiness' in the opposite hemisphere and tries to fill it. Transits to the empty zone (the point opposite the apex) often trigger fateful events."
+      }
+    },
+    {
+      "name": "Grand Trine",
+      "pattern_degrees": [
+        120,
+        120,
+        120
+      ],
+      "description": "Three points connected by three trines, usually in the same element.",
+      "interpretations": {
+        "general": "Harmonious and stable. Life vicissitudes are less threatening. However, can lead to inertia or a 'static' character that avoids development.",
+        "sakoian_acker": "If Mars or Saturn are involved, inertia is less likely. Requires conscious effort and spiritual self-improvement to harness, otherwise remains idle.",
+        "kozyritskaja_levin": "Often brings ease in early life, but inner pressure for development arises between ages 24-30. If one point is in opposition to an external planet, it creates a 'Kite' effect and manifests more brightly."
+      }
+    },
+    {
+      "name": "Mystic Rectangle",
+      "pattern_degrees": [
+        60,
+        120,
+        60,
+        120
+      ],
+      "description": "Two opposition aspects woven together by two trines and two sextiles.",
+      "interpretations": {
+        "general": "Flowing aspects reduce the tension of the oppositions. Brings potential solutions and 'good luck'. Exceptional skills in synthesizing different elements into an original package. Results-oriented."
+      }
+    },
+    {
+      "name": "Yod",
+      "pattern_degrees": [
+        150,
+        150,
+        60
+      ],
+      "description": "A sextile between two planets, both of which form a quincunx to an apex planet. Also known as the 'Finger of God'.",
+      "interpretations": {
+        "general": "A crisis of perspective. A dualistic, irresolvable situation requiring clarity. An 'appointment with power'. It requires allowing things to happen rather than forcing them. An opposition to the apex planet forces the issue and demands conscious integration."
+      }
+    }
+  ]
+}
