@@ -1,0 +1,109 @@
+name: Repository Organization - Phase 1 Analysis
+
+on:
+  workflow_dispatch:  # Manual trigger
+  schedule:
+    - cron: '0 2 * * MON'  # Weekly Monday at 2 AM UTC
+
+jobs:
+  analyze-repository:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Create data directory
+        run: mkdir -p data
+      
+      - name: Generate file manifest
+        run: python3 scripts/generate_manifest.py
+      
+      - name: Find duplicates
+        run: python3 scripts/find_duplicates.py
+      
+      - name: Validate JSON files
+        run: python3 scripts/validate_json.py
+      
+      - name: Check references
+        run: python3 scripts/check_references.py
+      
+      - name: Create analysis report
+        run: |
+          cat > data/ANALYSIS_REPORT.md << 'EOF'
+          # Repository Analysis Report
+          
+          Generated: $(date)
+          
+          ## Files Created
+          - file_manifest.json
+          - manifest_statistics.json
+          - deduplication_report.json
+          - json_validation_report.json
+          - reference_check_report.json
+          
+          ## Next Steps
+          1. Review the generated reports in the `data/` directory
+          2. Check DEDUPLICATION_LOG.md for consolidation recommendations
+          3. Proceed with Phase 2: Directory Organization
+          EOF
+      
+      - name: Upload analysis artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: repository-analysis
+          path: data/
+          retention-days: 30
+      
+      - name: Create issue with results
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const manifest = JSON.parse(fs.readFileSync('data/manifest_statistics.json', 'utf8'));
+            const dedup = JSON.parse(fs.readFileSync('data/deduplication_report.json', 'utf8'));
+            const validation = JSON.parse(fs.readFileSync('data/json_validation_report.json', 'utf8'));
+            
+            const body = `# Repository Organization Analysis Complete
+            
+            ## 📊 Statistics
+            - **Total Files**: ${manifest.total_files}
+            - **Total Size**: ${manifest.total_size_mb.toFixed(2)} MB
+            - **File Types**: ${Object.keys(manifest.file_types).length}
+            
+            ## 🔍 Deduplication Findings
+            - **Exact Duplicates**: ${dedup.summary.total_exact_duplicates}
+            - **Copy Variants**: ${dedup.summary.total_copy_variants}
+            - **Numbered Variants**: ${dedup.summary.total_numbered_variants}
+            - **TOTAL TO REMOVE**: ${dedup.summary.estimated_files_to_remove}
+            - **Severity**: ${dedup.summary.severity}
+            
+            ## ✅ JSON Validation
+            - **Valid Files**: ${validation.valid_files}
+            - **Invalid Files**: ${validation.invalid_files}
+            - **Files with Warnings**: ${validation.files_with_warnings}
+            
+            ## 📁 File Type Breakdown
+            ${Object.entries(manifest.file_types)
+              .sort((a, b) => b[1] - a[1])
+              .map(([type, count]) => `- ${type || '(no extension)'}: ${count}`)
+              .join('\n')}
+            
+            ## 🎯 Next Phase
+            Proceed with Phase 2: Directory Organization
+            
+            See attached analysis reports for details.
+            `;
+            
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '[AUTOMATION] Repository Analysis Report - ' + new Date().toLocaleDateString(),
+              body: body,
+              labels: ['documentation', 'organization', 'automated']
+            });
