@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://astroos.dev/schema/hypothesis/v1",
+  "title": "AstroOS Hypothesis Schema v1",
+  "type": "object",
+  "required": ["hypothesis_id", "statement", "status", "created_at"],
+  "properties": {
+    "hypothesis_id": {"type": "string"},
+    "statement": {"type": "string"},
+    "status": {"enum": ["registered", "experimental", "candidate", "validated", "rejected"]},
+    "created_at": {"type": "string", "format": "date-time"},
+    "features": {"type": "array", "items": {"type": "string"}},
+    "metrics": {"type": "object"},
+    "validation": {"type": "object"},
+    "provenance": {"type": "object"}
+  }
+}

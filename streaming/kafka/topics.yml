@@ -1,0 +1,12 @@
+version: 1
+schema_version: "1.0"
+topics:
+  - astroos.chart.requested
+  - astroos.chart.computed
+  - astroos.features.generated
+  - astroos.predictive.generated
+  - astroos.synastry.generated
+  - astroos.financial.generated
+  - astroos.hypothesis.registered
+  - astroos.hypothesis.evaluated
+  - astroos.hypothesis.promoted

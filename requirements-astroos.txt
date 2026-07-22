@@ -1,0 +1,7 @@
+pyswisseph>=2.10.3.2
+jsonschema>=4.23
+pydantic>=2.8
+fastapi>=0.112
+uvicorn[standard]>=0.30
+clickhouse-connect>=0.8
+kafka-python-ng>=2.2
