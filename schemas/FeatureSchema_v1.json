@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://astroos.dev/schema/feature/v1",
+  "title": "AstroOS Feature Schema v1",
+  "type": "object",
+  "required": ["feature_id", "entity_id", "timestamp", "features", "provenance"],
+  "properties": {
+    "feature_id": {"type": "string"},
+    "entity_id": {"type": "string"},
+    "timestamp": {"type": "string", "format": "date-time"},
+    "features": {"type": "object"},
+    "provenance": {"type": "object"}
+  }
+}
