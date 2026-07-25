@@ -1,15 +1,3 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://astroos.dev/schema/event/v1",
-  "title": "AstroOS Event Schema v1",
-  "type": "object",
-  "required": ["event_id", "event_type", "timestamp", "payload"],
-  "properties": {
-    "event_id": {"type": "string"},
-    "event_type": {"type": "string"},
-    "schema_version": {"const": "1.0"},
-    "timestamp": {"type": "string", "format": "date-time"},
-    "source": {"type": "string"},
-    "payload": {"type": "object"}
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd777a4ca3255ad0fda4b0fd923a58dfa647acb5c8b55e7ed9f1949ab24e7013
+size 501

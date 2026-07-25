@@ -1,14 +1,3 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://astroos.dev/schema/feature/v1",
-  "title": "AstroOS Feature Schema v1",
-  "type": "object",
-  "required": ["feature_id", "entity_id", "timestamp", "features", "provenance"],
-  "properties": {
-    "feature_id": {"type": "string"},
-    "entity_id": {"type": "string"},
-    "timestamp": {"type": "string", "format": "date-time"},
-    "features": {"type": "object"},
-    "provenance": {"type": "object"}
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:79dc1c4d4e61a1d2a7b41ade567386c77b649a4d1049fb4814f9ffa3a917c970
+size 487
