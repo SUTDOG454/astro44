@@ -2,6 +2,8 @@
 from dataclasses import dataclass
 from datetime import datetime,timezone
 import csv,io
+
+from astroos.analytics import posthog_client
 @dataclass(frozen=True)
 class FinancialRecord:
     symbol:str; timestamp:datetime; open:float; high:float; low:float; close:float; volume:float; source:str
@@ -11,6 +13,16 @@ def parse_ohlcv_csv(text,source='csv'):
     for r in csv.DictReader(io.StringIO(text)):
         ts=datetime.fromisoformat(r['timestamp'].replace('Z','+00:00')).astimezone(timezone.utc)
         out.append(FinancialRecord(r['symbol'],ts,float(r['open']),float(r['high']),float(r['low']),float(r['close']),float(r.get('volume',0)),source))
+    if posthog_client is not None:
+        posthog_client.capture(
+            "financial_data_ingested",
+            distinct_id="$astroos_system",
+            properties={
+                "record_count": len(out),
+                "source": source,
+                "$process_person_profile": False,
+            },
+        )
     return out
 
 def normalize_economic_event(event):

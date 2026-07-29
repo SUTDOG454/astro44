@@ -4,6 +4,8 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Any
 
+from astroos.analytics import posthog_client
+
 
 @dataclass(frozen=True)
 class PipelineConfig:
@@ -42,4 +44,18 @@ class AstroOSPipeline:
             engine = self.engines.get(name)
             if engine is not None:
                 features[name] = engine.compute(chart, config)
+        if posthog_client is not None:
+            posthog_client.capture(
+                "pipeline_run",
+                distinct_id="$astroos_system",
+                properties={
+                    "zodiac": config.zodiac,
+                    "house_system": config.house_system,
+                    "coordinate_system": config.coordinate_system,
+                    "aspect_set": config.aspect_set,
+                    "engines_run": list(features.keys()),
+                    "engine_count": len(features),
+                    "$process_person_profile": False,
+                },
+            )
         return PipelineResult(chart=chart, features=features)
