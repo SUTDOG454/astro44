@@ -7,6 +7,8 @@ services:
       ASTROOS_SCHEMA_VERSION: "3.0"
       CLICKHOUSE_HOST: clickhouse
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
+      POSTHOG_PROJECT_TOKEN: phc_vfXU3Lwe2HYabFgn8BCpZf8WeUceZizs9NSyz625imD6
+      POSTHOG_HOST: https://us.i.posthog.com
     depends_on:
       - kafka
       - clickhouse
