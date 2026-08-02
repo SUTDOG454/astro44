@@ -1,6 +1,8 @@
 """Research-grade statistical controls for hypothesis evaluation."""
 import random,math
 
+from astroos.analytics import posthog_client
+
 def benjamini_hochberg(pvalues,q=.05):
     order=sorted(range(len(pvalues)),key=lambda i:pvalues[i]); m=len(pvalues); cutoff=None
     for rank,i in enumerate(order,1):
@@ -11,7 +13,20 @@ def permutation_test(x,y,iterations=2000,seed=42):
     rng=random.Random(seed); observed=abs(sum(x)/len(x)-sum(y)/len(y)); pooled=x+y; n=len(x); count=0
     for _ in range(iterations):
         rng.shuffle(pooled); count += abs(sum(pooled[:n])/n-sum(pooled[n:])/len(y))>=observed
-    return {'observed':observed,'p_value':(count+1)/(iterations+1),'iterations':iterations,'seed':seed}
+    result = {'observed':observed,'p_value':(count+1)/(iterations+1),'iterations':iterations,'seed':seed}
+    if posthog_client is not None:
+        posthog_client.capture(
+            "permutation_test_run",
+            distinct_id="$astroos_system",
+            properties={
+                "p_value": result["p_value"],
+                "iterations": result["iterations"],
+                "sample_size_x": len(x),
+                "sample_size_y": len(y),
+                "$process_person_profile": False,
+            },
+        )
+    return result
 
 def bootstrap_mean(values,iterations=2000,seed=42):
     rng=random.Random(seed); n=len(values); means=[]

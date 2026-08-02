@@ -9,6 +9,8 @@ try:
 except ImportError:  # pragma: no cover
     swe = None
 
+from astroos.analytics import posthog_client
+
 
 @dataclass(frozen=True)
 class EphemerisConfig:
@@ -63,4 +65,15 @@ class SwissEphemerisAdapter:
                 "declination": None,
                 "calculation_flags": int(flags),
             })
+        if posthog_client is not None:
+            posthog_client.capture(
+                "chart_calculated",
+                distinct_id="$astroos_system",
+                properties={
+                    "object_count": len(results),
+                    "flags": self.config.flags,
+                    "retrograde_count": sum(1 for r in results if r["retrograde"]),
+                    "$process_person_profile": False,
+                },
+            )
         return results

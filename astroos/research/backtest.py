@@ -2,6 +2,8 @@
 from dataclasses import dataclass
 import math
 
+from astroos.analytics import posthog_client
+
 @dataclass
 class BacktestResult:
     folds:list; aggregate:dict
@@ -24,4 +26,17 @@ def run_walk_forward(dataset,trainer,predictor,train_size,test_size):
     results=[]
     for train,test in walk_forward(dataset,train_size,test_size):
         model=trainer(train); results.append(evaluate_predictions([x[1] for x in test],[predictor(model,x[0]) for x in test]))
-    return BacktestResult(results,{'folds':len(results),'mean_mae':sum(x['mae'] for x in results)/len(results) if results else None})
+    aggregate = {'folds': len(results), 'mean_mae': sum(x['mae'] for x in results) / len(results) if results else None}
+    if posthog_client is not None:
+        posthog_client.capture(
+            "backtest_completed",
+            distinct_id="$astroos_system",
+            properties={
+                "fold_count": aggregate["folds"],
+                "mean_mae": aggregate["mean_mae"],
+                "train_size": train_size,
+                "test_size": test_size,
+                "$process_person_profile": False,
+            },
+        )
+    return BacktestResult(results, aggregate)
